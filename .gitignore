@@ -1,0 +1,8 @@
+credentials_global_family.json
+data/raw/
+__pycache__/
+*.pyc
+.env
+logs/
+*.xlsx
+pipeline/__pycache__/

@@ -1,0 +1,6 @@
+tramo_aging,monto,n_facturas,pct_total,seccion
+1-30,379803399,156,0.3044,aging_total
+31-60,144564971,54,0.1159,aging_total
+61-90,53575661,32,0.0429,aging_total
+>90,31082617,21,0.0249,aging_total
+corriente,638596549,248,0.5119,aging_total

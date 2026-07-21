@@ -1,0 +1,265 @@
+anio_mes,tipo,valor,n
+2025-10,Nomina,14679909.0,4
+2025-10,Arriendos,5287000.0,2
+2025-10,Insumos Bodega,2622550.0,4
+2025-10,Planilla salud y pensión,2399000.0,1
+2025-10,Viáticos Logística,1469500.0,6
+2025-10,Comisiones a Vendedores,1310690.0,3
+2025-10,Viáticos Vendedores,1253000.0,2
+2025-10,Gastos Camión TJB331,1236100.0,4
+2025-10,Autorretención,1085000.0,1
+2025-10,Gasolina,820584.0,1
+2025-10,Servicios Públicos,577800.0,1
+2025-10,Viáticos Viajes Armenia,347500.0,1
+2025-10,Seguridad Privada,210000.0,1
+2025-10,4 x mil,114925.0,1
+2025-10,Varios,91500.0,3
+2025-10,Servicio Pago a Otros Bancos,58400.0,1
+2025-10,Plan de Datos,35900.0,1
+2025-10,Fletes Locales,20000.0,1
+2025-10,Servicio Pago de Nómina,19500.0,1
+2025-10,Servicio Pago a Proveedores,11700.0,1
+2025-10,Servicio Transferencia Virtual,7300.0,1
+2025-11,Nomina,26488200.0,4
+2025-11,Arriendos,9670000.0,4
+2025-11,Viáticos Logística,4614500.0,18
+2025-11,Planilla salud y pensión,4400400.0,2
+2025-11,Comisiones a Vendedores,2767004.0,5
+2025-11,Viáticos Vendedores,2496000.0,3
+2025-11,Equipos de Oficina,1666600.0,1
+2025-11,Servicios Públicos,1323250.0,2
+2025-11,Autorretención,1205000.0,1
+2025-11,Gasolina,1035486.0,1
+2025-11,Varios,804300.0,12
+2025-11,4 x mil,719982.0,1
+2025-11,Insumos Bodega,592600.0,6
+2025-11,Viáticos Viajes Armenia,589000.0,4
+2025-11,Dotación,573000.0,1
+2025-11,Relaciones Públicas,455000.0,1
+2025-11,Insumos Oficina,408100.0,3
+2025-11,Gastos Camión TJB331,364600.0,6
+2025-11,Servicio Pago a Otros Bancos,116800.0,1
+2025-11,Servicio Pago a Proveedores,50700.0,1
+2025-11,Servicio Pago de Nómina,31200.0,1
+2025-11,Fletes Nacionales,22000.0,1
+2025-11,Servicios Pago a Nequi,15600.0,1
+2025-11,Servicio Transferencia Virtual,7300.0,1
+2025-12,Nomina,30651638.0,6
+2025-12,Arriendos,9670000.0,4
+2025-12,Planilla salud y pensión,4375900.0,1
+2025-12,Comisiones a Vendedores,2335885.0,4
+2025-12,Viáticos Logística,2263900.0,14
+2025-12,Bono Navidad,1800000.0,1
+2025-12,Gastos Camión SQD932,1500000.0,3
+2025-12,Servicios Públicos,1460950.0,3
+2025-12,Autorretención,1181000.0,1
+2025-12,Gasolina,1105151.0,2
+2025-12,Viáticos Viajes Armenia,1055500.0,11
+2025-12,Varios,982000.0,2
+2025-12,4 x mil,973803.0,1
+2025-12,Comisión Consignaciones CB,791120.0,1
+2025-12,Gastos Camión TJB331,711177.0,4
+2025-12,Insumos Bodega,672700.0,3
+2025-12,Relaciones Públicas,455000.0,1
+2025-12,Publicidad,382000.0,2
+2025-12,Viáticos Vendedores,302000.0,1
+2025-12,Adecuaciones Bodega,300000.0,1
+2025-12,Dotación,277000.0,1
+2025-12,Fletes Nacionales,180700.0,3
+2025-12,Insumos Oficina,133550.0,2
+2025-12,Servicio Pago a Proveedores,109200.0,1
+2025-12,Servicio Pago de Nómina,70200.0,1
+2025-12,Servicio Pago a Otros Bancos,65700.0,1
+2025-12,Plan de Datos,36100.0,1
+2025-12,Servicios Pago a Nequi,11700.0,1
+2025-12,Servicio Transferencia Virtual,7300.0,1
+2026-01,Nomina,30241330.0,5
+2026-01,Arriendos,9670000.0,4
+2026-01,Insumos Bodega,5459100.0,7
+2026-01,Planilla salud y pensión,5285400.0,1
+2026-01,Fletes Nacionales,5168853.0,8
+2026-01,Intereses,5000000.0,1
+2026-01,Gastos Camión SQD932,4823000.0,1
+2026-01,Comisiones a Vendedores,3897492.0,7
+2026-01,Adecuaciones Bodega,3705650.0,1
+2026-01,Viáticos Vendedores,3041180.0,5
+2026-01,Autorretención,2639000.0,1
+2026-01,4 x mil,1877191.0,1
+2026-01,Viáticos Viajes Armenia,1502000.0,4
+2026-01,Contabilidad,1500000.0,1
+2026-01,Servicios Públicos,1179750.0,3
+2026-01,Viáticos Logística,998800.0,10
+2026-01,Gasolina,993146.0,1
+2026-01,Comisión Consignaciones CB,810120.0,1
+2026-01,Varios,652502.0,8
+2026-01,Gastos Camión TJB331,555681.0,4
+2026-01,Plan de Datos,123850.0,3
+2026-01,Servicio Pago a Proveedores,99750.0,1
+2026-01,Servicio Pago de Nómina,71820.0,1
+2026-01,Insumos Oficina,50050.0,2
+2026-01,Cuota de Manejo,44700.0,1
+2026-01,Servicio Pago a Otros Bancos,37950.0,1
+2026-01,Aseo,19150.0,1
+2026-01,Servicios Pago a Nequi,7980.0,1
+2026-02,Nomina,31419665.0,7
+2026-02,Arriendos,9670000.0,4
+2026-02,Viáticos Logística,5767100.0,16
+2026-02,Adecuaciones Bodega,5290214.0,9
+2026-02,Planilla salud y pensión,5276600.0,1
+2026-02,Intereses,5000000.0,1
+2026-02,Cesantias,4413579.0,1
+2026-02,Viáticos Vendedores,2863651.0,10
+2026-02,Comisiones a Vendedores,2804291.0,6
+2026-02,Autorretención,2693000.0,1
+2026-02,Varios,2137860.0,16
+2026-02,4 x mil,1685412.0,1
+2026-02,Contabilidad,1500000.0,1
+2026-02,Viáticos Viajes Armenia,1464624.0,10
+2026-02,Servicios Públicos,1225400.0,3
+2026-02,Gasolina,1141515.0,1
+2026-02,Fletes Nacionales,918350.0,7
+2026-02,Gastos Camión SQD932,888400.0,1
+2026-02,Comisión Consignaciones CB,819540.0,1
+2026-02,Dotación,590000.0,2
+2026-02,Gastos Camión TJB331,385281.0,3
+2026-02,Insumos Bodega,316860.0,3
+2026-02,Insumos Oficina,155400.0,1
+2026-02,Comisiones Swift,126686.0,1
+2026-02,Servicio Pago a Proveedores,83790.0,1
+2026-02,Plan de Datos,77600.0,2
+2026-02,Servicio Pago de Nómina,71820.0,1
+2026-02,Cuota de Manejo,44700.0,1
+2026-02,Fletes Locales,28650.0,1
+2026-02,Servicio Pago a Otros Bancos,15180.0,1
+2026-02,Servicios Pago a Nequi,7980.0,1
+2026-02,Servicio Transferencia Virtual,7590.0,1
+2026-03,Nomina,33422119.0,8
+2026-03,Arriendos,9670000.0,4
+2026-03,Planilla salud y pensión,5699400.0,1
+2026-03,Intereses,5000000.0,1
+2026-03,Comisiones a Vendedores,4545557.0,8
+2026-03,Viajes Panamá,3321800.0,5
+2026-03,Autorretención,3235000.0,1
+2026-03,Fletes Nacionales,2807900.0,9
+2026-03,Viáticos Logística,2772200.0,17
+2026-03,Viáticos Vendedores,2720400.0,5
+2026-03,Publicidad,2100000.0,1
+2026-03,Varios,2025750.0,7
+2026-03,4 x mil,1837467.0,1
+2026-03,Insumos Bodega,1756000.0,3
+2026-03,Viáticos Viajes Armenia,1722131.0,7
+2026-03,Contabilidad,1500000.0,1
+2026-03,Adecuaciones Bodega,1244800.0,4
+2026-03,Gasolina,1240692.0,1
+2026-03,Servicios Públicos,1176100.0,3
+2026-03,Comisión Consignaciones CB,810120.0,1
+2026-03,Insumos Oficina,433484.0,3
+2026-03,Gastos Camión TJB331,398778.0,4
+2026-03,Descuentos por Actividades,153545.0,1
+2026-03,Comisiones Swift,130031.0,1
+2026-03,Dotación,90000.0,1
+2026-03,Servicio Pago a Proveedores,87780.0,1
+2026-03,Fletes Locales,80000.0,1
+2026-03,Servicio Pago de Nómina,71820.0,1
+2026-03,Cuota de Manejo,44700.0,1
+2026-03,Plan de Datos,39900.0,1
+2026-03,Servicio Pago a Otros Bancos,30360.0,1
+2026-03,Servicios Pago a Nequi,23940.0,1
+2026-03,Servicio Transferencia Virtual,7590.0,1
+2026-04,Nomina,32328716.0,7
+2026-04,Arriendos,9670000.0,4
+2026-04,Viajes China,6287740.0,2
+2026-04,Planilla salud y pensión,5266900.0,1
+2026-04,Intereses,5000000.0,1
+2026-04,Comisiones a Vendedores,4019875.0,8
+2026-04,Autorretención,3358000.0,1
+2026-04,Fletes Nacionales,2820900.0,11
+2026-04,Viáticos Logística,2114450.0,16
+2026-04,4 x mil,2101257.0,1
+2026-04,Gasolina,1509553.0,1
+2026-04,Contabilidad,1500000.0,1
+2026-04,Adecuaciones Bodega,1388000.0,6
+2026-04,Gastos Camión SQD932,1257000.0,1
+2026-04,Servicios Públicos,1085350.0,3
+2026-04,Comisión Consignaciones CB,894900.0,1
+2026-04,Viáticos Vendedores,777990.0,10
+2026-04,Gastos Camión TJB331,761746.0,5
+2026-04,Viáticos Viajes Armenia,757000.0,5
+2026-04,Varios,417800.0,9
+2026-04,Insumos Bodega,140000.0,1
+2026-04,Servicio Pago a Proveedores,127680.0,1
+2026-04,Insumos Oficina,88800.0,2
+2026-04,Fletes Locales,60000.0,1
+2026-04,Cuota de Manejo,44700.0,1
+2026-04,Plan de Datos,39900.0,1
+2026-04,Servicio Pago de Nómina,35910.0,1
+2026-04,Servicios Pago a Nequi,11970.0,1
+2026-04,Aseo,9900.0,1
+2026-04,Servicio Pago a Otros Bancos,7590.0,1
+2026-04,Servicio Transferencia Virtual,7590.0,1
+2026-05,Nomina,32284194.0,4
+2026-05,Arriendos,9670000.0,4
+2026-05,Viáticos Logística,5941900.0,19
+2026-05,Planilla salud y pensión,5704200.0,1
+2026-05,Intereses,5000000.0,1
+2026-05,Gastos Camión SQD932,3680000.0,4
+2026-05,Comisiones a Vendedores,3427389.0,6
+2026-05,Impuesto Ica,3155000.0,1
+2026-05,Autorretención,2434000.0,1
+2026-05,Viáticos Vendedores,2234333.0,16
+2026-05,Fletes Nacionales,2168500.0,7
+2026-05,4 x mil,2111607.0,1
+2026-05,Contabilidad,1500000.0,1
+2026-05,Viajes China,1352096.0,3
+2026-05,Viáticos Viajes Armenia,1334798.0,6
+2026-05,Gasolina,1306026.0,1
+2026-05,Comisión Consignaciones CB,1111560.0,1
+2026-05,Servicios Públicos,568995.0,2
+2026-05,Impuesto Renta,528000.0,1
+2026-05,Registros Marca,404084.0,1
+2026-05,Varios,344781.0,6
+2026-05,Descuentos por Actividades,238741.0,1
+2026-05,Gastos Camión TJB331,144681.0,4
+2026-05,Insumos Bodega,139000.0,1
+2026-05,Comisiones Swift,131027.0,1
+2026-05,Servicio Pago a Proveedores,107730.0,1
+2026-05,Dotación,76000.0,1
+2026-05,Servicio Pago de Nómina,75810.0,1
+2026-05,Cuota de Manejo,44700.0,1
+2026-05,Insumos Oficina,44700.0,1
+2026-05,Fletes Locales,38700.0,1
+2026-05,Servicio Pago a Otros Bancos,22770.0,1
+2026-05,Servicios Pago a Nequi,11970.0,1
+2026-05,Servicio Transferencia Virtual,7590.0,1
+2026-06,Nomina,45312884.0,6
+2026-06,Arriendos,10056800.0,4
+2026-06,Intereses,6000000.0,2
+2026-06,Viajes China,5773000.0,1
+2026-06,Planilla salud y pensión,5546700.0,1
+2026-06,Autorretención,3393000.0,1
+2026-06,Registros Marca,2695676.0,1
+2026-06,4 x mil,2003007.0,1
+2026-06,Comisiones a Vendedores,1820457.0,3
+2026-06,Viáticos Logística,1764300.0,10
+2026-06,Contabilidad,1500000.0,1
+2026-06,Gasolina,1475677.0,1
+2026-06,Gastos Camión SQD932,1337000.0,3
+2026-06,Gastos Camión TJB331,1273400.0,5
+2026-06,Fletes Nacionales,1030000.0,3
+2026-06,Viáticos Vendedores,905250.0,4
+2026-06,Dotación,896400.0,3
+2026-06,Viáticos Viajes Armenia,776600.0,4
+2026-06,Varios,747100.0,8
+2026-06,Insumos Bodega,734950.0,4
+2026-06,Comisión Consignaciones CB,640560.0,1
+2026-06,Servicios Públicos,569081.0,2
+2026-06,Comisiones Swift,122864.0,1
+2026-06,Servicio Pago a Proveedores,99750.0,1
+2026-06,Servicio Pago de Nómina,75810.0,1
+2026-06,Cuota de Manejo,53640.0,1
+2026-06,Plan de Datos,39900.0,1
+2026-06,Servicios Pago a Nequi,15960.0,1
+2026-06,Servicio Pago a Otros Bancos,15180.0,1
+2026-06,Servicio Transferencia Virtual,7590.0,1
+2026-07,Arriendos,5221800.0,2
+2026-07,Viáticos Vendedores,372690.0,1

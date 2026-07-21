@@ -1,0 +1,22 @@
+num_factura,cliente,saldo_pendiente,dias_vencido,fecha_limite_pago,seccion
+336.0,Maria Lola Tabares Ramirez,14964900,118,2026-03-25,alerta_vencidas_>90d
+851.0,Carolina Martinez Zuluaga,7398000,96,2026-04-16,alerta_vencidas_>90d
+130.0,Jose Rubelio Castano Mejia,3000000,199,2026-01-03,alerta_vencidas_>90d
+631.0,Maria Lola Tabares Ramirez,2161600,125,2026-03-18,alerta_vencidas_>90d
+405.0,Inversiones Thunder Baby SAS,764592,92,2026-04-20,alerta_vencidas_>90d
+755.0,Hector Fabio Uribe Cano,694000,92,2026-04-20,alerta_vencidas_>90d
+901.0,Eidelber Orrego Ospina,467900,92,2026-04-20,alerta_vencidas_>90d
+87.0,Isabel Cristina Cisneros Moreno,464600,215,2025-12-18,alerta_vencidas_>90d
+404.0,Elian Mauricio Aguirre Osorio,379200,92,2026-04-20,alerta_vencidas_>90d
+1010.0,Hector Fabio Uribe Cano,290800,92,2026-04-20,alerta_vencidas_>90d
+587.0,Luis Fabian Rojas Calderon,128000,99,2026-04-13,alerta_vencidas_>90d
+582.0,Pañalera Y Distribuidora Don Juan SAS,123400,99,2026-04-13,alerta_vencidas_>90d
+250.0,Elisabeth Mayerly Vasquez Olarte,61000,144,2026-02-27,alerta_vencidas_>90d
+702.0,Pañalera Deymar Sleyder SAS,51349,114,2026-03-29,alerta_vencidas_>90d
+392.0,Martha Ligia Murillo Montoya,50350,150,2026-02-21,alerta_vencidas_>90d
+379.0,Anita Alvarez Diaz,40000,154,2026-02-17,alerta_vencidas_>90d
+395.0,Tulia Ines Cardenas Quiroga,22350,149,2026-02-22,alerta_vencidas_>90d
+402.0,Samuel Oviedo Quimbayo,12179,93,2026-04-19,alerta_vencidas_>90d
+382.0,Millarlandy Diaz Cordoba,3800,101,2026-04-11,alerta_vencidas_>90d
+300.0,Unibabys SAS,2997,127,2026-03-16,alerta_vencidas_>90d
+541.0,Fantasias Y Variedades Yuly SAS,1600,155,2026-02-16,alerta_vencidas_>90d

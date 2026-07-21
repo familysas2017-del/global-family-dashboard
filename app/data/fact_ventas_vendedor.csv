@@ -1,0 +1,161 @@
+vendedor,mes,anio,anio_mes,categoria_venta,tipo_documento,monto_cop
+Jaime,10,2025,2025-10,Aseo,Electronica,78165750.0
+Jaime,10,2025,2025-10,Aseo,Remisiones,43640600.0
+James,10,2025,2025-10,Aseo,Electronica,23254850.0
+James,10,2025,2025-10,Aseo,Remisiones,57935900.0
+Jhon,10,2025,2025-10,Aseo,Electronica,6985800.0
+Jhon,10,2025,2025-10,Aseo,Remisiones,10901000.0
+Jaime,10,2025,2025-10,Importados y Varios,Electronica,33037600.0
+Jaime,10,2025,2025-10,Importados y Varios,Remisiones,10518200.0
+James,10,2025,2025-10,Importados y Varios,Electronica,26864050.0
+James,10,2025,2025-10,Importados y Varios,Remisiones,36366800.0
+Jhon,10,2025,2025-10,Importados y Varios,Electronica,42749750.0
+Jhon,10,2025,2025-10,Importados y Varios,Remisiones,4114050.0
+Jaime,11,2025,2025-11,Aseo,Electronica,54319650.0
+Jaime,11,2025,2025-11,Aseo,Remisiones,86702950.0
+James,11,2025,2025-11,Aseo,Electronica,40699100.0
+James,11,2025,2025-11,Aseo,Remisiones,107832850.0
+Jhon,11,2025,2025-11,Aseo,Electronica,12419200.0
+Jhon,11,2025,2025-11,Aseo,Remisiones,23702450.0
+Botero,11,2025,2025-11,Aseo,Electronica,10169860.0
+Eugenia,11,2025,2025-11,Aseo,Remisiones,59700.0
+Jaime,11,2025,2025-11,Importados y Varios,Electronica,46962500.0
+Jaime,11,2025,2025-11,Importados y Varios,Remisiones,34000000.0
+James,11,2025,2025-11,Importados y Varios,Electronica,21191400.0
+James,11,2025,2025-11,Importados y Varios,Remisiones,57532150.0
+Jhon,11,2025,2025-11,Importados y Varios,Electronica,60087250.0
+Jhon,11,2025,2025-11,Importados y Varios,Remisiones,48424400.0
+Eugenia,11,2025,2025-11,Importados y Varios,Remisiones,423000.0
+Jaime,12,2025,2025-12,Aseo,Electronica,110478996.0
+Jaime,12,2025,2025-12,Aseo,Remisiones,100857650.0
+James,12,2025,2025-12,Aseo,Electronica,34547700.0
+James,12,2025,2025-12,Aseo,Remisiones,65063150.0
+Jhon,12,2025,2025-12,Aseo,Electronica,28543350.0
+Jhon,12,2025,2025-12,Aseo,Remisiones,12002250.0
+Botero,12,2025,2025-12,Aseo,Electronica,4868640.0
+Botero,12,2025,2025-12,Aseo,Remisiones,13147836.0
+Eugenia,12,2025,2025-12,Aseo,Electronica,11827960.0
+Eugenia,12,2025,2025-12,Aseo,Remisiones,2885250.0
+Jaime,12,2025,2025-12,Importados y Varios,Electronica,18905200.0
+Jaime,12,2025,2025-12,Importados y Varios,Remisiones,25900050.0
+James,12,2025,2025-12,Importados y Varios,Electronica,9037450.0
+James,12,2025,2025-12,Importados y Varios,Remisiones,48242500.0
+Jhon,12,2025,2025-12,Importados y Varios,Electronica,26732450.0
+Jhon,12,2025,2025-12,Importados y Varios,Remisiones,32473000.0
+Botero,12,2025,2025-12,Importados y Varios,Electronica,12062150.0
+Botero,12,2025,2025-12,Importados y Varios,Remisiones,1091400.0
+Eugenia,12,2025,2025-12,Importados y Varios,Electronica,1406650.0
+Eugenia,12,2025,2025-12,Importados y Varios,Remisiones,1346255.0
+Jaime,1,2026,2026-01,Aseo,Electronica,218537500.0
+Jaime,1,2026,2026-01,Aseo,Remisiones,39412850.0
+James,1,2026,2026-01,Aseo,Electronica,108806100.0
+James,1,2026,2026-01,Aseo,Remisiones,43025700.0
+Jhon,1,2026,2026-01,Aseo,Electronica,51049550.0
+Jhon,1,2026,2026-01,Aseo,Remisiones,3591850.0
+Botero,1,2026,2026-01,Aseo,Electronica,33245488.0
+Eugenia,1,2026,2026-01,Aseo,Electronica,8358480.0
+Eugenia,1,2026,2026-01,Aseo,Remisiones,1778550.0
+Jaime,1,2026,2026-01,Importados y Varios,Electronica,27516000.0
+Jaime,1,2026,2026-01,Importados y Varios,Remisiones,31879000.0
+James,1,2026,2026-01,Importados y Varios,Electronica,28792950.0
+James,1,2026,2026-01,Importados y Varios,Remisiones,42828400.0
+Jhon,1,2026,2026-01,Importados y Varios,Electronica,41447300.0
+Jhon,1,2026,2026-01,Importados y Varios,Remisiones,33681500.0
+Botero,1,2026,2026-01,Importados y Varios,Electronica,38857328.0
+Botero,1,2026,2026-01,Importados y Varios,Remisiones,8635000.0
+Eugenia,1,2026,2026-01,Importados y Varios,Electronica,3034600.0
+Eugenia,1,2026,2026-01,Importados y Varios,Remisiones,527849.0
+Jaime,2,2026,2026-02,Aseo,Electronica,170403300.0
+Jaime,2,2026,2026-02,Aseo,Remisiones,11796150.0
+James,2,2026,2026-02,Aseo,Electronica,79850298.0
+James,2,2026,2026-02,Aseo,Remisiones,20649300.0
+Jhon,2,2026,2026-02,Aseo,Electronica,62662300.0
+Jhon,2,2026,2026-02,Aseo,Remisiones,6925300.0
+Botero,2,2026,2026-02,Aseo,Electronica,16499520.0
+Eugenia,2,2026,2026-02,Aseo,Electronica,51228680.0
+Eugenia,2,2026,2026-02,Aseo,Remisiones,204100.0
+Jaime,2,2026,2026-02,Importados y Varios,Electronica,103642000.0
+Jaime,2,2026,2026-02,Importados y Varios,Remisiones,23306900.0
+James,2,2026,2026-02,Importados y Varios,Electronica,22110950.0
+James,2,2026,2026-02,Importados y Varios,Remisiones,34370450.0
+Jhon,2,2026,2026-02,Importados y Varios,Electronica,42302350.0
+Jhon,2,2026,2026-02,Importados y Varios,Remisiones,32094100.0
+Botero,2,2026,2026-02,Importados y Varios,Electronica,21574052.0
+Botero,2,2026,2026-02,Importados y Varios,Remisiones,21797950.0
+Eugenia,2,2026,2026-02,Importados y Varios,Electronica,12481500.0
+Eugenia,2,2026,2026-02,Importados y Varios,Remisiones,34652500.0
+Jaime,3,2026,2026-03,Aseo,Electronica,248050350.0
+Jaime,3,2026,2026-03,Aseo,Remisiones,7270000.0
+James,3,2026,2026-03,Aseo,Electronica,132433400.0
+James,3,2026,2026-03,Aseo,Remisiones,18107750.0
+Jhon,3,2026,2026-03,Aseo,Electronica,47653100.0
+Jhon,3,2026,2026-03,Aseo,Remisiones,5453450.0
+Botero,3,2026,2026-03,Aseo,Electronica,28554280.0
+Botero,3,2026,2026-03,Aseo,Remisiones,4800000.0
+Eugenia,3,2026,2026-03,Aseo,Electronica,40784700.0
+Eugenia,3,2026,2026-03,Aseo,Remisiones,405400.0
+Jaime,3,2026,2026-03,Importados y Varios,Electronica,71071600.0
+Jaime,3,2026,2026-03,Importados y Varios,Remisiones,44992900.0
+James,3,2026,2026-03,Importados y Varios,Electronica,49767150.0
+James,3,2026,2026-03,Importados y Varios,Remisiones,51763750.0
+Jhon,3,2026,2026-03,Importados y Varios,Electronica,70660850.0
+Jhon,3,2026,2026-03,Importados y Varios,Remisiones,54741550.0
+Botero,3,2026,2026-03,Importados y Varios,Electronica,25120717.0
+Botero,3,2026,2026-03,Importados y Varios,Remisiones,49000.0
+Eugenia,3,2026,2026-03,Importados y Varios,Electronica,173600.0
+Eugenia,3,2026,2026-03,Importados y Varios,Remisiones,8697300.0
+Jaime,4,2026,2026-04,Aseo,Electronica,241918050.0
+Jaime,4,2026,2026-04,Aseo,Remisiones,118800.0
+James,4,2026,2026-04,Aseo,Electronica,140158720.0
+James,4,2026,2026-04,Aseo,Remisiones,15446850.0
+Jhon,4,2026,2026-04,Aseo,Electronica,51457050.0
+Jhon,4,2026,2026-04,Aseo,Remisiones,8674600.0
+Botero,4,2026,2026-04,Aseo,Electronica,28442040.0
+Eugenia,4,2026,2026-04,Aseo,Electronica,19934980.0
+Eugenia,4,2026,2026-04,Aseo,Remisiones,581900.0
+Jaime,4,2026,2026-04,Importados y Varios,Electronica,60313650.0
+Jaime,4,2026,2026-04,Importados y Varios,Remisiones,37632150.0
+James,4,2026,2026-04,Importados y Varios,Electronica,39633500.0
+James,4,2026,2026-04,Importados y Varios,Remisiones,75861450.0
+Jhon,4,2026,2026-04,Importados y Varios,Electronica,55897650.0
+Jhon,4,2026,2026-04,Importados y Varios,Remisiones,33122400.0
+Botero,4,2026,2026-04,Importados y Varios,Electronica,19724635.0
+Botero,4,2026,2026-04,Importados y Varios,Remisiones,289800.0
+Eugenia,4,2026,2026-04,Importados y Varios,Electronica,69095850.0
+Eugenia,4,2026,2026-04,Importados y Varios,Remisiones,7337600.0
+Jaime,5,2026,2026-05,Aseo,Electronica,122567550.0
+Jaime,5,2026,2026-05,Aseo,Remisiones,372550.0
+James,5,2026,2026-05,Aseo,Electronica,92152900.0
+James,5,2026,2026-05,Aseo,Remisiones,7988700.0
+Jhon,5,2026,2026-05,Aseo,Electronica,68607400.0
+Jhon,5,2026,2026-05,Aseo,Remisiones,10419200.0
+Botero,5,2026,2026-05,Aseo,Electronica,7911800.0
+Eugenia,5,2026,2026-05,Aseo,Electronica,62431250.0
+Eugenia,5,2026,2026-05,Aseo,Remisiones,535100.0
+Jaime,5,2026,2026-05,Importados y Varios,Electronica,31018250.0
+Jaime,5,2026,2026-05,Importados y Varios,Remisiones,30272300.0
+James,5,2026,2026-05,Importados y Varios,Electronica,14082750.0
+James,5,2026,2026-05,Importados y Varios,Remisiones,31454650.0
+Jhon,5,2026,2026-05,Importados y Varios,Electronica,103688750.0
+Jhon,5,2026,2026-05,Importados y Varios,Remisiones,62586250.0
+Botero,5,2026,2026-05,Importados y Varios,Electronica,5698934.0
+Eugenia,5,2026,2026-05,Importados y Varios,Electronica,27234900.0
+Eugenia,5,2026,2026-05,Importados y Varios,Remisiones,17960700.0
+Jaime,6,2026,2026-06,Aseo,Electronica,254994700.0
+Jaime,6,2026,2026-06,Aseo,Remisiones,1768800.0
+James,6,2026,2026-06,Aseo,Electronica,177637650.0
+James,6,2026,2026-06,Aseo,Remisiones,857300.0
+Jhon,6,2026,2026-06,Aseo,Electronica,44184400.0
+Jhon,6,2026,2026-06,Aseo,Remisiones,5961300.0
+Botero,6,2026,2026-06,Aseo,Electronica,18872660.0
+Eugenia,6,2026,2026-06,Aseo,Electronica,23578088.0
+Eugenia,6,2026,2026-06,Aseo,Remisiones,324800.0
+Jaime,6,2026,2026-06,Importados y Varios,Electronica,65139050.0
+Jaime,6,2026,2026-06,Importados y Varios,Remisiones,36927250.0
+James,6,2026,2026-06,Importados y Varios,Electronica,55764350.0
+James,6,2026,2026-06,Importados y Varios,Remisiones,63239750.0
+Jhon,6,2026,2026-06,Importados y Varios,Electronica,42008550.0
+Jhon,6,2026,2026-06,Importados y Varios,Remisiones,12853700.0
+Botero,6,2026,2026-06,Importados y Varios,Electronica,7333654.0
+Eugenia,6,2026,2026-06,Importados y Varios,Electronica,33685150.0
+Eugenia,6,2026,2026-06,Importados y Varios,Remisiones,21676400.0
