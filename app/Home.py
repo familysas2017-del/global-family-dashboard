@@ -47,6 +47,7 @@ fv = apply_filters(get_data("fact_ventas"), filters)
 # Ventas Netas = post-devoluciones prorrateadas (base oficial del margen)
 _vcol = "venta_neta_linea" if not fv.empty and "venta_neta_linea" in fv.columns else "total_venta"
 ventas_netas = float(fv[_vcol].sum()) if not fv.empty else 0
+ventas_brutas = float(fv["total_venta"].sum()) if not fv.empty else 0
 utilidad_bruta = float(fv["margen_bruto_linea"].sum()) if not fv.empty else 0
 margen_pct = utilidad_bruta / ventas_netas if ventas_netas > 0 else 0
 
@@ -85,6 +86,12 @@ kpi_row([
      "delta": "Saludable (>1.5)" if razon_corriente >= 1.5 else ("Ajustada" if razon_corriente >= 1 else "Crítica"),
      "delta_color": "off"},
 ])
+
+st.caption(
+    f"💡 **Venta Bruta (con IVA, antes de devoluciones):** {formato_pesos(ventas_brutas, 0)} · "
+    f"coincide con la tabla dinámica del equipo. "
+    f"**Devoluciones prorrateadas:** {formato_pesos(ventas_brutas - ventas_netas, 0)}."
+)
 
 st.markdown("<br>", unsafe_allow_html=True)
 
@@ -148,10 +155,22 @@ st.markdown("---")
 col1, col2 = st.columns([3, 2])
 with col1:
     st.subheader("Ventas mensuales 2026")
+    import plotly.graph_objects as _go
+    from utils.charts import COLOR_SECUNDARIO as _COL_NETA, COLOR_PRIMARIO as _COL_BRUTA, _base_layout as _bl
     vm_all = get_data("venta_mensual").sort_values("anio_mes")
     vm_2026 = vm_all[vm_all["anio_mes"].astype(str) >= "2026-01"]
-    fig = line_chart(vm_2026, x="anio_mes", y="venta_neta",
-                     show_trend=True, height=360)
+    fig = _go.Figure()
+    if "venta_bruta" in vm_2026.columns:
+        fig.add_scatter(x=vm_2026["anio_mes"], y=vm_2026["venta_bruta"],
+                        mode="lines+markers", name="Venta Bruta (con IVA)",
+                        line=dict(color=_COL_BRUTA, dash="dot", width=2),
+                        marker=dict(size=8, symbol="circle-open"))
+    fig.add_scatter(x=vm_2026["anio_mes"], y=vm_2026["venta_neta"],
+                    mode="lines+markers", name="Venta Neta (base margen)",
+                    line=dict(color=_COL_NETA, width=3),
+                    marker=dict(size=9))
+    fig = _bl(fig, height=360)
+    fig.update_yaxes(tickformat=",")
     st.plotly_chart(fig, use_container_width=True)
 
 with col2:

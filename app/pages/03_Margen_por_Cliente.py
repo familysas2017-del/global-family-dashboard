@@ -38,6 +38,7 @@ nombre_por_id = fv.groupby("ident_cliente")["cliente"].agg(
 _vcol = "venta_neta_linea" if "venta_neta_linea" in fv.columns else "total_venta"
 g = fv.groupby("ident_cliente").agg(
     venta_total=(_vcol, "sum"),
+    venta_bruta=("total_venta", "sum"),
     costo_total=("costo_total_linea", "sum"),
     cantidad_facturas=("factura", "nunique"),
     ultima_compra=("fecha", "max"),
@@ -85,17 +86,26 @@ st.markdown("---")
 
 # ===== Scatter plot =====
 st.subheader("Mapa Venta vs Margen (tamaño = nº facturas)")
+eje_x_label = st.radio(
+    "Eje X",
+    options=["Venta Neta (base margen)", "Venta Bruta (con IVA)"],
+    horizontal=True,
+    key="scatter_eje_x",
+)
+_x_col = "venta_bruta" if "Bruta" in eje_x_label else "venta_total"
+_x_axis_title = "Venta bruta (con IVA)" if _x_col == "venta_bruta" else "Venta neta"
+
 scatter_df = real.copy()
 scatter_df["margen_pct_num"] = scatter_df["margen_bruto_pct"] * 100
 # limitar y-axis para que outliers no rompan la vista
 scatter_df = scatter_df[scatter_df["margen_pct_num"].between(-50, 60)]
 
 fig = px.scatter(
-    scatter_df, x="venta_total", y="margen_pct_num", size="cantidad_facturas",
+    scatter_df, x=_x_col, y="margen_pct_num", size="cantidad_facturas",
     color="clasificacion_abc",
     hover_name="cliente", size_max=45,
     color_discrete_map={"A": "#1B3A5C", "B": "#FFC107", "C": "#ADB5BD"},
-    labels={"venta_total": "Venta total", "margen_pct_num": "Margen bruto %"},
+    labels={_x_col: _x_axis_title, "margen_pct_num": "Margen bruto %"},
 )
 fig.update_layout(paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)",
                   height=460, margin=dict(l=10, r=10, t=10, b=10),
@@ -109,18 +119,19 @@ st.markdown("---")
 
 # ===== Top 20 clientes =====
 st.subheader("Top 20 clientes por venta")
-top20 = real.head(20).copy()
+top20 = real.head(20).copy().reset_index(drop=True)
 show = pd.DataFrame({
-    "Cliente": top20["cliente"],
-    "Venta Total": top20["venta_total"].map(lambda v: formato_pesos(v, 1)),
-    "Costo Total": top20["costo_total"].map(lambda v: formato_pesos(v, 1)),
-    "Margen $": top20["margen_bruto"].map(lambda v: formato_pesos(v, 1)),
-    "Margen %": top20["margen_bruto_pct"].map(lambda v: formato_pct(v) if pd.notna(v) else "-"),
-    "Nº fact.": top20["cantidad_facturas"].map(formato_numero),
-    "Ticket": top20["ticket_promedio"].map(lambda v: formato_pesos(v, 1)),
+    "#":           top20.index + 1,
+    "Cliente":     top20["cliente"],
+    "Venta Bruta": top20["venta_bruta"].map(lambda v: formato_pesos(v, 1)),
+    "Venta Neta":  top20["venta_total"].map(lambda v: formato_pesos(v, 1)),
+    "Costo":       top20["costo_total"].map(lambda v: formato_pesos(v, 1)),
+    "Utilidad Bruta": top20["margen_bruto"].map(lambda v: formato_pesos(v, 1)),
+    "Margen %":    top20["margen_bruto_pct"].map(lambda v: formato_pct(v) if pd.notna(v) else "-"),
+    "Nº fact.":    top20["cantidad_facturas"].map(formato_numero),
     "Últ. compra": top20["ultima_compra"].dt.strftime("%Y-%m-%d"),
-    "Días s/comprar": top20["dias_sin_comprar"].map(lambda v: f"{int(v)}" if pd.notna(v) else "-"),
-    "ABC": top20["clasificacion_abc"],
+    "Días s/c":    top20["dias_sin_comprar"].map(lambda v: f"{int(v)}" if pd.notna(v) else "-"),
+    "ABC":         top20["clasificacion_abc"],
 })
 
 def _colorea_margen_bajo(v):
@@ -133,6 +144,11 @@ def _colorea_margen_bajo(v):
 st.dataframe(
     show.style.map(_colorea_margen_bajo, subset=["Margen %"]),
     use_container_width=True, hide_index=True, height=560,
+)
+st.caption(
+    "💡 **Venta Bruta** = valor facturado con IVA (coincide con la tabla dinámica del equipo). "
+    "**Venta Neta** = post-devoluciones prorrateadas, base para el cálculo de margen. "
+    "Ranking ordenado por Venta Neta."
 )
 
 st.markdown("---")

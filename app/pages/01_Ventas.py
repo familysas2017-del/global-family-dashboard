@@ -29,13 +29,15 @@ if fv.empty:
     st.stop()
 
 _vcol = "venta_neta_linea" if "venta_neta_linea" in fv.columns else "total_venta"
-venta_neta    = float(fv[_vcol].sum())
-n_facturas     = int(fv["factura"].nunique())
-ticket_prom    = venta_neta / n_facturas if n_facturas else 0
-n_clientes     = int(fv["cliente"].nunique())
+venta_neta   = float(fv[_vcol].sum())
+venta_bruta  = float(fv["total_venta"].sum())
+n_facturas   = int(fv["factura"].nunique())
+ticket_prom  = venta_neta / n_facturas if n_facturas else 0
+n_clientes   = int(fv["cliente"].nunique())
 
 kpi_row([
-    {"label": "Venta Neta (periodo)", "value": formato_pesos(venta_neta, 1)},
+    {"label": "Venta Neta (periodo)", "value": formato_pesos(venta_neta, 1),
+     "delta": f"Bruta: {formato_pesos(venta_bruta, 1)}", "delta_color": "off"},
     {"label": "Nº de facturas",    "value": formato_numero(n_facturas)},
     {"label": "Ticket promedio",   "value": formato_pesos(ticket_prom, 1)},
     {"label": "Clientes activos",  "value": formato_numero(n_clientes)},
@@ -43,13 +45,23 @@ kpi_row([
 
 st.markdown("---")
 
-# ===== Gráfico principal: venta mensual + tendencia =====
-st.subheader("Evolución mensual de ventas")
+# ===== Gráfico principal: venta mensual con Bruta + Neta =====
+st.subheader("Evolución mensual de ventas · Bruta vs Neta")
 vm = apply_filters(get_data("venta_mensual"), filters)
 vm = vm.sort_values("anio_mes")
 
 if not vm.empty:
-    fig = line_chart(vm, x="anio_mes", y="venta_neta", show_trend=True, height=380)
+    import plotly.graph_objects as _go
+    from utils.charts import COLOR_PRIMARIO, COLOR_SECUNDARIO, _base_layout
+    fig = _go.Figure()
+    if "venta_bruta" in vm.columns:
+        fig.add_bar(x=vm["anio_mes"], y=vm["venta_bruta"], name="Venta Bruta (con IVA)",
+                    marker_color=COLOR_PRIMARIO, opacity=0.45)
+    fig.add_bar(x=vm["anio_mes"], y=vm["venta_neta"], name="Venta Neta (base margen)",
+                marker_color=COLOR_SECUNDARIO)
+    fig.update_layout(barmode="overlay")
+    fig = _base_layout(fig, height=380)
+    fig.update_yaxes(tickformat=",")
     st.plotly_chart(fig, use_container_width=True)
 
 st.markdown("---")
@@ -123,16 +135,18 @@ if not vxc.empty:
     cat_sel = st.selectbox("Elige categoría", options=agg_cat["categoria_producto"].tolist())
     fv_cat = fv[fv["categoria_producto"] == cat_sel]
     prod_agg = (fv_cat.groupby(["cod_interno", "descripcion_producto"])
-                .agg(venta=("venta_neta_linea", "sum"),
+                .agg(venta_bruta=("total_venta", "sum"),
+                     venta_neta=("venta_neta_linea", "sum"),
                      cantidad=("cantidad", "sum"),
                      n_facturas=("factura", "nunique"))
                 .reset_index()
-                .sort_values("venta", ascending=False)
+                .sort_values("venta_neta", ascending=False)
                 .head(30))
     show = pd.DataFrame({
         "Producto": prod_agg["descripcion_producto"],
         "Cantidad": prod_agg["cantidad"].map(formato_numero),
         "Nº fact.": prod_agg["n_facturas"].map(formato_numero),
-        "Venta": prod_agg["venta"].map(lambda v: formato_pesos(v, 1)),
+        "Venta Bruta": prod_agg["venta_bruta"].map(lambda v: formato_pesos(v, 1)),
+        "Venta Neta":  prod_agg["venta_neta"].map(lambda v: formato_pesos(v, 1)),
     })
     st.dataframe(show, use_container_width=True, hide_index=True)

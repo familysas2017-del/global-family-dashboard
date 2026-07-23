@@ -31,6 +31,7 @@ g = fv.groupby(["cod_interno"]).agg(
     categoria=("categoria_producto", "first"),
     marca=("proveedor_marca", "first"),
     venta_total=(_vcol, "sum"),
+    venta_bruta=("total_venta", "sum"),
     costo_total=("costo_total_linea", "sum"),
     cantidad=("cantidad", "sum"),
 ).reset_index()
@@ -108,10 +109,15 @@ show = pd.DataFrame({
     "Precio Prom.": tabla["precio_venta_prom"].map(lambda v: formato_pesos(v, 1) if pd.notna(v) else "-"),
     "Costo Prom.": tabla["costo_unit_prom"].map(lambda v: formato_pesos(v, 1) if pd.notna(v) else "-"),
     "Margen %": tabla["margen_bruto_pct"].map(lambda v: formato_pct(v) if pd.notna(v) else "-"),
-    "Venta Total": tabla["venta_total"].map(lambda v: formato_pesos(v, 1)),
+    "Venta Bruta": tabla["venta_bruta"].map(lambda v: formato_pesos(v, 1)),
+    "Venta Neta": tabla["venta_total"].map(lambda v: formato_pesos(v, 1)),
     "ABC": tabla["abc"],
 })
 st.dataframe(show, use_container_width=True, hide_index=True, height=560)
+st.caption(
+    "💡 **Venta Bruta** = valor facturado con IVA (coincide con la tabla dinámica del equipo). "
+    "**Venta Neta** = post-devoluciones prorrateadas, base para el cálculo de margen."
+)
 
 st.markdown("---")
 

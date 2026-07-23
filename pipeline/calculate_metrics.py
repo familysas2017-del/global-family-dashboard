@@ -63,7 +63,9 @@ def g1_ventas():
 
     # 1.2 venta_x_categoria_mes con crecimiento
     c = v.groupby(["anio_mes", "categoria_producto"]).agg(
-        venta_neta=("venta_neta_linea", "sum"), unidades=("cantidad", "sum")
+        venta_neta=("venta_neta_linea", "sum"),
+        venta_bruta=("total_venta", "sum"),
+        unidades=("cantidad", "sum"),
     ).reset_index().sort_values(["categoria_producto", "anio_mes"])
     c["crecimiento_pct_mom"] = (
         c.groupby("categoria_producto")["venta_neta"]
