@@ -1,0 +1,512 @@
+tipo_documento,num_factura,cliente,fecha_factura,fecha_limite_pago,total_factura,saldo_pendiente,dias_cartera_reportado,dias_vencido,tramo_aging
+FE General,87.0,Isabel Cristina Cisneros Moreno,2025-11-18,2025-12-18,2104700.0,464600,244.0,215,>90
+FE General,130.0,Jose Rubelio Castano Mejia,2025-12-03,2026-01-03,12062150.0,3000000,229.0,199,>90
+Rem General,379.0,Anita Alvarez Diaz,2026-01-17,2026-02-17,1114800.0,40000,184.0,154,>90
+Rem General,395.0,Tulia Ines Cardenas Quiroga,2026-01-26,2026-02-22,900900.0,22350,175.0,149,>90
+FE General,250.0,Elisabeth Mayerly Vasquez Olarte,2026-01-27,2026-02-27,904200.0,61000,174.0,144,>90
+DS Provee,541.0,Fantasias Y Variedades Yuly SAS,2026-02-13,2026-02-16,1285200.0,1600,157.0,155,>90
+FE General,300.0,Unibabys SAS,2026-02-16,2026-03-16,7805300.0,2997,154.0,127,>90
+Rem General,392.0,Martha Ligia Murillo Montoya,2026-02-17,2026-02-21,1274150.0,50350,153.0,150,>90
+FE General,336.0,Maria Lola Tabares Ramirez,2026-02-25,2026-03-25,14964900.0,14964900,145.0,118,>90
+DS Provee,631.0,Maria Lola Tabares Ramirez,2026-02-25,2026-03-18,12204400.0,2161600,145.0,125,>90
+DS Provee,702.0,Pañalera Deymar Sleyder SAS,2026-03-05,2026-03-29,1473600.0,51349,137.0,114,>90
+FE General,382.0,Millarlandy Diaz Cordoba,2026-03-11,2026-04-11,754200.0,3800,131.0,101,>90
+Rem General,582.0,Pañalera Y Distribuidora Don Juan SAS,2026-03-11,2026-04-13,5299100.0,123400,131.0,99,>90
+Rem General,587.0,Luis Fabian Rojas Calderon,2026-03-12,2026-04-13,2790400.0,128000,130.0,99,>90
+FE General,402.0,Samuel Oviedo Quimbayo,2026-03-19,2026-04-19,3051100.0,12179,123.0,93,>90
+FE General,404.0,Elian Mauricio Aguirre Osorio,2026-03-20,2026-04-20,379200.0,379200,122.0,92,>90
+FE General,405.0,Inversiones Thunder Baby SAS,2026-03-20,2026-04-20,1917000.0,764592,122.0,92,>90
+Rem General,647.0,Juan Felipe Botero,2026-03-23,2026-04-23,25500.0,25500,119.0,89,61-90
+DS Provee,839.0,Juan Felipe Botero,2026-03-23,2026-04-23,43000.0,43000,119.0,89,61-90
+DS Provee,851.0,Carolina Martinez Zuluaga,2026-03-25,2026-04-16,7398000.0,7398000,117.0,96,>90
+DS Provee,899.0,Daniela Toledo Sanchez,2026-04-01,2026-04-26,4008900.0,2008900,110.0,86,61-90
+FE General,441.0,Eidelber Orrego Ospina,2026-04-01,2026-05-01,532050.0,532050,110.0,81,61-90
+DS Provee,901.0,Eidelber Orrego Ospina,2026-04-01,2026-04-20,618600.0,467900,110.0,92,>90
+Rem General,691.0,Jose  Purificacion Lizarazo Cuadros,2026-04-01,2026-05-06,4040300.0,4040300,110.0,76,61-90
+FE General,438.0,Jose Purificacion Lizarazo Cuadros,2026-04-01,2026-05-06,3999800.0,3225350,110.0,76,61-90
+Rem General,693.0,Sindy Lorena Gutierrez Aguirre,2026-04-04,2026-05-04,623900.0,700,107.0,78,61-90
+Rem General,702.0,Bellanid Hernandez Hernandez,2026-04-06,2026-05-06,3085650.0,3085650,105.0,76,61-90
+DS Provee,919.0,Bellanid Hernandez Hernandez,2026-04-06,2026-04-30,649200.0,649200,105.0,82,61-90
+FE General,448.0,Santiago Ortiz Aristizabal,2026-04-07,2026-05-09,3450950.0,10950,104.0,73,61-90
+Rem General,713.0,Jose  Purificacion Lizarazo Cuadros,2026-04-08,2026-05-08,250000.0,250000,103.0,74,61-90
+Rem General,723.0,Juan Felipe Botero,2026-04-09,2026-05-09,18000.0,18000,102.0,73,61-90
+Rem General,721.0,Juan Felipe Botero,2026-04-09,2026-05-09,41000.0,41000,102.0,73,61-90
+FE General,455.0,EL Centro Del Bebe Polo Acosta SAS,2026-04-10,2026-05-13,1206000.0,1206000,101.0,69,61-90
+Rem General,741.0,Group Family SAS,2026-04-13,2026-05-16,281200.0,281200,98.0,66,61-90
+Rem General,740.0,Group Family SAS,2026-04-13,2026-06-13,5858300.0,5858300,98.0,38,31-60
+Rem General,748.0,Eugenia Torres Romero,2026-04-14,2026-05-14,206800.0,206800,97.0,68,61-90
+FE General,465.0,Group Family SAS,2026-04-15,2026-06-16,45341750.0,45021750,96.0,35,31-60
+FE General,469.0,Inversiones Walaw SAS,2026-04-16,2026-05-18,1453200.0,811550,95.0,64,61-90
+DS Provee,1009.0,Belleza Express S.A,2026-04-17,2026-05-17,3897960.0,3897960,94.0,65,61-90
+Rem General,755.0,Hector Fabio Uribe Cano,2026-04-17,2026-04-20,694000.0,694000,94.0,92,>90
+DS Provee,1010.0,Hector Fabio Uribe Cano,2026-04-17,2026-04-20,1990800.0,290800,94.0,92,>90
+DS Provee,1023.0,EL Centro Del Bebe Polo Acosta SAS,2026-04-18,2026-05-10,1042000.0,1042000,93.0,72,61-90
+FE General,474.0,Elian Mauricio Aguirre Osorio,2026-04-18,2026-05-20,3878700.0,3878700,93.0,62,61-90
+Rem General,765.0,Elian Mauricio Aguirre Osorio,2026-04-18,2026-05-20,122200.0,122200,93.0,62,61-90
+DS Provee,1028.0,Elian Mauricio Aguirre Osorio,2026-04-18,2026-05-10,3372600.0,426050,93.0,72,61-90
+Rem General,767.0,Juan Felipe Botero,2026-04-19,2026-05-19,55600.0,55600,92.0,63,61-90
+Rem General,766.0,Juan Felipe Botero,2026-04-19,2026-05-19,24000.0,24000,92.0,63,61-90
+DS Provee,1034.0,Grupo Empresarial Bernal Hoyos SAS,2026-04-20,2026-05-20,14115101.0,14115101,91.0,62,61-90
+DS Provee,1041.0,Carlos Edison Galeano Gonzalez,2026-04-21,2026-05-04,3770500.0,3770500,90.0,78,61-90
+FE General,482.0,Henry Nelson Romero Ramirez,2026-04-22,2026-05-28,8300000.0,8300000,89.0,54,31-60
+FE General,483.0,Magda Lilian Medina Diaz,2026-04-22,2026-05-28,1450200.0,1450200,89.0,54,31-60
+DS Provee,1044.0,Magda Lilian Medina Diaz,2026-04-22,2026-05-18,732200.0,732200,89.0,64,61-90
+DS Provee,1056.0,Berta Ines Hoyos Giraldo,2026-04-23,2026-05-18,1908000.0,1908000,88.0,64,61-90
+FE General,489.0,Grupo Empresarial Bernal Hoyos SAS,2026-04-23,2026-05-25,7831933.0,7831933,88.0,57,31-60
+DS Provee,1059.0,Grupo Empresarial Bernal Hoyos SAS,2026-04-23,2026-05-20,801000.0,801000,88.0,62,61-90
+FE General,488.0,Lahida Llaned Aristizabal Aristizabal,2026-04-23,2026-05-28,2780000.0,40000,88.0,54,31-60
+DS Provee,1050.0,Myryam Stella Timaran Cabrera,2026-04-23,2026-05-18,3435600.0,3435600,88.0,64,61-90
+Rem General,791.0,Andres Mauricio Amortegui Restrepo,2026-04-27,2026-05-29,1220000.0,117000,84.0,53,31-60
+FE General,500.0,Jose Purificacion Lizarazo Cuadros,2026-04-27,2026-05-27,2431000.0,2431000,84.0,55,31-60
+Rem General,802.0,Pañalera Y Miscelanea La Novena SAS,2026-04-29,2026-05-30,495600.0,495600,82.0,52,31-60
+DS Provee,1099.0,Pañalera Y Miscelanea La Novena SAS,2026-04-29,2026-05-20,8602400.0,2602400,82.0,62,61-90
+FE General,515.0,Daniela Munoz Nanez,2026-05-02,2026-06-07,1830800.0,47600,79.0,44,31-60
+DS Provee,1134.0,Jose Wilson Hernandez Trejos,2026-05-02,2026-05-24,2732600.0,2732600,79.0,58,31-60
+FE General,518.0,Claudia Alexandra Medina Trujillo,2026-05-04,2026-06-07,10761100.0,1761100,77.0,44,31-60
+FE General,517.0,Damaris Certuche Cruz,2026-05-04,2026-06-07,5201950.0,2941350,77.0,44,31-60
+Rem General,825.0,Jose  Purificacion Lizarazo Cuadros,2026-05-04,2026-06-04,200000.0,200000,77.0,47,31-60
+Rem General,826.0,Lahida Llaned Aristizabal Aristizabal,2026-05-04,2026-06-04,75000.0,75000,77.0,47,31-60
+Rem General,830.0,Pañalera Dulcemaria SM Kids SAS,2026-05-05,2026-06-07,4748700.0,1821300,76.0,44,31-60
+FE General,530.0,EL Centro Del Bebe Polo Acosta SAS,2026-05-08,2026-06-11,1991400.0,1991400,73.0,40,31-60
+DS Provee,1162.0,EL Centro Del Bebe Polo Acosta SAS,2026-05-08,2026-05-19,328200.0,328200,73.0,63,61-90
+DS Provee,1161.0,EL Centro Del Bebe Polo Acosta SAS,2026-05-08,2026-05-30,1538400.0,1538400,73.0,52,31-60
+FE General,533.0,Elisabeth Mayerly Vasquez Olarte,2026-05-09,2026-06-14,3291500.0,51900,72.0,37,31-60
+FE General,531.0,Nubia Lozada Ortiz,2026-05-09,2026-06-14,8750300.0,138071,72.0,37,31-60
+FE General,539.0,Alba Yaneth Salazar Sterling,2026-05-11,2026-06-14,2815650.0,2815650,70.0,37,31-60
+DS Provee,1186.0,Alba Yaneth Salazar Sterling,2026-05-11,2026-06-03,1457800.0,757800,70.0,48,31-60
+FE General,534.0,Carlos Eduardo Pastrana Argote,2026-05-11,2026-06-14,3202400.0,3202400,70.0,37,31-60
+DS Provee,1177.0,Carlos Eduardo Pastrana Argote,2026-05-11,2026-06-03,204000.0,204000,70.0,48,31-60
+FE General,538.0,Elizabeth Garcia Martinez,2026-05-11,2026-06-14,1804200.0,1804200,70.0,37,31-60
+DS Provee,1185.0,Elizabeth Garcia Martinez,2026-05-11,2026-06-03,160800.0,160800,70.0,48,31-60
+Rem General,856.0,Liliana Hoyos Gutierrez,2026-05-11,2026-06-13,607700.0,6000,70.0,38,31-60
+DS Provee,1190.0,Liliana Hoyos Gutierrez,2026-05-11,2026-06-01,6957200.0,6000,70.0,50,31-60
+DS Provee,1182.0,Wilder Andres Munoz Cortez,2026-05-11,2026-06-03,6011100.0,400,70.0,48,31-60
+FE General,543.0,Duque Giraldo Grupo Comercial S.A.S,2026-05-13,2026-06-14,4862587.0,4862587,68.0,37,31-60
+Rem General,872.0,David Alejandro Aldana Collazos,2026-05-15,2026-06-20,968300.0,84700,66.0,31,31-60
+Rem General,875.0,Juan Carlos Londoño Soto,2026-05-15,2026-06-19,871000.0,871000,66.0,32,31-60
+Rem General,888.0,Myriam Barreiro Gonzalez,2026-05-16,2026-06-20,7311100.0,600,65.0,31,31-60
+FE General,549.0,Group Family SAS,2026-05-19,2026-07-21,4941900.0,4941900,62.0,0,corriente
+DS Provee,1246.0,Group Family SAS,2026-05-19,2026-07-19,14967900.0,14967900,62.0,2,1-30
+Rem General,891.0,Liliana Maria Gonzalez Ortiz,2026-05-19,2026-06-20,292800.0,292800,62.0,31,31-60
+DS Provee,1243.0,Liliana Maria Gonzalez Ortiz,2026-05-19,2026-06-11,1294100.0,1270700,62.0,40,31-60
+FE General,554.0,Maria Dolly Botero Gomez,2026-05-19,2026-06-22,1240950.0,1240950,62.0,29,1-30
+DS Provee,1241.0,Unibabys S.A.S,2026-05-19,2026-06-11,974600.0,974600,62.0,40,31-60
+FE General,552.0,Unibabys SAS,2026-05-19,2026-06-22,5671200.0,5671200,62.0,29,1-30
+DS Provee,1249.0,Gina Kactarina Nomelin Jimenez,2026-05-20,2026-06-15,908600.0,908600,61.0,36,31-60
+Rem General,896.0,Group Family SAS,2026-05-20,2026-07-21,1450150.0,1450150,61.0,0,corriente
+DS Provee,1251.0,Kelly Marina Arenas Montano,2026-05-20,2026-06-11,5320800.0,5320800,61.0,40,31-60
+Rem General,892.0,Valentina Triana Victoria,2026-05-20,2026-06-22,5606400.0,5606400,61.0,29,1-30
+DS Provee,1248.0,Valentina Triana Victoria,2026-05-20,2026-06-11,357000.0,357000,61.0,40,31-60
+Rem General,899.0,Elizabeth Garcia Martinez,2026-05-21,2026-06-25,4094350.0,4094350,60.0,26,1-30
+Rem General,901.0,Sandra Milena Arias Guzman,2026-05-21,2026-06-25,1756400.0,400,60.0,26,1-30
+FE General,561.0,EL Centro Del Bebe Polo Acosta SAS,2026-05-22,2026-06-25,758000.0,758000,59.0,26,1-30
+DS Provee,1270.0,EL Centro Del Bebe Polo Acosta SAS,2026-05-22,2026-06-13,1165200.0,1165200,59.0,38,31-60
+Rem General,911.0,Hector Fabio Uribe Cano,2026-05-22,2026-06-25,2048900.0,2048900,59.0,26,1-30
+DS Provee,1276.0,Hector Fabio Uribe Cano,2026-05-22,2026-06-13,4766300.0,4766300,59.0,38,31-60
+FE General,559.0,Hyper Moda SAS,2026-05-22,2026-06-23,2896400.0,2896400,59.0,28,1-30
+Rem General,905.0,Narciso Cordoba Montealegre,2026-05-22,2026-06-23,1989550.0,1989550,59.0,28,1-30
+DS Provee,1263.0,Narciso Cordoba Montealegre,2026-05-22,2026-06-13,4575150.0,4575150,59.0,38,31-60
+Rem Provee,591.0,Narciso Cordoba Montealegre,2026-05-22,2026-06-13,4770000.0,4770000,59.0,38,31-60
+DS Provee,1274.0,Yulied Andrea Montes Munoz,2026-05-22,2026-06-13,1069400.0,1069400,59.0,38,31-60
+Rem General,913.0,Carolina Carrasquilla Perez,2026-05-23,2026-06-25,308000.0,308000,58.0,26,1-30
+Rem General,914.0,Claudia Patricia Salazar Serrato,2026-05-23,2026-06-25,697100.0,697100,58.0,26,1-30
+DS Provee,1283.0,Claudia Patricia Salazar Serrato,2026-05-23,2026-06-15,2116000.0,2116000,58.0,36,31-60
+Rem General,920.0,Estefania Alejandra Gomez Moreno,2026-05-23,2026-06-27,378000.0,378000,58.0,24,1-30
+Rem General,915.0,Henry Nelson Romero Ramirez,2026-05-23,2026-06-20,360000.0,360000,58.0,31,31-60
+DS Provee,1284.0,Jose Jesus Ramirez Botero,2026-05-23,2026-06-14,5926000.0,5926000,58.0,37,31-60
+FE General,563.0,Jose Wilson Hernandez Trejos,2026-05-23,2026-06-25,1978700.0,1978700,58.0,26,1-30
+DS Provee,1281.0,Jose Wilson Hernandez Trejos,2026-05-23,2026-06-13,9656800.0,9656800,58.0,38,31-60
+Rem General,917.0,Magda Lilian Medina Diaz,2026-05-23,2026-06-20,135000.0,135000,58.0,31,31-60
+Rem General,919.0,Melida Rodriguez Correa,2026-05-23,2026-06-20,115000.0,115000,58.0,31,31-60
+Rem General,918.0,Myryam Stella Timaran Cabrera,2026-05-23,2026-06-20,170000.0,170000,58.0,31,31-60
+DS Provee,1289.0,Claudia Patricia Montoya Torres,2026-05-25,2026-06-15,3279000.0,15180,56.0,36,31-60
+DS Provee,1305.0,Andrea Del Pilar Zapata Bolivar,2026-06-01,2026-06-22,6918700.0,4420394,49.0,29,1-30
+FE General,579.0,Duque Giraldo Grupo Comercial S.A.S,2026-06-01,2026-07-01,5695131.0,5695131,49.0,20,1-30
+FE General,577.0,Group Family SAS,2026-06-01,2026-08-03,27408400.0,27408400,49.0,-13,corriente
+Rem General,930.0,Harold Yamit Giraldo Sepulveda,2026-06-01,2026-07-01,457600.0,457600,49.0,20,1-30
+Rem General,931.0,Jose Jesus Ramirez Botero,2026-06-01,2026-07-01,1062000.0,1062000,49.0,20,1-30
+DS Provee,1304.0,Jose Jesus Ramirez Botero,2026-06-01,2026-07-21,2821700.0,2821700,49.0,0,corriente
+Rem Provee,595.0,Jose Jesus Ramirez Botero,2026-06-01,2026-06-22,1548000.0,1548000,49.0,29,1-30
+DS Provee,1323.0,Cruz Elvia Jaramillo De Jaramillo,2026-06-02,2026-06-24,1148500.0,1148500,48.0,27,1-30
+Rem General,933.0,Gerardo  Ariel Rojas Pelaez,2026-06-02,2026-07-03,2163000.0,160000,48.0,18,1-30
+DS Provee,1327.0,Group Family SAS,2026-06-02,2026-07-04,214200.0,214200,48.0,17,1-30
+DS Provee,1321.0,Luz Esneda Loaiza,2026-06-02,2026-06-03,1396600.0,600,48.0,48,31-60
+Rem General,945.0,Ana Mariela Jaramillo Lopez,2026-06-03,2026-07-05,580400.0,580400,47.0,16,1-30
+DS Provee,1345.0,Comercializadora Toby SAS,2026-06-03,2026-07-03,3240000.0,3240000,47.0,18,1-30
+DS Provee,1346.0,Johan Manuel Torres Forero,2026-06-03,2026-06-24,3114000.0,3114000,47.0,27,1-30
+FE General,588.0,Jorge Orlando Cardona Marin,2026-06-03,2026-07-04,1826100.0,1826100,47.0,17,1-30
+DS Provee,1339.0,Jose Jesus Ramirez Botero,2026-06-03,2026-06-24,1128000.0,1128000,47.0,27,1-30
+FE General,585.0,Juan Felipe Botero,2026-06-03,2026-07-03,18000.0,18000,47.0,18,1-30
+Rem General,940.0,Leidy Vanesa Duque Perez,2026-06-03,2026-07-04,1318150.0,1318150,47.0,17,1-30
+Rem General,936.0,Lina Maria Grajales Betancur,2026-06-03,2026-07-04,3651000.0,2626000,47.0,17,1-30
+FE General,587.0,Pañalera Y Miscelanea La Novena SAS,2026-06-03,2026-07-04,2238500.0,2238500,47.0,17,1-30
+DS Provee,1338.0,Pañalera Y Miscelanea La Novena SAS,2026-06-03,2026-06-24,3981400.0,3981400,47.0,27,1-30
+Rem General,947.0,Diana Maria Morales Peña,2026-06-04,2026-07-04,175500.0,54750,46.0,17,1-30
+Rem General,952.0,Mundo Materno SAS,2026-06-04,2026-07-09,893350.0,861950,46.0,12,1-30
+DS Provee,1361.0,Mundo Materno SAS,2026-06-04,2026-06-29,1560200.0,1560200,46.0,22,1-30
+FE General,593.0,Sla Inversiones SAS,2026-06-04,2026-07-09,1720800.0,1720800,46.0,12,1-30
+Rem General,961.0,Alba Lucia Muñoz Gutierrez,2026-06-05,2026-07-09,867200.0,867200,45.0,12,1-30
+DS Provee,1370.0,Belleza Y Color SAS,2026-06-05,2026-06-29,3072000.0,3072000,45.0,22,1-30
+FE General,596.0,EL Centro Del Bebe Polo Acosta SAS,2026-06-05,2026-07-09,848800.0,848800,45.0,12,1-30
+DS Provee,1371.0,EL Centro Del Bebe Polo Acosta SAS,2026-06-05,2026-06-29,4425000.0,4425000,45.0,22,1-30
+Rem General,955.0,Hector Fabio Uribe Cano,2026-06-05,2026-07-09,60900.0,60900,45.0,12,1-30
+DS Provee,1364.0,Hector Fabio Uribe Cano,2026-06-05,2026-06-29,3583600.0,3583600,45.0,22,1-30
+Rem General,959.0,Jose Wilson Hernandez Trejos,2026-06-05,2026-07-09,115500.0,38500,45.0,12,1-30
+DS Provee,1367.0,Jose Wilson Hernandez Trejos,2026-06-05,2026-06-29,6680400.0,6680400,45.0,22,1-30
+Rem General,962.0,Julio Cesar Montoya Morales,2026-06-05,2026-07-06,382600.0,382600,45.0,15,1-30
+Rem General,958.0,Luz Elena Lopez Valencia,2026-06-05,2026-07-09,1816500.0,1816500,45.0,12,1-30
+DS Provee,1366.0,Luz Elena Lopez Valencia,2026-06-05,2026-06-29,1872000.0,948808,45.0,22,1-30
+FE General,595.0,Pañalera Deymar Sleyder SAS,2026-06-05,2026-07-10,6468100.0,6468100,45.0,11,1-30
+DS Provee,1365.0,Pañalera Deymar Sleyder SAS,2026-06-05,2026-06-30,1649150.0,1649150,45.0,21,1-30
+Rem General,963.0,Yulied Andrea Montes Munoz,2026-06-05,2026-07-09,396500.0,396500,45.0,12,1-30
+DS Provee,1373.0,Yulied Andrea Montes Munoz,2026-06-05,2026-06-29,476500.0,476500,45.0,22,1-30
+Rem General,967.0,Antonio Niño Bedoya,2026-06-06,2026-07-09,980900.0,980900,44.0,12,1-30
+FE General,601.0,Diana Carolina Herran Gongora,2026-06-06,2026-07-11,10110400.0,10110400,44.0,10,1-30
+DS Provee,1383.0,Diana Carolina Herran Gongora,2026-06-06,2026-06-30,181600.0,181600,44.0,21,1-30
+FE General,599.0,EL Centro Del Bebe Polo Acosta SAS,2026-06-06,2026-07-09,162400.0,162400,44.0,12,1-30
+Rem General,966.0,Juan Carlos Londoño Soto,2026-06-06,2026-07-09,190500.0,190500,44.0,12,1-30
+FE General,598.0,Surtidora El Universo De La Moda Y Cia SAS,2026-06-06,2026-07-11,459000.0,459000,44.0,10,1-30
+FE General,597.0,Surtidora Panty Jeans De Colombia SAS,2026-06-06,2026-07-11,5931900.0,5911600,44.0,10,1-30
+FE General,605.0,Gabriel De Jesus Rodas Angel,2026-06-09,2026-07-10,143300.0,143300,41.0,11,1-30
+DS Provee,1398.0,Gabriel De Jesus Rodas Angel,2026-06-09,2026-06-30,834100.0,834100,41.0,21,1-30
+FE General,602.0,Johan Manuel Torres Forero,2026-06-09,2026-07-10,2193500.0,2193500,41.0,11,1-30
+DS Provee,1387.0,Johan Manuel Torres Forero,2026-06-09,2026-06-30,607200.0,607200,41.0,21,1-30
+DS Provee,1391.0,Jose Jesus Ramirez Botero,2026-06-09,2026-06-30,24314800.0,24314800,41.0,21,1-30
+Rem General,975.0,Anderson Gallego Leon,2026-06-10,2026-07-17,1504600.0,1504600,40.0,4,1-30
+DS Provee,1405.0,Anderson Gallego Leon,2026-06-10,2026-07-07,5468700.0,5468700,40.0,14,1-30
+Rem Provee,604.0,Anderson Gallego Leon,2026-06-10,2026-07-07,5466900.0,5466900,40.0,14,1-30
+DS Provee,1404.0,Andrea Del Pilar Zapata Bolivar,2026-06-10,2026-07-01,2609950.0,2609950,40.0,20,1-30
+FE General,608.0,Johan Manuel Torres Forero,2026-06-10,2026-07-10,132000.0,132000,40.0,11,1-30
+DS Provee,1403.0,Milena Patricia Leon Sanchez,2026-06-10,2026-07-01,605000.0,605000,40.0,20,1-30
+DS Provee,1409.0,Belleza Express S.A,2026-06-11,2026-07-11,1071000.0,1071000,39.0,10,1-30
+DS Provee,1408.0,Belleza Express S.A,2026-06-11,2026-07-11,2618000.0,2618000,39.0,10,1-30
+Rem General,981.0,Carlos Eduardo Otalora Arevalo,2026-06-11,2026-07-18,694500.0,694500,39.0,3,1-30
+DS Provee,1414.0,Carlos Eduardo Otalora Arevalo,2026-06-11,2026-07-09,2206100.0,2206100,39.0,12,1-30
+DS Provee,1412.0,Daniela Ospina Florez,2026-06-11,2026-06-18,979200.0,979200,39.0,33,31-60
+Rem General,978.0,Harold Yamit Giraldo Sepulveda,2026-06-11,2026-07-12,449600.0,449600,39.0,9,1-30
+Rem General,986.0,Juan Carlos Londoño Soto,2026-06-11,2026-07-16,255500.0,255500,39.0,5,1-30
+DS Provee,1422.0,Juan Carlos Londoño Soto,2026-06-11,2026-06-25,559150.0,559150,39.0,26,1-30
+DS Provee,1421.0,Juan Carlos Londoño Soto,2026-06-11,2026-07-06,968750.0,968750,39.0,15,1-30
+Rem General,982.0,Pañalera Deymar Sleyder SAS,2026-06-11,2026-07-11,300000.0,300000,39.0,10,1-30
+DS Provee,1425.0,Alexander Quintero Aguirre,2026-06-12,2026-07-08,12523350.0,12523350,38.0,13,1-30
+DS Provee,1424.0,Melania Ines Herrera De Marin,2026-06-12,2026-07-06,432000.0,432000,38.0,15,1-30
+FE General,610.0,Jose Wilson Hernandez Trejos,2026-06-13,2026-07-16,228000.0,228000,37.0,5,1-30
+DS Provee,1433.0,Jose Wilson Hernandez Trejos,2026-06-13,2026-07-06,6896400.0,6896400,37.0,15,1-30
+FE General,615.0,Alexander Quintero Aguirre,2026-06-16,2026-07-18,4721900.0,4721900,34.0,3,1-30
+DS Provee,1442.0,Anderson Gallego Leon,2026-06-16,2026-07-09,344400.0,344400,34.0,12,1-30
+Rem General,1000.0,Angelica Maria Gonzalez Sanchez,2026-06-16,2026-07-18,525300.0,525300,34.0,3,1-30
+DS Provee,1438.0,Angelica Maria Gonzalez Sanchez,2026-06-16,2026-07-08,3330500.0,3330500,34.0,13,1-30
+FE General,616.0,Angie Daniela Nieto Palacio,2026-06-16,2026-07-18,1070650.0,1070650,34.0,3,1-30
+FE General,614.0,Francisco Javier Arroyave Florez,2026-06-16,2026-07-18,900400.0,900400,34.0,3,1-30
+DS Provee,1440.0,Group Family SAS,2026-06-16,2026-07-17,10405998.0,10405998,34.0,4,1-30
+FE General,613.0,Isabel Cristina Gonzalez Betancur,2026-06-16,2026-07-18,2592500.0,2592500,34.0,3,1-30
+DS Provee,1439.0,Isabel Cristina Gonzalez Betancur,2026-06-16,2026-07-08,1860000.0,1860000,34.0,13,1-30
+Rem General,1003.0,Julio Cesar Montoya Morales,2026-06-16,2026-07-18,1126300.0,1126300,34.0,3,1-30
+DS Provee,1445.0,Julio Cesar Montoya Morales,2026-06-16,2026-07-08,709500.0,624900,34.0,13,1-30
+Rem General,1001.0,Luz Amparo Marin Obando,2026-06-16,2026-07-18,3388300.0,3388300,34.0,3,1-30
+DS Provee,1441.0,Luz Amparo Marin Obando,2026-06-16,2026-07-08,457500.0,457500,34.0,13,1-30
+DS Provee,1450.0,Belleza Express S.A,2026-06-17,2026-07-17,659845.0,659845,33.0,4,1-30
+Rem General,1008.0,Diego Andres Alvarez Cardenas,2026-06-17,2026-07-18,1594200.0,1594200,33.0,3,1-30
+DS Provee,1455.0,Diego Andres Alvarez Cardenas,2026-06-17,2026-07-08,23635050.0,11635050,33.0,13,1-30
+FE General,617.0,Group Family SAS,2026-06-17,2026-08-17,3336600.0,3336600,33.0,-27,corriente
+FE General,620.0,Ilmer Mendez Acero,2026-06-17,2026-07-21,4103600.0,4103600,33.0,0,corriente
+Rem General,1007.0,Ilmer Mendez Acero,2026-06-17,2026-07-20,3961400.0,3961400,33.0,1,1-30
+DS Provee,1454.0,Ilmer Mendez Acero,2026-06-17,2026-07-13,6562000.0,6562000,33.0,8,1-30
+Rem Provee,608.0,Ilmer Mendez Acero,2026-06-17,2026-07-13,189600.0,189600,33.0,8,1-30
+Rem General,1004.0,Jaime Hernan Florez Montoya,2026-06-17,2026-07-18,5911050.0,5911050,33.0,3,1-30
+DS Provee,1448.0,Jaime Hernan Florez Montoya,2026-06-17,2026-07-08,768600.0,768600,33.0,13,1-30
+DS Provee,1457.0,Jairo Antonio Molina Cardozo,2026-06-17,2026-07-10,1548000.0,1548000,33.0,11,1-30
+FE General,618.0,Lucelly Del Socorro Palacio Navarro,2026-06-17,2026-07-18,1458050.0,1426650,33.0,3,1-30
+DS Provee,1447.0,Lucelly Del Socorro Palacio Navarro,2026-06-17,2026-07-08,1420800.0,1420800,33.0,13,1-30
+FE General,626.0,David Alejandro Aldana Collazos,2026-06-18,2026-07-19,843000.0,786900,32.0,2,1-30
+DS Provee,1462.0,David Alejandro Aldana Collazos,2026-06-18,2026-07-09,139400.0,139400,32.0,12,1-30
+Rem General,1006.0,Diana Maria Morales Peña,2026-06-18,2026-07-18,258700.0,258700,32.0,3,1-30
+DS Provee,1463.0,Johan Manuel Torres Forero,2026-06-18,2026-07-09,774000.0,774000,32.0,12,1-30
+DS Provee,1468.0,Jose Jesus Ramirez Botero,2026-06-18,2026-07-11,5910600.0,5910600,32.0,10,1-30
+FE General,623.0,Leidy Johana Londono Monsalve,2026-06-18,2026-07-19,70000.0,70000,32.0,2,1-30
+FE General,622.0,Leidy Johana Londono Monsalve,2026-06-18,2026-07-19,2889100.0,2889100,32.0,2,1-30
+DS Provee,1459.0,Leidy Johana Londono Monsalve,2026-06-18,2026-07-09,1019000.0,988500,32.0,12,1-30
+FE General,624.0,Maria Del Carmen Londoño Agudelo,2026-06-18,2026-07-19,15518400.0,15518400,32.0,2,1-30
+DS Provee,1460.0,Maria Del Carmen Londoño Agudelo,2026-06-18,2026-07-09,7655750.0,7655750,32.0,12,1-30
+Rem General,1012.0,Martha Ligia Murillo Montoya,2026-06-18,2026-07-19,1415950.0,1314200,32.0,2,1-30
+DS Provee,1467.0,Martha Ligia Murillo Montoya,2026-06-18,2026-07-09,4993700.0,4993700,32.0,12,1-30
+Rem General,1009.0,Myriam Barreiro Gonzalez,2026-06-18,2026-07-19,3836000.0,3697000,32.0,2,1-30
+Rem General,1015.0,Francy Julieth Vera Cuellar,2026-06-19,2026-07-19,236950.0,236950,31.0,2,1-30
+DS Provee,1472.0,Inversiones Walak SAS,2026-06-19,2026-07-13,3005050.0,3005050,31.0,8,1-30
+FE General,628.0,Inversiones Walaw SAS,2026-06-19,2026-07-21,31900.0,31900,31.0,0,corriente
+FE General,627.0,Inversiones Walaw SAS,2026-06-19,2026-07-21,1676200.0,1676200,31.0,0,corriente
+FE General,629.0,Maria Dolly Meneses Lopez,2026-06-19,2026-07-22,1475700.0,1475700,31.0,-1,corriente
+Rem General,1020.0,Anderson Gallego Leon,2026-06-20,2026-07-23,1939800.0,1939800,30.0,-2,corriente
+Rem Provee,610.0,Anderson Gallego Leon,2026-06-20,2026-07-23,304800.0,304800,30.0,-2,corriente
+Rem General,1018.0,Angela Yaneth Loaiza,2026-06-20,2026-07-22,269600.0,269600,30.0,-1,corriente
+Rem Provee,609.0,Angela Yaneth Loaiza,2026-06-20,2026-07-13,220800.0,220800,30.0,8,1-30
+DS Provee,1483.0,Duque Giraldo Grupo Comercial Sas,2026-06-20,2026-07-20,960000.0,960000,30.0,1,1-30
+FE General,632.0,EL Centro Del Bebe Polo Acosta SAS,2026-06-20,2026-07-22,502400.0,502400,30.0,-1,corriente
+DS Provee,1495.0,EL Centro Del Bebe Polo Acosta SAS,2026-06-20,2026-07-13,522000.0,522000,30.0,8,1-30
+DS Provee,1488.0,EL Centro Del Bebe Polo Acosta SAS,2026-06-20,2026-07-13,2279400.0,1745400,30.0,8,1-30
+FE General,631.0,Elian Mauricio Aguirre Osorio,2026-06-20,2026-07-22,4860000.0,4860000,30.0,-1,corriente
+DS Provee,1485.0,Elian Mauricio Aguirre Osorio,2026-06-20,2026-07-13,1539600.0,1539600,30.0,8,1-30
+Rem General,1023.0,Francia Liliana Franco Marin,2026-06-20,2026-07-22,594400.0,594400,30.0,-1,corriente
+DS Provee,1494.0,Francia Liliana Franco Marin,2026-06-20,2026-07-13,465200.0,465200,30.0,8,1-30
+Rem General,1022.0,James Augusto Sanchez Murcia,2026-06-20,2026-07-22,461500.0,461500,30.0,-1,corriente
+DS Provee,1493.0,James Augusto Sanchez Murcia,2026-06-20,2026-07-13,2924100.0,2424100,30.0,8,1-30
+Rem General,1017.0,Maria Del Carmen Hincapie Aguirre,2026-06-20,2026-07-22,795200.0,795200,30.0,-1,corriente
+FE General,633.0,Monica Alejandra Castro Rojas,2026-06-20,2026-07-23,4246150.0,4246150,30.0,-2,corriente
+DS Provee,1497.0,Carmen Cecilia Naranjo Toro,2026-06-22,2026-07-14,3223850.0,3223850,28.0,7,1-30
+FE General,634.0,Pañalera Jeronimo S.A.S,2026-06-22,2026-07-22,1222000.0,1222000,28.0,-1,corriente
+FE General,635.0,Variedades El Mundo De Los Bebes S.A.S,2026-06-22,2026-07-23,6520800.0,6494700,28.0,-2,corriente
+Rem General,1024.0,Variedades El Mundo De Los Bebes S.A.S,2026-06-22,2026-07-23,9330000.0,9330000,28.0,-2,corriente
+DS Provee,1509.0,Belleza Express S.A,2026-06-23,2026-07-23,1309000.0,1309000,27.0,-2,corriente
+FE General,639.0,Duque Giraldo Grupo Comercial S.A.S,2026-06-23,2026-07-25,1466833.0,1466833,27.0,-4,corriente
+DS Provee,1508.0,Duque Giraldo Grupo Comercial Sas,2026-06-23,2026-07-18,4346723.0,4346723,27.0,3,1-30
+Rem General,1029.0,Francy Julieth Vera Cuellar,2026-06-23,2026-07-24,241400.0,241400,27.0,-3,corriente
+DS Provee,1504.0,Francy Julieth Vera Cuellar,2026-06-23,2026-07-14,946250.0,946250,27.0,7,1-30
+Rem General,1028.0,Maria Fernanda Buitrago Alzate,2026-06-23,2026-07-24,433000.0,433000,27.0,-3,corriente
+DS Provee,1501.0,Maria Fernanda Buitrago Alzate,2026-06-23,2026-07-14,588600.0,588600,27.0,7,1-30
+FE General,641.0,Andrea Del Pilar Zapata Bolivar,2026-06-24,2026-07-26,3983000.0,3983000,26.0,-5,corriente
+Rem General,1031.0,Group Family SAS,2026-06-24,2026-08-24,21146100.0,21146100,26.0,-34,corriente
+DS Provee,1510.0,Marco Polo Bolano Posso,2026-06-24,2026-07-16,713700.0,713700,26.0,5,1-30
+FE General,646.0,Alba Lucia Muñoz Gutierrez,2026-06-25,2026-07-30,2093000.0,2093000,25.0,-9,corriente
+DS Provee,1524.0,Alba Lucia Muñoz Gutierrez,2026-06-25,2026-07-20,966200.0,966200,25.0,1,1-30
+DS Provee,1514.0,Andrea Del Pilar Zapata Bolivar,2026-06-25,2026-07-16,4368100.0,4368100,25.0,5,1-30
+Rem General,1036.0,Harold Yamit Giraldo Sepulveda,2026-06-25,2026-07-26,263050.0,263050,25.0,-5,corriente
+DS Provee,1518.0,Harold Yamit Giraldo Sepulveda,2026-06-25,2026-07-17,1349000.0,1349000,25.0,4,1-30
+FE General,649.0,Alba Maria Marin De Cardona,2026-06-26,2026-08-01,3889500.0,3889500,24.0,-11,corriente
+DS Provee,1535.0,Alba Maria Marin De Cardona,2026-06-26,2026-07-20,207800.0,207800,24.0,1,1-30
+Rem General,1040.0,Ana Mariela Jaramillo Lopez,2026-06-26,2026-08-01,609050.0,609050,24.0,-11,corriente
+FE General,648.0,Angela Maria Jimenez Quintero,2026-06-26,2026-08-01,801400.0,801400,24.0,-11,corriente
+DS Provee,1534.0,Angela Maria Jimenez Quintero,2026-06-26,2026-07-20,453300.0,453300,24.0,1,1-30
+DS Provee,1536.0,Cindy Camila Serna Arango,2026-06-26,2026-07-01,912000.0,912000,24.0,20,1-30
+Rem General,1044.0,Diana Maria Morales Peña,2026-06-26,2026-07-27,429500.0,429500,24.0,-6,corriente
+DS Provee,1545.0,Diana Maria Morales Peña,2026-06-26,2026-07-13,1727800.0,1727800,24.0,8,1-30
+Rem General,1041.0,Hector Fabio Uribe Cano,2026-06-26,2026-08-01,304200.0,304200,24.0,-11,corriente
+DS Provee,1532.0,Hector Fabio Uribe Cano,2026-06-26,2026-07-20,3975200.0,3975200,24.0,1,1-30
+FE General,651.0,Leidy Vanesa Duque Perez,2026-06-26,2026-08-01,856000.0,856000,24.0,-11,corriente
+DS Provee,1537.0,Leidy Vanesa Duque Perez,2026-06-26,2026-07-20,3768600.0,3768600,24.0,1,1-30
+DS Provee,1529.0,Olga Ligia Restrepo Botero,2026-06-26,2026-07-01,918000.0,918000,24.0,20,1-30
+FE General,652.0,Santiago Gomez Duque,2026-06-26,2026-07-26,5900000.0,5900000,24.0,-5,corriente
+Rem General,1045.0,Alba Lucia Muñoz Gutierrez,2026-06-27,2026-07-30,609000.0,609000,23.0,-9,corriente
+DS Provee,1553.0,Angela Maria Jimenez Quintero,2026-06-27,2026-07-20,79600.0,79600,23.0,1,1-30
+FE General,654.0,Antonio Jose Ospina Parra,2026-06-27,2026-08-01,588600.0,588600,23.0,-11,corriente
+Rem General,1048.0,Antonio Niño Bedoya,2026-06-27,2026-07-30,1844650.0,1844650,23.0,-9,corriente
+DS Provee,1550.0,Antonio Niño Bedoya,2026-06-27,2026-07-20,228400.0,228400,23.0,1,1-30
+DS Provee,1555.0,Jhon Jairo Orozco Londono,2026-06-27,2026-07-21,18518600.0,18518600,23.0,0,corriente
+Rem General,1046.0,Juan Carlos Londoño Soto,2026-06-27,2026-07-30,94200.0,94200,23.0,-9,corriente
+DS Provee,1548.0,Juan Carlos Londoño Soto,2026-06-27,2026-07-20,7912050.0,7912050,23.0,1,1-30
+Rem General,1047.0,Mundo Materno SAS,2026-06-27,2026-07-30,2192800.0,2192800,23.0,-9,corriente
+DS Provee,1549.0,Mundo Materno SAS,2026-06-27,2026-07-20,1292700.0,1292700,23.0,1,1-30
+DS Provee,1552.0,Santiago Martinez Zuluaga,2026-06-27,2026-07-21,1188000.0,1188000,23.0,0,corriente
+Rem General,1050.0,Yulied Andrea Montes Munoz,2026-06-27,2026-07-30,2004300.0,2004300,23.0,-9,corriente
+DS Provee,1551.0,Yulied Andrea Montes Munoz,2026-06-27,2026-07-20,1759800.0,1759800,23.0,1,1-30
+DS Provee,1557.0,Andrea Del Pilar Zapata Bolivar,2026-06-30,2026-07-19,99600.0,99600,20.0,2,1-30
+FE General,655.0,Andres Mauricio Trujillo Quintero,2026-06-30,2026-08-01,1160500.0,1160500,20.0,-11,corriente
+DS Provee,1556.0,Andres Mauricio Trujillo Quintero,2026-06-30,2026-07-20,2749250.0,2749250,20.0,1,1-30
+FE General,656.0,Maria Del Socorrro Valencia,2026-06-30,2026-07-01,3347100.0,289900,20.0,20,1-30
+FE General,662.0,Carlos Arbey Bautista Cardenas,2026-07-01,2026-08-10,15250950.0,15250950,19.0,-20,corriente
+DS Provee,1565.0,Carlos Arbey Bautista Cardenas,2026-07-01,2026-07-30,14196800.0,14196800,19.0,-9,corriente
+FE General,661.0,Cristian Arturo Rodriguez Gonzalez,2026-07-01,2026-08-10,2426000.0,2426000,19.0,-20,corriente
+FE General,657.0,Cristian Camilo Cruz Sanchez,2026-07-01,2026-08-10,1959400.0,1959400,19.0,-20,corriente
+DS Provee,1558.0,Cristian Camilo Cruz Sanchez,2026-07-01,2026-07-31,3008250.0,3008250,19.0,-10,corriente
+FE General,660.0,Elsa Ximena Losada Ocampo,2026-07-01,2026-08-10,1532900.0,1532900,19.0,-20,corriente
+DS Provee,1564.0,Elsa Ximena Losada Ocampo,2026-07-01,2026-07-30,1701800.0,1701800,19.0,-9,corriente
+DS Provee,1567.0,Francy Julieth Vera Cuellar,2026-07-01,2026-07-22,739800.0,739800,19.0,-1,corriente
+FE General,659.0,Johan Manuel Torres Forero,2026-07-01,2026-08-10,3381800.0,3381800,19.0,-20,corriente
+DS Provee,1563.0,Johan Manuel Torres Forero,2026-07-01,2026-07-30,12364100.0,12364100,19.0,-9,corriente
+Rem General,1055.0,Luz Dary Zamudio Castaneda,2026-07-01,2026-08-10,638600.0,638600,19.0,-20,corriente
+DS Provee,1559.0,Luz Dary Zamudio Castaneda,2026-07-01,2026-07-31,414600.0,214600,19.0,-10,corriente
+FE General,658.0,Samuel Oviedo Quimbayo,2026-07-01,2026-08-10,3101200.0,3101200,19.0,-20,corriente
+DS Provee,1560.0,Samuel Oviedo Quimbayo,2026-07-01,2026-07-31,2292050.0,2292050,19.0,-10,corriente
+Rem General,1058.0,Tulia Ines Cardenas Quiroga,2026-07-01,2026-08-10,173500.0,173500,19.0,-20,corriente
+DS Provee,1566.0,Tulia Ines Cardenas Quiroga,2026-07-01,2026-07-30,1476600.0,1476600,19.0,-9,corriente
+FE General,663.0,Victor Fabian Ramirez Valencia,2026-07-01,2026-08-10,2080000.0,2080000,19.0,-20,corriente
+DS Provee,1573.0,Berta Ines Hoyos Giraldo,2026-07-02,2026-07-23,6223560.0,6223560,18.0,-2,corriente
+DS Provee,1574.0,Camilo Gomez Giraldo,2026-07-02,2026-07-23,3915039.0,3915039,18.0,-2,corriente
+Rem General,1061.0,Carmen Rosa Acosta Vanegas,2026-07-02,2026-08-06,952600.0,952600,18.0,-16,corriente
+DS Provee,1575.0,Carmen Rosa Acosta Vanegas,2026-07-02,2026-07-26,2210350.0,2210350,18.0,-5,corriente
+FE General,667.0,Cesar Augusto Ortiz Meneses,2026-07-02,2026-08-10,9818400.0,9678400,18.0,-20,corriente
+Rem General,1059.0,Francy Julieth Vera Cuellar,2026-07-02,2026-08-02,205000.0,205000,18.0,-12,corriente
+FE General,665.0,Lahida Llaned Aristizabal Aristizabal,2026-07-02,2026-08-10,4245000.0,4245000,18.0,-20,corriente
+FE General,666.0,Luz Marina Max Villalba,2026-07-02,2026-08-10,3214200.0,3214200,18.0,-20,corriente
+DS Provee,1570.0,Luz Marina Max Villalba,2026-07-02,2026-07-30,4776300.0,4776300,18.0,-9,corriente
+Rem General,1063.0,Adriana Parra Ramos,2026-07-03,2026-08-10,215500.0,215500,17.0,-20,corriente
+DS Provee,1581.0,Adriana Parra Ramos,2026-07-03,2026-07-30,4388300.0,4388300,17.0,-9,corriente
+Rem General,1064.0,Diego Albeiro Gallego Santa,2026-07-03,2026-08-06,1441300.0,1441300,17.0,-16,corriente
+DS Provee,1582.0,Diego Albeiro Gallego Santa,2026-07-03,2026-07-26,6505100.0,6505100,17.0,-5,corriente
+Rem Provee,615.0,Jairo Antonio Molina Cardozo,2026-07-03,2026-07-30,481200.0,481200,17.0,-9,corriente
+Rem General,1066.0,Juan Carlos Londoño Soto,2026-07-03,2026-08-06,840700.0,840700,17.0,-16,corriente
+FE General,669.0,Maria Nancy Gutierrez Quimbaya,2026-07-03,2026-08-10,139200.0,139200,17.0,-20,corriente
+DS Provee,1580.0,Maria Nancy Gutierrez Quimbaya,2026-07-03,2026-07-30,1700600.0,1700600,17.0,-9,corriente
+DS Provee,1579.0,Tulia Ines Cardenas Quiroga,2026-07-03,2026-07-30,535400.0,535400,17.0,-9,corriente
+FE General,670.0,Victor Orlando Gomez Bustamante,2026-07-03,2026-08-10,6143600.0,6143600,17.0,-20,corriente
+DS Provee,1583.0,Victor Orlando Gomez Bustamante,2026-07-03,2026-07-30,2644800.0,2644800,17.0,-9,corriente
+FE General,671.0,Yaney Santa Selis,2026-07-03,2026-08-10,3048400.0,3048400,17.0,-20,corriente
+FE General,674.0,Camelia Barbosa Alvarez,2026-07-04,2026-08-10,7123600.0,7123600,16.0,-20,corriente
+DS Provee,1595.0,Camelia Barbosa Alvarez,2026-07-04,2026-07-30,3351700.0,3351700,16.0,-9,corriente
+Rem General,1072.0,Francia Liliana Franco Marin,2026-07-04,2026-08-06,268000.0,268000,16.0,-16,corriente
+DS Provee,1594.0,Francia Liliana Franco Marin,2026-07-04,2026-07-26,813200.0,813200,16.0,-5,corriente
+FE General,673.0,Jose Wilson Hernandez Trejos,2026-07-04,2026-08-06,1050700.0,1050700,16.0,-16,corriente
+DS Provee,1592.0,Jose Wilson Hernandez Trejos,2026-07-04,2026-07-26,931200.0,931200,16.0,-5,corriente
+Rem General,1071.0,Maria Lourdes Morales,2026-07-04,2026-08-06,793500.0,793500,16.0,-16,corriente
+DS Provee,1593.0,Maria Lourdes Morales,2026-07-04,2026-07-26,1635150.0,1635150,16.0,-5,corriente
+FE General,672.0,Pañalera Y Miscelanea La Novena SAS,2026-07-04,2026-08-06,716000.0,716000,16.0,-16,corriente
+DS Provee,1590.0,Pañalera Y Miscelanea La Novena SAS,2026-07-04,2026-07-26,2851500.0,2851500,16.0,-5,corriente
+FE General,677.0,Elisabeth Mayerly Vasquez Olarte,2026-07-06,2026-08-10,1970900.0,1949700,14.0,-20,corriente
+DS Provee,1598.0,Elisabeth Mayerly Vasquez Olarte,2026-07-06,2026-07-30,451800.0,451800,14.0,-9,corriente
+FE General,675.0,Jairo Antonio Molina Cardozo,2026-07-06,2026-08-10,6157700.0,6157700,14.0,-20,corriente
+Rem General,1065.0,Jairo Antonio Molina Cardozo,2026-07-06,2026-08-10,4126300.0,4126300,14.0,-20,corriente
+DS Provee,1596.0,Jairo Antonio Molina Cardozo,2026-07-06,2026-07-30,702600.0,702600,14.0,-9,corriente
+FE General,679.0,Jennifer Alexandra Agudelo Llanos,2026-07-06,2026-08-10,1473900.0,1379400,14.0,-20,corriente
+DS Provee,1601.0,Jennifer Alexandra Agudelo Llanos,2026-07-06,2026-07-30,821900.0,821900,14.0,-9,corriente
+Rem General,1074.0,Jose Fernando  Quintero Ortega,2026-07-06,2026-07-17,51000.0,51000,14.0,4,1-30
+FE General,676.0,Juan Pablo Esterilla Puentes,2026-07-06,2026-08-10,612600.0,612600,14.0,-20,corriente
+DS Provee,1597.0,Juan Pablo Esterilla Puentes,2026-07-06,2026-07-30,250200.0,250200,14.0,-9,corriente
+DS Provee,1602.0,Julio Cesar Montoya Morales,2026-07-06,2026-07-27,1198100.0,1198100,14.0,-6,corriente
+Rem General,1075.0,Luis Fabian Rojas Calderon,2026-07-06,2026-08-10,2394200.0,2394200,14.0,-20,corriente
+DS Provee,1600.0,Luis Fabian Rojas Calderon,2026-07-06,2026-07-30,3838600.0,3838600,14.0,-9,corriente
+FE General,678.0,Nuvia Teresa Castillo Mendoza,2026-07-06,2026-08-10,1052200.0,1052200,14.0,-20,corriente
+DS Provee,1599.0,Nuvia Teresa Castillo Mendoza,2026-07-06,2026-07-30,5730800.0,5730800,14.0,-9,corriente
+FE General,682.0,Andres Mauricio Amortegui Restrepo,2026-07-07,2026-08-09,375800.0,375800,13.0,-19,corriente
+FE General,681.0,Andres Mauricio Amortegui Restrepo,2026-07-07,2026-08-09,832400.0,832400,13.0,-19,corriente
+DS Provee,1612.0,Andres Mauricio Amortegui Restrepo,2026-07-07,2026-07-29,60500.0,60500,13.0,-8,corriente
+Rem General,1080.0,Diana Maria Morales Peña,2026-07-07,2026-08-07,121200.0,121200,13.0,-17,corriente
+DS Provee,1606.0,Diana Maria Morales Peña,2026-07-07,2026-07-28,1518650.0,1518650,13.0,-7,corriente
+Rem General,1081.0,Francy Julieth Vera Cuellar,2026-07-07,2026-08-09,135250.0,135250,13.0,-19,corriente
+DS Provee,1607.0,Francy Julieth Vera Cuellar,2026-07-07,2026-07-29,647600.0,647600,13.0,-8,corriente
+Rem General,1076.0,Julio Cesar Montoya Morales,2026-07-07,2026-08-07,2683800.0,2683800,13.0,-17,corriente
+DS Provee,1603.0,Julio Cesar Montoya Morales,2026-07-07,2026-08-27,76000.0,76000,13.0,-37,corriente
+Rem General,1078.0,Liliana Hoyos Gutierrez,2026-07-07,2026-08-09,1249200.0,1249200,13.0,-19,corriente
+DS Provee,1604.0,Liliana Hoyos Gutierrez,2026-07-07,2026-07-29,11260400.0,11260400,13.0,-8,corriente
+Rem General,1084.0,Maria Fernanda Buitrago Alzate,2026-07-07,2026-08-09,667800.0,667800,13.0,-19,corriente
+DS Provee,1613.0,Maria Fernanda Buitrago Alzate,2026-07-07,2026-07-29,629100.0,629100,13.0,-8,corriente
+DS Provee,1614.0,Viviana Andrea Vergara Quintana,2026-07-07,2026-07-29,1807700.0,1807700,13.0,-8,corriente
+DS Provee,1616.0,Aracelly Suarez Marin,2026-07-08,2026-07-29,813600.0,813600,12.0,-8,corriente
+Rem General,1085.0,Carmen Cecilia Naranjo Toro,2026-07-08,2026-08-09,1033600.0,1033600,12.0,-19,corriente
+DS Provee,1615.0,Carmen Cecilia Naranjo Toro,2026-07-08,2026-07-29,1959300.0,1959300,12.0,-8,corriente
+DS Provee,1626.0,Claudia Patricia Montoya Torres,2026-07-08,2026-07-31,540000.0,540000,12.0,-10,corriente
+DS Provee,1623.0,Claudia Patricia Montoya Torres,2026-07-08,2026-07-31,2512800.0,2512800,12.0,-10,corriente
+DS Provee,1622.0,Comercializadora Toby SAS,2026-07-08,2026-07-31,4320000.0,4320000,12.0,-10,corriente
+DS Provee,1617.0,Consumidor Final,2026-07-08,2026-07-31,778800.0,778800,12.0,-10,corriente
+FE General,689.0,Elizabeth Obando Tobon,2026-07-08,2026-08-10,52800.0,52800,12.0,-20,corriente
+FE General,684.0,Elizabeth Obando Tobon,2026-07-08,2026-08-10,2373000.0,2373000,12.0,-20,corriente
+DS Provee,1619.0,Elizabeth Obando Tobon,2026-07-08,2026-07-31,1066000.0,1066000,12.0,-10,corriente
+DS Provee,1624.0,La Super Tienda Del Bebe Jv SAS,2026-07-08,2026-07-31,4680600.0,4680600,12.0,-10,corriente
+FE General,686.0,Luis Fernando Gomez Cartagena,2026-07-08,2026-08-10,3329900.0,3329900,12.0,-20,corriente
+DS Provee,1621.0,Luis Fernando Gomez Cartagena,2026-07-08,2026-07-31,438600.0,438600,12.0,-10,corriente
+FE General,683.0,Noralba Del Socorro Bedoya Giraldo,2026-07-08,2026-08-31,3903000.0,3880000,12.0,-41,corriente
+DS Provee,1625.0,Pañalera Jeronimo S.A.S,2026-07-08,2026-07-31,1324800.0,1324800,12.0,-10,corriente
+FE General,685.0,Santiago Gomez Duque,2026-07-08,2026-07-30,3302000.0,3302000,12.0,-9,corriente
+DS Provee,1620.0,Santiago Gomez Duque,2026-07-08,2026-07-31,2859200.0,2859200,12.0,-10,corriente
+FE General,688.0,Stella Tellez Correa,2026-07-08,2026-08-10,1400300.0,1400300,12.0,-20,corriente
+Rem Provee,618.0,Variedades El Mundo De Los Bebes,2026-07-08,2026-07-31,1620000.0,1620000,12.0,-10,corriente
+FE General,692.0,Andrea Del Pilar Zapata Bolivar,2026-07-09,2026-08-14,1995200.0,1995200,11.0,-24,corriente
+FE General,691.0,Anlly Daniela Taborda Villalobos,2026-07-09,2026-07-11,354000.0,354000,11.0,10,1-30
+DS Provee,1630.0,Anlly Daniela Taborda Villalobos,2026-07-09,2026-07-11,8484400.0,6185500,11.0,10,1-30
+Rem General,1087.0,Pañalera Jeronimo S.A.S,2026-07-09,2026-08-10,556000.0,556000,11.0,-20,corriente
+FE General,690.0,Rigoberto Andres Montano Riascos,2026-07-09,2026-07-10,3327800.0,2071900,11.0,11,1-30
+Rem General,1086.0,Variedades El Mundo De Los Bebes S.A.S,2026-07-09,2026-08-10,2460000.0,2460000,11.0,-20,corriente
+Rem General,1093.0,Alba Lucia Muñoz Gutierrez,2026-07-10,2026-08-15,1345300.0,1345300,10.0,-25,corriente
+DS Provee,1645.0,Alba Lucia Muñoz Gutierrez,2026-07-10,2026-08-03,1571500.0,1571500,10.0,-13,corriente
+DS Provee,1631.0,Andrea Del Pilar Zapata Bolivar,2026-07-10,2026-08-02,10966050.0,10966050,10.0,-12,corriente
+Rem General,1089.0,Cristian Andres Mancilla Castillo,2026-07-10,2026-08-21,6989700.0,6989700,10.0,-31,corriente
+DS Provee,1636.0,Cristian Andres Mancilla Castillo,2026-07-10,2026-08-09,6162100.0,6162100,10.0,-19,corriente
+DS Provee,1643.0,El Punto De La Belleza Mj SAS,2026-07-10,2026-08-03,2596700.0,2596700,10.0,-13,corriente
+DS Provee,1639.0,Gosen Occidente SAS,2026-07-10,2026-08-03,638400.0,638400,10.0,-13,corriente
+FE General,695.0,Importadora Mega SAS,2026-07-10,2026-08-10,975200.0,975200,10.0,-20,corriente
+Rem General,1088.0,Jennifer Alexandra Agudelo Llanos,2026-07-10,2026-08-21,317200.0,317200,10.0,-31,corriente
+Rem General,1090.0,Jose Arturo Ocampo Ramirez,2026-07-10,2026-08-14,2945800.0,2945800,10.0,-24,corriente
+DS Provee,1634.0,Jose Arturo Ocampo Ramirez,2026-07-10,2026-08-02,653400.0,653400,10.0,-12,corriente
+DS Provee,1633.0,Jose Arturo Ocampo Ramirez,2026-07-10,2026-08-02,3868650.0,3868650,10.0,-12,corriente
+DS Provee,1640.0,Luz Elena Lopez Valencia,2026-07-10,2026-08-03,6535400.0,6535400,10.0,-13,corriente
+Rem General,1092.0,Oscar Eduardo Echeverry Hoyos,2026-07-10,2026-08-11,494400.0,494400,10.0,-21,corriente
+DS Provee,1638.0,Oscar Eduardo Echeverry Hoyos,2026-07-10,2026-07-31,897300.0,897300,10.0,-10,corriente
+DS Provee,1635.0,Santiago Alberto Arias Ortiz,2026-07-10,2026-08-03,3251400.0,3251400,10.0,-13,corriente
+Rem General,1095.0,Harold Yamit Giraldo Sepulveda,2026-07-11,2026-08-14,1235000.0,1235000,9.0,-24,corriente
+DS Provee,1647.0,Harold Yamit Giraldo Sepulveda,2026-07-11,2026-08-03,610700.0,610700,9.0,-13,corriente
+FE General,697.0,Jairo Antonio Molina Cardozo,2026-07-11,2026-08-14,314000.0,314000,9.0,-24,corriente
+FE General,696.0,Jairo Holguin Rincon,2026-07-11,2026-08-14,879100.0,879100,9.0,-24,corriente
+Rem General,1096.0,Jairo Holguin Rincon,2026-07-11,2026-08-14,1549950.0,1549950,9.0,-24,corriente
+DS Provee,1649.0,Jairo Holguin Rincon,2026-07-11,2026-08-03,90000.0,90000,9.0,-13,corriente
+DS Provee,1648.0,Jairo Holguin Rincon,2026-07-11,2026-08-03,1556400.0,1556400,9.0,-13,corriente
+Rem General,1097.0,Maria Del Carmen Hincapie Aguirre,2026-07-11,2026-08-15,1249600.0,1249600,9.0,-25,corriente
+Rem General,1098.0,Maria Dolly Meneses Lopez,2026-07-11,2026-08-15,1069500.0,1069500,9.0,-25,corriente
+Rem Provee,620.0,Martha Ligia Murillo Montoya,2026-07-11,2026-08-03,1306800.0,1306800,9.0,-13,corriente
+Rem General,1107.0,Agustina Cruz Cardoso,2026-07-14,2026-08-17,949800.0,949800,6.0,-27,corriente
+DS Provee,1664.0,Distribuidora Extra SAS,2026-07-14,2026-08-15,4581681.0,4581681,6.0,-25,corriente
+FE General,700.0,Elian Mauricio Aguirre Osorio,2026-07-14,2026-08-15,6788700.0,6788700,6.0,-25,corriente
+DS Provee,1662.0,Elian Mauricio Aguirre Osorio,2026-07-14,2026-08-03,2987100.0,2987100,6.0,-13,corriente
+FE General,701.0,Endinayibert Fontecha,2026-07-14,2026-08-15,1306808.0,1306808,6.0,-25,corriente
+DS Provee,1663.0,Endinayibert Fontecha,2026-07-14,2026-08-15,1550723.0,1550723,6.0,-25,corriente
+FE General,699.0,Jamer Arley Arias Giron,2026-07-14,2026-08-17,4501900.0,4501900,6.0,-27,corriente
+DS Provee,1660.0,Jamer Arley Arias Giron,2026-07-14,2026-08-05,2214300.0,2214300,6.0,-15,corriente
+Rem General,1106.0,Juan Carlos Londoño Soto,2026-07-14,2026-08-15,385600.0,385600,6.0,-25,corriente
+DS Provee,1658.0,Juan Carlos Londoño Soto,2026-07-14,2026-08-03,2320600.0,2320600,6.0,-13,corriente
+Rem General,1103.0,Maria Lourdes Morales,2026-07-14,2026-08-14,1285300.0,1285300,6.0,-24,corriente
+DS Provee,1654.0,Maria Lourdes Morales,2026-07-14,2026-08-03,870000.0,870000,6.0,-13,corriente
+Rem General,1105.0,Yenny Andrea Lopez Montes,2026-07-14,2026-08-15,489900.0,489900,6.0,-25,corriente
+DS Provee,1657.0,Yenny Andrea Lopez Montes,2026-07-14,2026-08-03,3539100.0,3539100,6.0,-13,corriente
+Rem General,1108.0,Yohana Andrea Rendon Lopez,2026-07-14,2026-08-15,1244000.0,1244000,6.0,-25,corriente
+DS Provee,1661.0,Yohana Andrea Rendon Lopez,2026-07-14,2026-08-03,650550.0,650550,6.0,-13,corriente
+DS Provee,1665.0,Agustina Cruz Cardoso,2026-07-15,2026-08-05,2834600.0,2834600,5.0,-15,corriente
+DS Provee,1668.0,Camilo Gomez Giraldo,2026-07-15,2026-08-15,4465210.0,4465210,5.0,-25,corriente
+Rem General,1110.0,Carolina Carrasquilla Perez,2026-07-15,2026-08-16,2573050.0,2573050,5.0,-26,corriente
+DS Provee,1666.0,Carolina Carrasquilla Perez,2026-07-15,2026-08-04,3072250.0,3072250,5.0,-14,corriente
+FE General,702.0,Duque Giraldo Grupo Comercial S.A.S,2026-07-15,2026-08-15,10891795.0,10891795,5.0,-25,corriente
+FE General,704.0,Elsa Ximena Losada Ocampo,2026-07-15,2026-08-16,497000.0,497000,5.0,-26,corriente
+Rem General,1109.0,Juan Felipe Botero,2026-07-15,2026-08-15,67000.0,67000,5.0,-25,corriente
+FE General,703.0,Maria Celeny Arias Arias,2026-07-15,2026-08-16,3533600.0,3533600,5.0,-26,corriente
+DS Provee,1667.0,Maria Celeny Arias Arias,2026-07-15,2026-08-04,689600.0,689600,5.0,-14,corriente
+FE General,705.0,Angela Maria Jimenez Quintero,2026-07-16,2026-08-21,1188800.0,1188800,4.0,-31,corriente
+DS Provee,1673.0,Angela Maria Jimenez Quintero,2026-07-16,2026-08-09,178100.0,178100,4.0,-19,corriente
+DS Provee,1679.0,Anlly Daniela Taborda Villalobos,2026-07-16,2026-07-21,7917200.0,7917200,4.0,0,corriente
+FE General,706.0,Carlos Arturo Ardila Restrepo,2026-07-16,2026-08-21,1280000.0,1280000,4.0,-31,corriente
+Rem General,1111.0,Diana Maria Morales Peña,2026-07-16,2026-08-16,355900.0,355900,4.0,-26,corriente
+DS Provee,1678.0,Diana Maria Morales Peña,2026-07-16,2026-08-04,108900.0,108900,4.0,-14,corriente
+DS Provee,1669.0,Diana Maria Morales Peña,2026-07-16,2026-08-04,1729400.0,1729400,4.0,-14,corriente
+Rem General,1113.0,Francia Liliana Franco Marin,2026-07-16,2026-08-22,1355700.0,1355700,4.0,-32,corriente
+Rem General,1117.0,Francy Julieth Vera Cuellar,2026-07-16,2026-08-17,154000.0,154000,4.0,-27,corriente
+DS Provee,1680.0,Francy Julieth Vera Cuellar,2026-07-16,2026-08-06,686300.0,686300,4.0,-16,corriente
+FE General,707.0,Grupo Entrelazados S.A.S,2026-07-16,2026-07-18,720100.0,720100,4.0,3,1-30
+Rem General,1118.0,James Augusto Sanchez Murcia,2026-07-16,2026-08-21,1295400.0,1295400,4.0,-31,corriente
+DS Provee,1684.0,James Augusto Sanchez Murcia,2026-07-16,2026-07-21,167800.0,167800,4.0,0,corriente
+DS Provee,1683.0,James Augusto Sanchez Murcia,2026-07-16,2026-08-09,1172050.0,1172050,4.0,-19,corriente
+Rem General,1112.0,Jose Jesus Ramirez Botero,2026-07-16,2026-08-18,3938400.0,3938400,4.0,-28,corriente
+DS Provee,1672.0,Jose Jesus Ramirez Botero,2026-07-16,2026-08-06,6650400.0,6650400,4.0,-16,corriente
+DS Provee,1671.0,Jose Jesus Ramirez Botero,2026-07-16,2026-08-06,958800.0,958800,4.0,-16,corriente
+DS Provee,1677.0,Luis Horacio Madrid Serna,2026-07-16,2026-08-11,216900.0,216900,4.0,-21,corriente
+DS Provee,1675.0,Luis Horacio Madrid Serna,2026-07-16,2026-08-11,27895200.0,27895200,4.0,-21,corriente
+Rem General,1121.0,Antonio Niño Bedoya,2026-07-17,2026-08-21,1850500.0,1850500,3.0,-31,corriente
+DS Provee,1687.0,Antonio Niño Bedoya,2026-07-17,2026-08-09,965200.0,965200,3.0,-19,corriente
+FE General,708.0,Dayron Humberto Ramirez Marin,2026-07-17,2026-07-21,675300.0,675300,3.0,0,corriente
+DS Provee,1693.0,Dayron Humberto Ramirez Marin,2026-07-17,2026-07-21,158700.0,158700,3.0,0,corriente
+DS Provee,1692.0,Diana Ruth Berrio Osorio,2026-07-17,2026-07-21,642600.0,642600,3.0,0,corriente
+Rem General,1123.0,Erika Villota Acosta,2026-07-17,2026-07-21,1906250.0,1906250,3.0,0,corriente
+Rem General,1119.0,Irma Lucia Vargas Lopez,2026-07-17,2026-07-21,1987900.0,1987900,3.0,0,corriente
+DS Provee,1691.0,Leonardo Yate Morales,2026-07-17,2026-07-22,766450.0,766450,3.0,-1,corriente
+DS Provee,1690.0,Leonardo Yate Morales,2026-07-17,2026-07-22,1896300.0,1896300,3.0,-1,corriente
+Rem General,1122.0,Lina Maria Grajales Betancur,2026-07-17,2026-08-23,2736150.0,2736150,3.0,-33,corriente
+DS Provee,1689.0,Lina Maria Grajales Betancur,2026-07-17,2026-07-23,324600.0,324600,3.0,-2,corriente
+DS Provee,1688.0,Lina Maria Grajales Betancur,2026-07-17,2026-08-11,981550.0,981550,3.0,-21,corriente
+DS Provee,1685.0,Lorena Gallego Gil,2026-07-17,2026-07-23,2352600.0,2352600,3.0,-2,corriente
+Rem General,1116.0,Luis Horacio Madrid Serna,2026-07-17,2026-08-21,11924450.0,11924450,3.0,-31,corriente
+Rem General,1120.0,Sandra Marina Henao Gallo,2026-07-17,2026-08-21,2584950.0,2584950,3.0,-31,corriente
+DS Provee,1686.0,Sandra Marina Henao Gallo,2026-07-17,2026-08-11,899150.0,899150,3.0,-21,corriente
+FE General,709.0,Stella Hoyos Franco,2026-07-17,2026-07-23,2778500.0,2778500,3.0,-2,corriente
+Rem General,1130.0,Angelica Montoya  Munoz,2026-07-18,2026-08-22,1405500.0,1405500,2.0,-32,corriente
+DS Provee,1702.0,Angelica Montoya Munoz,2026-07-18,2026-08-11,1170000.0,1170000,2.0,-21,corriente
+Rem General,1126.0,Angelica Vargas Muñoz,2026-07-18,2026-07-21,247000.0,247000,2.0,0,corriente
+DS Provee,1698.0,Angelica Vargas Muñoz,2026-07-18,2026-07-21,192100.0,192100,2.0,0,corriente
+Rem General,1125.0,Esther Betancourth,2026-07-18,2026-07-21,123800.0,123800,2.0,0,corriente
+DS Provee,1697.0,Esther Betancourth,2026-07-18,2026-07-21,627800.0,627800,2.0,0,corriente
+DS Provee,1700.0,John Edwar Grajales Gil,2026-07-18,2026-07-21,526200.0,526200,2.0,0,corriente
+DS Provee,1695.0,Juan Rafael Ramirez Franco,2026-07-18,2026-07-31,4927200.0,4927200,2.0,-10,corriente
+Rem General,1127.0,Lahida Llaned Aristizabal Aristizabal,2026-07-18,2026-08-18,80000.0,80000,2.0,-28,corriente
+FE General,710.0,Luz Adiela Orozco Sanchez,2026-07-18,2026-08-22,4084350.0,4084350,2.0,-32,corriente
+DS Provee,1694.0,Luz Adiela Orozco Sanchez,2026-07-18,2026-08-11,2229400.0,2229400,2.0,-21,corriente
+Rem General,1128.0,Luz Marina Max Villalba,2026-07-18,2026-08-18,200000.0,200000,2.0,-28,corriente
+Rem General,1124.0,Margely Andrea Rendon,2026-07-18,2026-08-22,1535600.0,1535600,2.0,-32,corriente
+DS Provee,1696.0,Margely Andrea Rendon,2026-07-18,2026-08-11,3800300.0,3800300,2.0,-21,corriente
+FE General,711.0,Martha Lucia Bernal Devia,2026-07-18,2026-07-21,2781700.0,2781700,2.0,0,corriente
+DS Provee,1701.0,Martha Lucia Bernal Devia,2026-07-18,2026-07-21,322500.0,322500,2.0,0,corriente
+Rem General,1129.0,Oscar Dario Garces Valencia,2026-07-18,2026-08-22,508600.0,508600,2.0,-32,corriente
+Rem Provee,621.0,Oscar Dario Garces Valencia,2026-07-18,2026-08-11,25200.0,25200,2.0,-21,corriente
+DS Provee,1699.0,Yulied Andrea Montes Munoz,2026-07-18,2026-08-11,971350.0,971350,2.0,-21,corriente

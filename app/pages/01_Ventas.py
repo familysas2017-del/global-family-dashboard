@@ -48,22 +48,9 @@ st.subheader("Evolución mensual de ventas")
 vm = apply_filters(get_data("venta_mensual"), filters)
 vm = vm.sort_values("anio_mes")
 
-# Si el periodo cubre más de un año, mostrar YoY (barras agrupadas)
 if not vm.empty:
-    vm["anio"] = vm["anio_mes"].str[:4]
-    vm["mes"]  = vm["anio_mes"].str[5:7]
-    if vm["anio"].nunique() > 1:
-        fig = px.bar(vm, x="mes", y="venta_neta", color="anio",
-                     barmode="group",
-                     color_discrete_sequence=PALETA_SERIES)
-        fig.update_layout(paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)",
-                          height=380, margin=dict(l=10, r=10, t=10, b=10),
-                          xaxis_title="Mes", yaxis_title="Venta neta")
-        fig.update_yaxes(gridcolor="#E9ECEF")
-        st.plotly_chart(fig, use_container_width=True)
-    else:
-        fig = line_chart(vm, x="anio_mes", y="venta_neta", show_trend=True, height=380)
-        st.plotly_chart(fig, use_container_width=True)
+    fig = line_chart(vm, x="anio_mes", y="venta_neta", show_trend=True, height=380)
+    st.plotly_chart(fig, use_container_width=True)
 
 st.markdown("---")
 

@@ -1,0 +1,597 @@
+fecha,dia,mes,anio,tipo,concepto,valor_cop,medio_de_pago,observaciones,unnamed_9,clasificacion_fx,clasificacion_op,anio_mes
+2026-01-01,1,1,2026,Arriendos,Bodega,2455000.0,Efectivo,1 al 15 de Enero,,fijo,operacional,2026-01
+2026-01-01,1,1,2026,Arriendos,Bodega,2380000.0,Transferencia Cta Bancolombia,1 al 15 de Enero,,fijo,operacional,2026-01
+2026-01-02,2,1,2026,Viáticos Viajes Armenia,"Gasolina, peajes y almuerzo botero y pao",341000.0,Efectivo,1 al 4 de Enero,,variable,operacional,2026-01
+2026-01-02,2,1,2026,Gastos Camión TJB331,Parabrisas,460000.0,Efectivo,,,variable,operacional,2026-01
+2026-01-03,3,1,2026,Adecuaciones Bodega,"Gastos eléctricos, mano de obra y materiales",3705650.0,Efectivo,,,variable,operacional,2026-01
+2026-01-06,6,1,2026,Viáticos Viajes Armenia,"Gasolina, peajes y almuerzos botero y pao",468000.0,Efectivo,6 al 8 de Enero,,variable,operacional,2026-01
+2026-01-07,7,1,2026,Insumos Bodega,Compra Bolsas para empacar pañales,14000.0,Efectivo,,,variable,operacional,2026-01
+2026-01-07,7,1,2026,Gastos Camión TJB331,Extintor,17000.0,Efectivo,,,variable,operacional,2026-01
+2026-01-06,6,1,2026,Varios,Refrigerio descargue contenedor panama,82600.0,Efectivo,,,variable,operacional,2026-01
+2026-01-06,6,1,2026,Varios,Pilas para caminadores,13000.0,Efectivo,,,variable,operacional,2026-01
+2026-01-08,8,1,2026,Viáticos Logística,Ruta Manizales,174200.0,Efectivo,Peajes y alimentación,,variable,operacional,2026-01
+2026-01-08,8,1,2026,Gastos Camión TJB331,Botiquin,30000.0,Efectivo,,,variable,operacional,2026-01
+2026-01-09,9,1,2026,Viáticos Logística,Ruta cartago,40000.0,Efectivo,,,variable,operacional,2026-01
+2026-01-09,9,1,2026,Arriendos,Bodega,2455000.0,Efectivo,15 al 30 de Enero,,fijo,operacional,2026-01
+2026-02-01,1,2,2026,Arriendos,Bodega,2455000.0,Efectivo,1 al 15 de Febrero,,fijo,operacional,2026-02
+2026-01-13,13,1,2026,Insumos Bodega,43 Estibas Plasticas + transporte,1754000.0,Efectivo,,,variable,operacional,2026-01
+2026-01-14,14,1,2026,Insumos Oficina,Aguas y gaseosas,32050.0,Efectivo,,,variable,operacional,2026-01
+2026-01-14,14,1,2026,Viáticos Logística,Ruta Pereira,85200.0,Efectivo,Peajes y alimentación,,variable,operacional,2026-01
+2026-01-14,14,1,2026,Varios,Copias de llaves,6000.0,Efectivo,,,variable,operacional,2026-01
+2026-01-14,14,1,2026,Varios,Parqueadero moto descargue cigüeña y hugo,2800.0,Efectivo,,,variable,operacional,2026-01
+2026-01-15,15,1,2026,Fletes Nacionales,Cliente daniela muñoz,262650.0,Efectivo,,,variable,operacional,2026-01
+2026-01-15,15,1,2026,Insumos Bodega,Extintores,76000.0,Efectivo,,,variable,operacional,2026-01
+2026-01-15,15,1,2026,Nomina,1era Quincena Enero,3678000.0,Efectivo,,,fijo,operacional,2026-01
+2026-01-15,15,1,2026,Viáticos Vendedores,Auxilio Rodamiento Jaime Sanchez,600000.0,Efectivo,,,variable,operacional,2026-01
+2026-01-16,16,1,2026,Fletes Nacionales,2do envio praktiplas,1130000.0,Efectivo,,,variable,operacional,2026-01
+2026-01-16,16,1,2026,Viáticos Logística,Ruta occidente,184400.0,Efectivo,,,variable,operacional,2026-01
+2026-01-17,17,1,2026,Viáticos Logística,Ruta valle tulua zarzal,136000.0,Efectivo,,,variable,operacional,2026-01
+2026-01-19,19,1,2026,Fletes Nacionales,3ero envio praktiplas,1130000.0,Efectivo,,,variable,operacional,2026-01
+2026-01-20,20,1,2026,Varios,Propina angelo praktiplast,20000.0,Efectivo,,,variable,operacional,2026-01
+2026-01-20,20,1,2026,Fletes Nacionales,4to envio praktiplas,1130000.0,Efectivo,,,variable,operacional,2026-01
+2026-01-21,21,1,2026,Fletes Nacionales,Envio pedido praktiplas y pedido tulua,300000.0,Efectivo,,,variable,operacional,2026-01
+2026-01-22,22,1,2026,Gastos Camión SQD932,Reparaciones camion y gastos varios,4823000.0,Efectivo,,,variable,operacional,2026-01
+2026-01-22,22,1,2026,Varios,Descargue pedido duque giraldo,150000.0,Efectivo,,,variable,operacional,2026-01
+2026-01-22,22,1,2026,Viáticos Viajes Armenia,"Peajes, airbnb 2 noches, almuerzos, gasolina y comida",634000.0,Efectivo,22 al 23 de enero,,variable,operacional,2026-01
+2026-01-22,22,1,2026,Insumos Bodega,Estanteria Industrial 8 torres 28 vigas,3100000.0,Efectivo,,,variable,operacional,2026-01
+2026-01-22,22,1,2026,Fletes Nacionales,Cliente mundo de los bebes,22022.0,Efectivo,,,variable,operacional,2026-01
+2026-01-23,23,1,2026,Viáticos Logística,Ruta Pereira,82400.0,Efectivo,,,variable,operacional,2026-01
+2026-01-23,23,1,2026,Viáticos Logística,Ruta Valle,56200.0,Efectivo,,,variable,operacional,2026-01
+2026-01-23,23,1,2026,Viáticos Logística,Ruta cartago,40000.0,Efectivo,,,variable,operacional,2026-01
+2026-01-23,23,1,2026,Viáticos Vendedores,James Sanchez,158000.0,Efectivo,,,variable,operacional,2026-01
+2026-01-23,23,1,2026,Viáticos Vendedores,James Sanchez,55000.0,Efectivo,,,variable,operacional,2026-01
+2026-01-15,15,1,2026,Fletes Nacionales,1er envio praktiplas,1130000.0,Efectivo,,,variable,operacional,2026-01
+2026-01-30,30,1,2026,Arriendos,Bodega,2380000.0,Transferencia Cta Bancolombia,15 al 30 de Enero,,fijo,operacional,2026-01
+2026-02-01,1,2,2026,Arriendos,Bodega,2380000.0,Transferencia Cta Bancolombia,1 al 15 de Febrero,,fijo,operacional,2026-02
+2026-01-15,15,1,2026,Nomina,1era Quincena Enero,11384133.0,Transferencia Cta Bancolombia,,,fijo,operacional,2026-01
+2026-01-30,30,1,2026,Nomina,2da Quincena Enero,11384133.0,Transferencia Cta Bancolombia,,,fijo,operacional,2026-01
+2026-01-30,30,1,2026,Nomina,Intereses a las Cesantias,117064.0,Transferencia Cta Bancolombia,Pagados el 30 de Enero,,fijo,operacional,2026-01
+2026-01-30,30,1,2026,Comisión Consignaciones CB,,810120.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-01
+2026-01-30,30,1,2026,Viáticos Vendedores,Tiquetes medellin Jaime y Botero,444180.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-01
+2026-01-30,30,1,2026,Varios,Firma electrónica certicamaras,353902.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-01
+2026-01-30,30,1,2026,Servicio Pago a Proveedores,,99750.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-01
+2026-01-30,30,1,2026,Servicio Pago de Nómina,,71820.0,Transferencia Cta Bancolombia,,,fijo,operacional,2026-01
+2026-01-30,30,1,2026,Servicio Pago a Otros Bancos,,37950.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-01
+2026-01-30,30,1,2026,Servicios Pago a Nequi,,7980.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-01
+2026-01-30,30,1,2026,Varios,Certificados de Camara,24200.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-01
+2026-01-30,30,1,2026,Gastos Camión TJB331,Gps,48681.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-01
+2026-01-30,30,1,2026,Cuota de Manejo,Cuota manejo,44700.0,Transferencia Cta Bancolombia,,,fijo,operacional,2026-01
+2026-01-30,30,1,2026,4 x mil,,1877191.0,Transferencia Cta Bancolombia,Enero,,variable,no_operacional,2026-01
+2026-01-30,30,1,2026,Contabilidad,Servicio contabilidad,1500000.0,Efectivo,,,fijo,operacional,2026-01
+2026-01-30,30,1,2026,Nomina,2da Quincena Enero,3678000.0,Efectivo,,,fijo,operacional,2026-01
+2026-01-24,24,1,2026,Insumos Bodega,Bolsas para empacar accesorios,120000.0,Efectivo,,,variable,operacional,2026-01
+2026-01-24,24,1,2026,Viáticos Viajes Armenia,Almuerzo botero y pao,59000.0,Efectivo,,,variable,operacional,2026-01
+2026-01-27,27,1,2026,Viáticos Logística,Ruta Pereira,82400.0,Efectivo,,,variable,operacional,2026-01
+2026-01-27,27,1,2026,Insumos Oficina,Calculadoras,18000.0,Efectivo,,,variable,operacional,2026-01
+2026-01-27,27,1,2026,Plan de Datos,James Sanchez,40250.0,Efectivo,,,fijo,operacional,2026-01
+2026-01-28,28,1,2026,Fletes Nacionales,Envio a cliente,64181.0,Efectivo,,,variable,operacional,2026-01
+2026-01-29,29,1,2026,Insumos Bodega,Bolsas grande rollo,345000.0,Efectivo,,,variable,operacional,2026-01
+2026-01-30,30,1,2026,Viáticos Logística,Ruta Manizales,118000.0,Efectivo,,,variable,operacional,2026-01
+2026-01-31,31,1,2026,Aseo,Trapeadores y escobas,19150.0,Efectivo,,,variable,operacional,2026-01
+2026-02-02,2,2,2026,Viáticos Logística,Ruta Florencia camion fabian,3500000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-02,2,2,2026,Intereses,2da cuota intereses jeison,5000000.0,Efectivo,,,variable,no_operacional,2026-02
+2026-01-01,1,1,2026,Intereses,1er cuota intereses jeison,5000000.0,Efectivo,,,variable,no_operacional,2026-01
+2026-02-04,4,2,2026,Adecuaciones Bodega,Mano de obra baños,1800000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-04,4,2,2026,Adecuaciones Bodega,Porcelanato 30mil m2,280000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-04,4,2,2026,Adecuaciones Bodega,"Materiales para los baños (estuco,tubos,cemento,piedra, arena)",1155700.0,Efectivo,,,variable,operacional,2026-02
+2026-02-04,4,2,2026,Adecuaciones Bodega,"2 combos de sanitarios y lavamanos, dispensadore de toallas, grifos",1171800.0,Efectivo,,,variable,operacional,2026-02
+2026-02-04,4,2,2026,Varios,Gaseosas cargue camion,13000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-04,4,2,2026,Varios,Parqueadero camion en cali,37000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-04,4,2,2026,Fletes Locales,Flete a cliente,28650.0,Efectivo,,,variable,operacional,2026-02
+2026-02-04,4,2,2026,Viáticos Logística,Ruta Pereira,82400.0,Efectivo,,,variable,operacional,2026-02
+2026-02-04,4,2,2026,Nomina,Horas Extra cargue ruta florencia,150000.0,Efectivo,,,fijo,operacional,2026-02
+2026-02-04,4,2,2026,Varios,Comida cargue ruta florencia,96000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-04,4,2,2026,Varios,Refrigerio descargue contenedor china,36700.0,Efectivo,,,variable,operacional,2026-02
+2026-02-04,4,2,2026,Gastos Camión TJB331,Canado puerta,27000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-04,4,2,2026,Viáticos Vendedores,Viaje Medellin botero y jaime,642000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-06,6,2,2026,Arriendos,Bodega,2455000.0,Efectivo,15 al 28 de Febrero,,fijo,operacional,2026-02
+2026-03-01,1,3,2026,Arriendos,Bodega,2455000.0,Efectivo,1 al 15 de Marzo,,fijo,operacional,2026-03
+2026-01-06,6,1,2026,Servicios Públicos,Agua,50250.0,Efectivo,Enero,,fijo,operacional,2026-01
+2026-02-06,6,2,2026,Viáticos Logística,Ruta cartago,40000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-06,6,2,2026,Nomina,Pago auxiliar bodega 2 dias,128000.0,Efectivo,,,fijo,operacional,2026-02
+2026-02-07,7,2,2026,Viáticos Logística,Ruta Cali,198000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-07,7,2,2026,Viáticos Vendedores,James Sanchez Cartago,29000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-07,7,2,2026,Viáticos Vendedores,James Sanchez Montenegro,28000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-09,9,2,2026,Viáticos Viajes Armenia,"Gasolina, peajes",298800.0,Efectivo,9 al 12 de Febrero,,variable,operacional,2026-02
+2026-02-09,9,2,2026,Viáticos Viajes Armenia,"Almuerzo botero, pao y nathalia",85000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-09,9,2,2026,Viáticos Logística,Ruta pereira,82400.0,Efectivo,,,variable,operacional,2026-02
+2026-02-09,9,2,2026,Varios,Cartulina,23000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-10,10,2,2026,Insumos Bodega,"Jabones, papel higienico, ambientadores",71000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-10,10,2,2026,Viáticos Viajes Armenia,"Comida + desayunos 2 dias botero, pao y nathalia",204800.0,Efectivo,,,variable,operacional,2026-02
+2026-02-11,11,2,2026,Varios,Veneno cucarachas,25600.0,Efectivo,,,variable,operacional,2026-02
+2026-02-11,11,2,2026,Viáticos Viajes Armenia,"Almuerzo botero, pao y nathalia",85300.0,Efectivo,,,variable,operacional,2026-02
+2026-02-11,11,2,2026,Viáticos Logística,Viaticos jovanny viaje florencia,314000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-11,11,2,2026,Viáticos Viajes Armenia,"Comida botero, pao y nathalia",67000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-11,11,2,2026,Viáticos Viajes Armenia,Desayuno pao y botero,31000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-11,11,2,2026,Viáticos Viajes Armenia,Comida pao y botero,66000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-28,28,2,2026,Comisión Consignaciones CB,,819540.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-02
+2026-02-28,28,2,2026,Servicio Pago a Proveedores,,83790.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-02
+2026-02-28,28,2,2026,Servicio Pago de Nómina,,71820.0,Transferencia Cta Bancolombia,,,fijo,operacional,2026-02
+2026-02-28,28,2,2026,Cuota de Manejo,Cuota manejo,44700.0,Transferencia Cta Bancolombia,,,fijo,operacional,2026-02
+2026-02-28,28,2,2026,Servicio Pago a Otros Bancos,,15180.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-02
+2026-02-28,28,2,2026,Servicios Pago a Nequi,,7980.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-02
+2026-02-28,28,2,2026,Servicio Transferencia Virtual,,7590.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-02
+2026-02-28,28,2,2026,4 x mil,,1685412.0,Transferencia Cta Bancolombia,,,variable,no_operacional,2026-02
+2026-02-28,28,2,2026,Comisiones a Vendedores,James Sanchez,802327.0,Efectivo,Venta Febrero Pagada en Marzo,,variable,operacional,2026-02
+2026-02-28,28,2,2026,Comisiones a Vendedores,John Fredy Gonzales,561628.0,Efectivo,Venta Febrero Pagada en Marzo,,variable,operacional,2026-02
+2026-02-28,28,2,2026,Comisiones a Vendedores,Eugenia Torres,245918.0,Efectivo,Venta Febrero Pagada en Marzo,,variable,operacional,2026-02
+2026-01-30,30,1,2026,Comisiones a Vendedores,James Sanchez,733107.0,Efectivo,Venta Enero Pagada en Marzo,,variable,operacional,2026-01
+2026-01-30,30,1,2026,Comisiones a Vendedores,John Fredy Gonzales,754505.0,Efectivo,Venta Enero Pagada en Marzo,,variable,operacional,2026-01
+2026-01-30,30,1,2026,Comisiones a Vendedores,James Sanchez,1649097.0,Efectivo,Venta Enero Pagada en Febrero,,variable,operacional,2026-01
+2026-01-30,30,1,2026,Comisiones a Vendedores,John Fredy Gonzales,350414.0,Efectivo,Venta Enero Pagada en Febrero,,variable,operacional,2026-01
+2026-01-30,30,1,2026,Comisiones a Vendedores,Eugenia Torres,138772.0,Efectivo,Venta Enero Pagada en Febrero,,variable,operacional,2026-01
+2026-02-15,15,2,2026,Nomina,1er Quincena Febrero,11381136.0,Transferencia Cta Bancolombia,1 al 15 de Febrero,,fijo,operacional,2026-02
+2026-02-28,28,2,2026,Nomina,2da Quincena Febrero,11367529.0,Transferencia Cta Bancolombia,1 al 28 de Febrero,,fijo,operacional,2026-02
+2026-02-12,12,2,2026,Comisiones Swift,1er Giro Aurora,126686.0,Transferencia Cta Bancolombia,,,variable,costo_importacion,2026-02
+2026-01-30,30,1,2026,Planilla salud y pensión,,5285400.0,Transferencia Cta Bancolombia,Enero,,fijo,operacional,2026-01
+2026-02-13,13,2,2026,Cesantias,,4413579.0,Transferencia Cta Bancolombia,Año 2025,,fijo,no_operacional,2026-02
+2026-02-12,12,2,2026,Varios,Tecnomecanica Moto,247300.0,Efectivo,,,variable,operacional,2026-02
+2026-02-12,12,2,2026,Varios,Arreglo pito y bombillo moto,27000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-12,12,2,2026,Varios,Office computador eugenia,50000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-12,12,2,2026,Viáticos Viajes Armenia,"Almuerzo botero, pao y jaime",87100.0,Efectivo,,,variable,operacional,2026-02
+2026-02-12,12,2,2026,Servicios Públicos,Agua,50400.0,Efectivo,Febrero,,fijo,operacional,2026-02
+2026-02-12,12,2,2026,Varios,Compra Torta,15000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-12,12,2,2026,Adecuaciones Bodega,Pintura para columnas,145000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-12,12,2,2026,Varios,"Aguas, turrones y gaseosas",70160.0,Efectivo,,,variable,operacional,2026-02
+2026-02-15,15,2,2026,Nomina,1er Quincena Febrero,3678000.0,Efectivo,,,fijo,operacional,2026-02
+2026-02-15,15,2,2026,Viáticos Vendedores,Auxilio Rodamiento Jaime Sanchez,600000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-13,13,2,2026,Viáticos Logística,"Ruta fresno, mariqeuita y pto boyaca",458600.0,Efectivo,,,variable,operacional,2026-02
+2026-02-14,14,2,2026,Nomina,5 dias auxiliar adicional,32000.0,Efectivo,,,fijo,operacional,2026-02
+2026-02-14,14,2,2026,Viáticos Logística,Ruta valle,56200.0,Efectivo,,,variable,operacional,2026-02
+2026-02-14,14,2,2026,Adecuaciones Bodega,Chasos y tornillos,6400.0,Efectivo,,,variable,operacional,2026-02
+2026-02-16,16,2,2026,Insumos Bodega,"Platos, pocillos, escurridor, cepillos sanitarios",181860.0,Efectivo,,,variable,operacional,2026-02
+2026-02-17,17,2,2026,Viáticos Viajes Armenia,"Gasolina, pejaes desayuno y comida",470624.0,Efectivo,,,variable,operacional,2026-02
+2026-02-17,17,2,2026,Varios,Compra en el molino visita don juan a la sala,75000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-17,17,2,2026,Viáticos Viajes Armenia,Invitacion a jeison y diana por hospedaje,69000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-17,17,2,2026,Dotación,Bordados camisetas,50000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-17,17,2,2026,Gastos Camión SQD932,Soat,888400.0,Efectivo,,,variable,operacional,2026-02
+2026-01-15,15,1,2026,Servicios Públicos,Internet,120000.0,Efectivo,Enero,,fijo,operacional,2026-01
+2026-01-15,15,1,2026,Insumos Bodega,Pintura para porta estiba,50100.0,Efectivo,,,variable,operacional,2026-01
+2026-02-18,18,2,2026,Insumos Oficina,Antivirus,155400.0,Efectivo,,,variable,operacional,2026-02
+2026-02-18,18,2,2026,Viáticos Logística,Ruta pereira,82400.0,Efectivo,,,variable,operacional,2026-02
+2026-02-17,17,2,2026,Viáticos Logística,Ruta ibague,140200.0,Efectivo,,,variable,operacional,2026-02
+2026-02-18,18,2,2026,Adecuaciones Bodega,Instalacionn puertas de los baños,160000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-20,20,2,2026,Fletes Nacionales,Envio antonio gonzales,125000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-21,21,2,2026,Fletes Nacionales,Envio damaris certuche,270000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-21,21,2,2026,Adecuaciones Bodega,Arreglo conexiones baños,80000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-21,21,2,2026,Viáticos Logística,Ruta ibague ,66000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-21,21,2,2026,Viáticos Logística,Ruta cartago,40000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-21,21,2,2026,Fletes Nacionales,Envio almipro a la extra,24000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-21,21,2,2026,Gastos Camión TJB331,"Cambio filtro, aceite y tension de frenos",309600.0,Efectivo,,,variable,operacional,2026-02
+2026-02-21,21,2,2026,Insumos Bodega,Zuncho,64000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-21,21,2,2026,Servicios Públicos,Internet,165500.0,Efectivo,Febrero,,fijo,operacional,2026-02
+2026-02-21,21,2,2026,Plan de Datos,James Sanchez,35900.0,Efectivo,,,fijo,operacional,2026-02
+2026-02-23,23,2,2026,Viáticos Vendedores,James Sanchez Cartago,29000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-23,23,2,2026,Viáticos Vendedores,James Sanchez Quimbaya,28000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-28,28,2,2026,Planilla salud y pensión,,5276600.0,Transferencia Cta Bancolombia,,,fijo,operacional,2026-02
+2026-02-24,24,2,2026,Viáticos Vendedores,Jaime Sanchez Cali,80000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-25,25,2,2026,Fletes Nacionales,Envio pedido praktiplas armenia-cali,100000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-25,25,2,2026,Fletes Nacionales,,130000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-25,25,2,2026,Fletes Nacionales,Envio damaris certuche,55000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-25,25,2,2026,Contabilidad,Servicio contabilidad,1500000.0,Efectivo,,,fijo,operacional,2026-02
+2026-02-25,25,2,2026,Varios,Camara de comercio cambio respresentantes legales,190000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-23,23,2,2026,Viáticos Logística,Ruta pereira,82400.0,Efectivo,,,variable,operacional,2026-02
+2026-02-26,26,2,2026,Viáticos Logística,"Ruta girardot, nevia, espinal",499500.0,Efectivo,,,variable,operacional,2026-02
+2026-02-27,27,2,2026,Dotación,Jeans bodega,540000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-27,27,2,2026,Viáticos Logística,Ruta cali,100000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-27,27,2,2026,Viáticos Logística,Entrega duque giraldo praktiplas,25000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-28,28,2,2026,Fletes Nacionales,Envio henry nelson,214350.0,Efectivo,,,variable,operacional,2026-02
+2026-02-28,28,2,2026,Nomina,2da Quincena Febrero,4683000.0,Efectivo,,,fijo,operacional,2026-02
+2026-02-06,6,2,2026,Adecuaciones Bodega,Arreglo camaras bodega,491314.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-02
+2026-02-15,15,2,2026,Arriendos,Bodega,2380000.0,Transferencia Cta Bancolombia,15 al 28 de Febrero,,fijo,operacional,2026-02
+2026-03-01,1,3,2026,Arriendos,Bodega,2380000.0,Transferencia Cta Bancolombia,1 al 15 de Marzo,,fijo,operacional,2026-03
+2026-02-04,4,2,2026,Viáticos Vendedores,Hotel Medellin jaime y botero,181151.0,Efectivo,,,variable,operacional,2026-02
+2026-02-04,4,2,2026,Viáticos Vendedores,Gastos correria medellin,358000.0,Efectivo,,,variable,operacional,2026-02
+2026-02-06,6,2,2026,Varios,Hotel 2 noches en valledupar,617600.0,Efectivo,,,variable,operacional,2026-02
+2026-02-06,6,2,2026,Varios,Gastos viaje valledupar,388500.0,Efectivo,,,variable,operacional,2026-02
+2026-02-13,13,2,2026,Varios,Soat Moto,226000.0,Efectivo,,,variable,operacional,2026-02
+2026-03-02,2,3,2026,Descuentos por Actividades,Descuento a group family actividad,153545.0,Cruce Factura,,,variable,operacional,2026-03
+2026-03-02,2,3,2026,Publicidad,Abono pagina web,2100000.0,Efectivo,,,variable,operacional,2026-03
+2026-03-03,3,3,2026,Viáticos Viajes Armenia,"Gasolina, peajes, almuerzo y comida",414000.0,Efectivo,,,variable,operacional,2026-03
+2026-03-03,3,3,2026,Fletes Locales,Envio a tebaida,80000.0,Efectivo,,,variable,operacional,2026-03
+2026-03-03,3,3,2026,Viáticos Logística,Ruta occidente,224400.0,Efectivo,,,variable,operacional,2026-03
+2026-03-02,2,3,2026,Viáticos Logística,Ruta pereira,82400.0,Efectivo,,,variable,operacional,2026-03
+2026-03-03,3,3,2026,Viáticos Logística,Ruta valle y cali,238800.0,Efectivo,,,variable,operacional,2026-03
+2026-03-03,3,3,2026,Viáticos Vendedores,James Sanchez,175000.0,Efectivo,,,variable,operacional,2026-03
+2026-03-03,3,3,2026,Dotación,Jeans Eugenia,90000.0,Efectivo,,,variable,operacional,2026-03
+2026-03-04,4,3,2026,Viáticos Viajes Armenia,Almuerzos,83500.0,Efectivo,,,variable,operacional,2026-03
+2026-03-04,4,3,2026,Insumos Bodega,Bolsas de empaque,136000.0,Efectivo,,,variable,operacional,2026-03
+2026-03-04,4,3,2026,Viáticos Logística,Ruta caicedonia zarzal,66800.0,Efectivo,,,variable,operacional,2026-03
+2026-03-04,4,3,2026,Intereses,Marzo,5000000.0,Efectivo,,,variable,no_operacional,2026-03
+2026-03-04,4,3,2026,Insumos Bodega,Toallas de manos baños,20000.0,Efectivo,,,variable,operacional,2026-03
+2026-03-05,5,3,2026,Fletes Nacionales,Pedido praktiplas leo,1130000.0,Efectivo,,,variable,operacional,2026-03
+2026-03-05,5,3,2026,Fletes Nacionales,Daniela muñoz,28000.0,Efectivo,,,variable,operacional,2026-03
+2026-03-06,6,3,2026,Fletes Nacionales,Envio praktiplas endy + descargue,580000.0,Efectivo,,,variable,operacional,2026-03
+2026-03-06,6,3,2026,Viáticos Viajes Armenia,"Almuerzos botero, pao y yuri",112600.0,Efectivo,,,variable,operacional,2026-03
+2026-03-06,6,3,2026,Nomina,Horas extras descargue praktiplas,125000.0,Efectivo,,,fijo,operacional,2026-03
+2026-03-06,6,3,2026,Viáticos Logística,Ruta Manizales,178000.0,Efectivo,,,variable,operacional,2026-03
+2026-03-06,6,3,2026,Viáticos Logística,Ruta cartago,40000.0,Efectivo,,,variable,operacional,2026-03
+2026-03-06,6,3,2026,Viáticos Vendedores,James sanchez cartago montenegro manizales,91000.0,Efectivo,,,variable,operacional,2026-03
+2026-03-07,7,3,2026,Gastos Camión TJB331,Arreglo cardan,130000.0,Efectivo,,,variable,operacional,2026-03
+2026-03-09,9,3,2026,Fletes Nacionales,Mundo de los bebes,282500.0,Efectivo,,,variable,operacional,2026-03
+2026-03-10,10,3,2026,Insumos Bodega,42 estibas plasticas,1600000.0,Efectivo,,,variable,operacional,2026-03
+2026-03-10,10,3,2026,Varios,Inscripcion seguridad social y cambios en caja de compensacion,150000.0,Efectivo,,,variable,operacional,2026-03
+2026-03-12,12,3,2026,Varios,Refrigerio descargue contenedor china,40000.0,Efectivo,,,variable,operacional,2026-03
+2026-03-12,12,3,2026,Viáticos Logística,Ruta pereira,82400.0,Efectivo,,,variable,operacional,2026-03
+2026-03-12,12,3,2026,Viáticos Logística,Ruta medellin,901800.0,Efectivo,,,variable,operacional,2026-03
+2026-03-12,12,3,2026,Nomina,Horas extras nocturnas descargue praktiplas y toallitas,338250.0,Efectivo,,,fijo,operacional,2026-03
+2026-03-12,12,3,2026,Fletes Nacionales,Envio praktiplas,400000.0,Efectivo,,,variable,operacional,2026-03
+2026-03-13,13,3,2026,Varios,Gastos viaje feria coveñas,366500.0,Efectivo,,,variable,operacional,2026-03
+2026-03-13,13,3,2026,Fletes Nacionales,Envio a cliente Claudia alexandra,108000.0,Efectivo,,,variable,operacional,2026-03
+2026-03-14,14,3,2026,Nomina,1er Quincena Marzo,3828000.0,Efectivo,1 al 15 de Marzo,,fijo,operacional,2026-03
+2026-03-16,16,3,2026,Varios,Aguas,26850.0,Efectivo,,,variable,operacional,2026-03
+2026-03-16,16,3,2026,Insumos Oficina,"Marcadores, resaltadores, bisturi y recibos de caja menos",106484.0,Efectivo,,,variable,operacional,2026-03
+2026-03-16,16,3,2026,Viáticos Viajes Armenia,"Almuerzos botero, pao y jaime",118000.0,Efectivo,,,variable,operacional,2026-03
+2026-03-16,16,3,2026,Viáticos Logística,Ruta pereira,102400.0,Efectivo,,,variable,operacional,2026-03
+2026-03-16,16,3,2026,Viáticos Viajes Armenia,Gasolina peajes comidas,377381.0,Efectivo,16 al 18 de marzo,,variable,operacional,2026-03
+2026-03-17,17,3,2026,Fletes Nacionales,Envio a cliente mundo de los bebes,57000.0,Efectivo,,,variable,operacional,2026-03
+2026-03-17,17,3,2026,Viáticos Vendedores,James sanchez valle,35000.0,Efectivo,,,variable,operacional,2026-03
+2026-03-19,19,3,2026,Fletes Nacionales,Envioa a cliente noralba de medellin,195700.0,Efectivo,,,variable,operacional,2026-03
+2026-03-21,21,3,2026,Viáticos Logística,Ruta cartago,60000.0,Efectivo,,,variable,operacional,2026-03
+2026-03-21,21,3,2026,Viáticos Logística,Ruta valle 1,76200.0,Efectivo,,,variable,operacional,2026-03
+2026-03-21,21,3,2026,Viáticos Logística,Ruta valle 2,76200.0,Efectivo,,,variable,operacional,2026-03
+2026-03-21,21,3,2026,Adecuaciones Bodega,Materiales,50800.0,Efectivo,,,variable,operacional,2026-03
+2026-03-21,21,3,2026,Varios,Refrigerio dia del hombre,47700.0,Efectivo,,,variable,operacional,2026-03
+2026-03-21,21,3,2026,Viáticos Viajes Armenia,Almurezo,59000.0,Efectivo,,,variable,operacional,2026-03
+2026-03-22,22,3,2026,Viáticos Viajes Armenia,Domingo y lunes festivo alistamiento ruta florencia,557650.0,Efectivo,,,variable,operacional,2026-03
+2026-03-24,24,3,2026,Adecuaciones Bodega,Lamparas,170000.0,Efectivo,,,variable,operacional,2026-03
+2026-03-24,24,3,2026,Viáticos Logística,Descargue en duque giraldo,50000.0,Efectivo,,,variable,operacional,2026-03
+2026-03-25,25,3,2026,Viáticos Logística,Ruta pereira,82400.0,Efectivo,,,variable,operacional,2026-03
+2026-03-25,25,3,2026,Gastos Camión TJB331,Motor de arranque + escaner,160000.0,Efectivo,,,variable,operacional,2026-03
+2026-03-25,25,3,2026,Adecuaciones Bodega,Abono a electrico mano de obra luces ,150000.0,Efectivo,,,variable,operacional,2026-03
+2026-03-25,25,3,2026,Viajes Panamá,Tiquetes botero y pao,1613000.0,Efectivo,25 al 30 de marzo,,variable,costo_importacion,2026-03
+2026-03-25,25,3,2026,Viajes Panamá,Gastos,1021800.0,Efectivo,,,variable,costo_importacion,2026-03
+2026-03-25,25,3,2026,Viajes Panamá,Desayuno aero,65000.0,Efectivo,,,variable,costo_importacion,2026-03
+2026-03-25,25,3,2026,Viajes Panamá,Desayuno aero,57000.0,Efectivo,,,variable,costo_importacion,2026-03
+2026-03-27,27,3,2026,Gastos Camión TJB331,Escaner,60000.0,Efectivo,,,variable,operacional,2026-03
+2026-03-27,27,3,2026,Viáticos Logística,Ruta Manizales,138000.0,Efectivo,,,variable,operacional,2026-03
+2026-03-27,27,3,2026,Servicios Públicos,Internet,140000.0,Efectivo,,,fijo,operacional,2026-03
+2026-03-27,27,3,2026,Plan de Datos,James Sanchez,39900.0,Efectivo,,,fijo,operacional,2026-03
+2026-03-27,27,3,2026,Insumos Oficina,Toner impresora,47000.0,Efectivo,,,variable,operacional,2026-03
+2026-03-27,27,3,2026,Viáticos Vendedores,Viaje a cucuta y bucaramanga,780000.0,Efectivo,,,variable,operacional,2026-03
+2026-03-30,30,3,2026,Viáticos Logística,Ruta pereira,82400.0,Efectivo,,,variable,operacional,2026-03
+2026-03-30,30,3,2026,Viáticos Logística,Ruta florencia,290000.0,Efectivo,,,variable,operacional,2026-03
+2026-03-30,30,3,2026,Fletes Nacionales,Envio a cliente lorena gutierrez,26700.0,Efectivo,,,variable,operacional,2026-03
+2026-03-30,30,3,2026,Nomina,2da Quincena Marzo,3828000.0,Efectivo,15 al 31 de Marzo,,fijo,operacional,2026-03
+2026-03-30,30,3,2026,Contabilidad,Servicio contabilidad,1500000.0,Efectivo,,,fijo,operacional,2026-03
+2026-03-30,30,3,2026,Insumos Oficina,Contador billetes,280000.0,Efectivo,,,variable,operacional,2026-03
+2026-03-30,30,3,2026,Nomina,Horas extras eugenia domingo y lunes festivo alistamiento florencia,200000.0,Efectivo,,,fijo,operacional,2026-03
+2026-03-15,15,3,2026,Nomina,1er Quincena Marzo,12252102.0,Transferencia Cta Bancolombia,1 al 15 de Marzo,,fijo,operacional,2026-03
+2026-03-30,30,3,2026,Nomina,2da Quincena Marzo,12314100.0,Transferencia Cta Bancolombia,15 al 31 de Marzo,,fijo,operacional,2026-03
+2026-01-30,30,1,2026,Gasolina,"81,44 galones de diesel y 5 galones gasolina",993146.0,Transferencia Cta Bancolombia,Enero,,variable,operacional,2026-01
+2026-02-28,28,2,2026,Gasolina,"102,01 galones de diesel",1141515.0,Transferencia Cta Bancolombia,Febrero,,variable,operacional,2026-02
+2026-03-30,30,3,2026,4 x mil,Marzo,1837467.0,Transferencia Cta Bancolombia,,,variable,no_operacional,2026-03
+2026-03-30,30,3,2026,Varios,Certificado Camara,12100.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-03
+2026-03-30,30,3,2026,Varios,Renovacion Camara,1382600.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-03
+2026-03-30,30,3,2026,Adecuaciones Bodega,Materiales Electricos,874000.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-03
+2026-03-30,30,3,2026,Comisión Consignaciones CB,Marzo,810120.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-03
+2026-03-30,30,3,2026,Comisiones Swift,Giro coches,130031.0,Transferencia Cta Bancolombia,,,variable,costo_importacion,2026-03
+2026-02-28,28,2,2026,Gastos Camión TJB331,Gps,48681.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-02
+2026-03-30,30,3,2026,Gastos Camión TJB331,Gps,48778.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-03
+2026-03-30,30,3,2026,Servicio Pago a Proveedores,Marzo,87780.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-03
+2026-03-30,30,3,2026,Servicio Pago de Nómina,Marzo,71820.0,Transferencia Cta Bancolombia,,,fijo,operacional,2026-03
+2026-03-30,30,3,2026,Cuota de Manejo,Marzo,44700.0,Transferencia Cta Bancolombia,,,fijo,operacional,2026-03
+2026-03-30,30,3,2026,Servicio Pago a Otros Bancos,Marzo,30360.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-03
+2026-03-30,30,3,2026,Servicios Pago a Nequi,Marzo,23940.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-03
+2026-03-30,30,3,2026,Servicio Transferencia Virtual,Marzo,7590.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-03
+2026-03-30,30,3,2026,Planilla salud y pensión,Marzo,5699400.0,Transferencia Cta Bancolombia,pendiente de pagar,,fijo,operacional,2026-03
+2026-03-30,30,3,2026,Arriendos,Bodega,2380000.0,Transferencia Cta Bancolombia,15 al 31 de Marzo,,fijo,operacional,2026-03
+2026-04-15,15,4,2026,Arriendos,Bodega,2380000.0,Transferencia Cta Bancolombia,1 al 15 de Abril,,fijo,operacional,2026-04
+2026-03-30,30,3,2026,Arriendos,Bodega,2455000.0,Efectivo,15 al 31 de Marzo,,fijo,operacional,2026-03
+2026-04-01,1,4,2026,Arriendos,Bodega,2455000.0,Efectivo,1 al 15 de Abril,,fijo,operacional,2026-04
+2026-01-30,30,1,2026,Comisiones a Vendedores,James Sanchez,36825.0,Efectivo,Venta Enero Pagada en Abril,,variable,operacional,2026-01
+2026-01-30,30,1,2026,Comisiones a Vendedores,John Fredy Gonzales,234772.0,Efectivo,Venta Enero Pagada en Abril,,variable,operacional,2026-01
+2026-02-28,28,2,2026,Comisiones a Vendedores,James Sanchez,430868.0,Efectivo,Venta Febrero Pagada en Abril,,variable,operacional,2026-02
+2026-02-28,28,2,2026,Comisiones a Vendedores,John Fredy Gonzales,515416.0,Efectivo,Venta Febrero Pagada en Abril,,variable,operacional,2026-02
+2026-02-28,28,2,2026,Comisiones a Vendedores,Eugenia Torres,248134.0,Efectivo,Venta Febrero Pagada en Abril,,variable,operacional,2026-02
+2026-03-31,31,3,2026,Comisiones a Vendedores,James Sanchez,1265620.0,Efectivo,Venta Marzo Pagada en Abril,,variable,operacional,2026-03
+2026-03-31,31,3,2026,Comisiones a Vendedores,John Fredy Gonzales,158225.0,Efectivo,Venta Marzo Pagada en Abril,,variable,operacional,2026-03
+2026-03-31,31,3,2026,Comisiones a Vendedores,Eugenia Torres,79466.0,Efectivo,Venta Marzo Pagada en Abril,,variable,operacional,2026-03
+2026-01-30,30,1,2026,Servicios Públicos,Energia,1009500.0,Efectivo,Enero,,fijo,operacional,2026-01
+2026-02-28,28,2,2026,Servicios Públicos,Energia,1009500.0,Efectivo,Febrero,,fijo,operacional,2026-02
+2026-03-30,30,3,2026,Gasolina,"110,88 galones de diesel",1240692.0,Transferencia Cta Bancolombia,Marzo. Pendiente por pagar,,variable,operacional,2026-03
+2026-01-30,30,1,2026,Viáticos Vendedores,John Fredy Gonzales,1784000.0,Efectivo,Enero,,variable,operacional,2026-01
+2026-02-28,28,2,2026,Viáticos Vendedores,John Fredy Gonzales,888500.0,Efectivo,Febrero,,variable,operacional,2026-02
+2026-03-30,30,3,2026,Viáticos Vendedores,John Fredy Gonzales,1639400.0,Efectivo,Marzo,,variable,operacional,2026-03
+2026-01-30,30,1,2026,Plan de Datos,John Fredy Gonzales,41800.0,Efectivo,Enero,,fijo,operacional,2026-01
+2026-02-28,28,2,2026,Plan de Datos,John Fredy Gonzales,41700.0,Efectivo,Febrero,,fijo,operacional,2026-02
+2026-01-30,30,1,2026,Plan de Datos,John Fredy Gonzales,41800.0,Efectivo,Marzo,,fijo,operacional,2026-01
+2026-04-01,1,4,2026,Aseo,Limpido y varsol,9900.0,Efectivo,,,variable,operacional,2026-04
+2026-03-30,30,3,2026,Nomina,Conductor en prueba,536667.0,Efectivo,15 al 28 de Marzo,,fijo,operacional,2026-03
+2026-04-01,1,4,2026,Adecuaciones Bodega,Transporte compra tubos,50000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-01,1,4,2026,Adecuaciones Bodega,Compra tubos para baranda mezanine,138000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-02,2,4,2026,Intereses,cuota intereses jeison,5000000.0,Efectivo,,,variable,no_operacional,2026-04
+2026-04-02,2,4,2026,Fletes Nacionales,"Envio 16 cajas baby gold, 40 cajas a toby sas",224000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-04,4,4,2026,Viáticos Logística,Ruta cartago,40000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-04,4,4,2026,Adecuaciones Bodega,Mano de obra instalaciones electricas mezanine,550000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-07,7,4,2026,Viáticos Logística,Ruta ibague,106000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-07,7,4,2026,Viáticos Logística,Ruta pereira,82400.0,Efectivo,,,variable,operacional,2026-04
+2026-04-07,7,4,2026,Fletes Nacionales,Envio pedidos cucuta,800000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-07,7,4,2026,Fletes Nacionales,Envia a cliente mirian timaran,149900.0,Efectivo,,,variable,operacional,2026-04
+2026-04-09,9,4,2026,Viáticos Logística,Ruta ibague 2,66000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-09,9,4,2026,Varios,Aguas oficina,28200.0,Efectivo,,,variable,operacional,2026-04
+2026-04-09,9,4,2026,Insumos Bodega,Bolsas de empaque,140000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-09,9,4,2026,Viáticos Vendedores,james sanchez montenegro,56000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-09,9,4,2026,Viáticos Vendedores,james sanchez manizales,43000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-09,9,4,2026,Viáticos Vendedores,james sanchez valle,39000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-09,9,4,2026,Viáticos Vendedores,james sanchez cartago,29000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-09,9,4,2026,Viáticos Vendedores,james sanchez chinchina,39000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-11,11,4,2026,Fletes Nacionales,envio a cliente supermoda cordoba,525000.0,Efectivo,Jaime sanchez,,variable,operacional,2026-04
+2026-04-30,30,4,2026,4 x mil,Abril,2101257.0,Transferencia Cta Bancolombia,,,variable,no_operacional,2026-04
+2026-04-30,30,4,2026,Comisión Consignaciones CB,Abril,894900.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-04
+2026-04-30,30,4,2026,Servicio Pago a Proveedores,Abril,127680.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-04
+2026-04-30,30,4,2026,Gastos Camión TJB331,Gps,48746.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-04
+2026-04-30,30,4,2026,Cuota de Manejo,Abril,44700.0,Transferencia Cta Bancolombia,,,fijo,operacional,2026-04
+2026-04-30,30,4,2026,Servicio Pago de Nómina,Abril,35910.0,Transferencia Cta Bancolombia,,,fijo,operacional,2026-04
+2026-04-30,30,4,2026,Varios,Certificado Camara,12100.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-04
+2026-04-30,30,4,2026,Servicios Pago a Nequi,Abril,11970.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-04
+2026-04-30,30,4,2026,Servicio Pago a Otros Bancos,Abril,7590.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-04
+2026-04-30,30,4,2026,Servicio Transferencia Virtual,Abril,7590.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-04
+2026-04-30,30,4,2026,Nomina,Liquidacion Cristian,396354.0,Transferencia Cta Bancolombia,,,fijo,operacional,2026-04
+2026-04-30,30,4,2026,Nomina,2da Quincena Abril,11359226.0,Transferencia Cta Bancolombia,,,fijo,operacional,2026-04
+2026-04-15,15,4,2026,Nomina,1er Quincena Abril,11384136.0,Transferencia Cta Bancolombia,,,fijo,operacional,2026-04
+2026-04-30,30,4,2026,Arriendos,Bodega,2380000.0,Transferencia Cta Bancolombia,15 al 30 de Abril,,fijo,operacional,2026-04
+2026-05-01,1,5,2026,Arriendos,Bodega,2380000.0,Transferencia Cta Bancolombia,1 al 15 de Mayo,,fijo,operacional,2026-05
+2026-04-11,11,4,2026,Varios,Parqueadero camion en cali,50000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-11,11,4,2026,Fletes Nacionales,Envio pedido Santiago Martinez,160000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-11,11,4,2026,Fletes Nacionales,Envio pedido Mundo de Laura ,32000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-13,13,4,2026,Viáticos Logística,Ruta pereira,122400.0,Efectivo,,,variable,operacional,2026-04
+2026-04-13,13,4,2026,Viáticos Logística,"Ruta girardot, guamo, espinal",149200.0,Efectivo,,,variable,operacional,2026-04
+2026-04-13,13,4,2026,Varios,"Almuerzo botero, Yurgen, pao",108000.0,Efectivo,Reunión Dimark ,,variable,operacional,2026-04
+2026-04-13,13,4,2026,Insumos Oficina,Aseo,45300.0,Efectivo,,,variable,operacional,2026-04
+2026-04-13,13,4,2026,Varios,Refrigerio cargue occidente ,47700.0,Efectivo,,,variable,operacional,2026-04
+2026-04-13,13,4,2026,Gastos Camión TJB331,"Juego de chapas, silicona, grasa ",348000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-13,13,4,2026,Gastos Camión TJB331,Bajada de rodamiento ,175000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-13,13,4,2026,Adecuaciones Bodega,Soldador baranda mezanine,400000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-13,13,4,2026,Adecuaciones Bodega,Materiales soldadore baranda mezanine,190000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-14,14,4,2026,Viáticos Viajes Armenia,Peajes ,100000.0,Efectivo,Reunión Dimark ( Carro Yurgen),,variable,operacional,2026-04
+2026-04-15,15,4,2026,Arriendos,Bodega,2455000.0,Efectivo,15 al 30 de Abril,,fijo,operacional,2026-04
+2026-05-01,1,5,2026,Arriendos,Bodega,2455000.0,Efectivo,1 al 15 de Mayo ,,fijo,operacional,2026-05
+2026-04-15,15,4,2026,Nomina,Juan David ,603000.0,Efectivo,9 Dias trabajados antes de formalizarlo ( 6-15 Abril),,fijo,operacional,2026-04
+2026-04-15,15,4,2026,Viajes China,"China -Tramite Visa Pao, Bote ",2016000.0,Efectivo,Viaje 28 Abril al 16 Mayo ,,variable,costo_importacion,2026-04
+2026-04-15,15,4,2026,Nomina,1er Quincena Abril,3828000.0,Efectivo,1 al 15 de Abril ,,fijo,operacional,2026-04
+2026-04-15,15,4,2026,Varios,"Almuerzo botero, pao",83500.0,Efectivo,,,variable,operacional,2026-04
+2026-04-15,15,4,2026,Varios,Almuerzo cumpleaños eugenia,16000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-15,15,4,2026,Varios,Refrigerio descargue contenedor china,55300.0,Efectivo,,,variable,operacional,2026-04
+2026-04-15,15,4,2026,Viáticos Logística,Ruta occidente,264400.0,Efectivo,,,variable,operacional,2026-04
+2026-03-15,15,3,2026,Servicios Públicos,Agua,54300.0,Efectivo,Marzo,,fijo,operacional,2026-03
+2026-04-17,17,4,2026,Viáticos Vendedores,James Sanchez Alcala - quimbaya ,28000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-17,17,4,2026,Viáticos Vendedores,James Sanchez Cartago,29000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-17,17,4,2026,Fletes Nacionales,Envio Mercancia New York ,30000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-17,17,4,2026,Viáticos Logística,Ruta cartago,40000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-17,17,4,2026,Viáticos Logística,Parqueadero moto descargue cigüeña,2600.0,Efectivo,,,variable,operacional,2026-04
+2026-04-17,17,4,2026,Gastos Camión TJB331,Compra de Filtros ,174000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-20,20,4,2026,Viáticos Viajes Armenia,Gasolina peajes ,290000.0,Efectivo,"Reunión socios ( Saulo,hugo,jose,rubelio, jaime)",,variable,operacional,2026-04
+2026-04-20,20,4,2026,Viáticos Viajes Armenia,Desayuno Socios ,196000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-20,20,4,2026,Viáticos Viajes Armenia,"Comida pao, bote y jaime ",112000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-20,20,4,2026,Adecuaciones Bodega,Gestion Alirio-baranda mezanine,60000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-21,21,4,2026,Viáticos Logística,Ruta Pereira + Despinchada,152400.0,Efectivo,,,variable,operacional,2026-04
+2026-04-21,21,4,2026,Insumos Oficina,Aguas y gaseosas,43500.0,Efectivo,,,variable,operacional,2026-04
+2026-04-21,21,4,2026,Viáticos Viajes Armenia,"Almuerzo pao, bote ",59000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-21,21,4,2026,Viáticos Logística,Multa,154450.0,Efectivo,,,variable,operacional,2026-04
+2026-04-22,22,4,2026,Viajes China,China -Tiquetes Los Angeles Pao y Bote,4271740.0,Efectivo,Viaje 28 Abril al 16 Mayo ,,variable,costo_importacion,2026-04
+2026-04-22,22,4,2026,Viáticos Vendedores,Tiquetes cucuta-bucaramanga Jaime ,190110.0,Efectivo,Marzo,,variable,operacional,2026-04
+2026-04-22,22,4,2026,Viáticos Vendedores,Tiquetes Medellin Jaime ,275880.0,Efectivo,Marzo,,variable,operacional,2026-04
+2026-04-23,23,4,2026,Viáticos Logística,Ruta Dorada-Puerto Boyaca-Mariquita,442000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-23,23,4,2026,Viáticos Logística,Ruta valle 1 Tulua-Buga-Zarzal-Paila ,126000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-23,23,4,2026,Fletes Locales,Praktiplas Recogida por Octavio,60000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-23,23,4,2026,Viáticos Vendedores,James Sanchez Valle,49000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-24,24,4,2026,Fletes Nacionales,Pedido praktiplas leo,200000.0,Efectivo,Cali-Armenia,,variable,operacional,2026-04
+2026-04-24,24,4,2026,Fletes Nacionales,Pedido praktiplas leo,320000.0,Efectivo,Armenia -Cali,,variable,operacional,2026-04
+2026-04-24,24,4,2026,Viáticos Logística,Ruta valle 2 Roldanillo-union-toro ,56200.0,Efectivo,,,variable,operacional,2026-04
+2026-04-27,27,4,2026,Viáticos Logística,Ruta Pereira ,82400.0,Efectivo,,,variable,operacional,2026-04
+2026-04-27,27,4,2026,Varios,Almuerzo Damaris group family,17000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-27,27,4,2026,Fletes Nacionales,Envio Aura Cristina Rubio,30000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-27,27,4,2026,Gastos Camión TJB331,Liquido para prender el camión,16000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-30,30,4,2026,Nomina,Juan David ,930000.0,Efectivo,9 Dias trabajados antes de formalizarlo ( 15-30 Abril),,fijo,operacional,2026-04
+2026-04-30,30,4,2026,Fletes Nacionales,Envio Villa del Rosario Cucuta,350000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-30,30,4,2026,Nomina,2da Quincena Abril,3828000.0,Efectivo,15 al 30 de Abril ,,fijo,operacional,2026-04
+2026-04-30,30,4,2026,Servicios Públicos,Internet,50800.0,Efectivo,,,fijo,operacional,2026-04
+2026-04-30,30,4,2026,Plan de Datos,Celular James,39900.0,Efectivo,,,fijo,operacional,2026-04
+2026-04-30,30,4,2026,Viáticos Logística,Ruta fresno-villa maria ,228000.0,Efectivo,,,variable,operacional,2026-04
+2026-05-02,2,5,2026,Viáticos Vendedores,James Sanchez Alcala - quimbaya ,28000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-02,2,5,2026,Viáticos Vendedores,James Sanchez Cartago,29000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-02,2,5,2026,Viáticos Vendedores,james sanchez manizales,38000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-02,2,5,2026,Viáticos Logística,Ruta Cartago,40000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-02,2,5,2026,Fletes Nacionales,Envio Mundo de los bebes Medellin,36000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-02,2,5,2026,Viáticos Logística,Ruta Manizales,178000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-04,4,5,2026,Viáticos Logística,Ruta Pereira,122400.0,Efectivo,,,variable,operacional,2026-05
+2026-04-30,30,4,2026,Comisiones a Vendedores,James Sanchez,1382863.0,Efectivo,Ventas Abril Pagada en Mayo ,,variable,operacional,2026-04
+2026-04-30,30,4,2026,Comisiones a Vendedores,Jhon,113839.0,Efectivo,Ventas Abril Pagada en Mayo ,,variable,operacional,2026-04
+2026-04-30,30,4,2026,Comisiones a Vendedores,Eugenia Torres,148612.0,Efectivo,Ventas Abril Pagada en Mayo ,,variable,operacional,2026-04
+2026-03-30,30,3,2026,Comisiones a Vendedores,James Sanchez,1085297.0,Efectivo,Ventas Marzo Pagada en Mayo ,,variable,operacional,2026-03
+2026-03-30,30,3,2026,Comisiones a Vendedores,Jhon,1409149.0,Efectivo,Ventas Marzo Pagada en Mayo ,,variable,operacional,2026-03
+2026-03-30,30,3,2026,Comisiones a Vendedores,Eugenia Torres,244739.0,Efectivo,Ventas Marzo Pagada en Mayo ,,variable,operacional,2026-03
+2026-04-30,30,4,2026,Planilla salud y pensión,,5266900.0,Transferencia Cta Bancolombia,Abril,,fijo,operacional,2026-04
+2026-04-30,30,4,2026,Contabilidad,Servicio contabilidad,1500000.0,Efectivo,,,fijo,operacional,2026-04
+2026-04-30,30,4,2026,Gastos Camión SQD932,"Frenos,reten,cardan",1257000.0,Efectivo,,,variable,operacional,2026-04
+2026-04-30,30,4,2026,Gasolina,"131 galones de diesel /1,68 galones de gasolina",1509553.0,Transferencia Cta Bancolombia,Abril ,,variable,operacional,2026-04
+2026-05-02,2,5,2026,Intereses,cuota intereses jeison,5000000.0,Efectivo,,,variable,no_operacional,2026-05
+2026-05-02,2,5,2026,Viáticos Logística,Ruta Cartago,40000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-02,2,5,2026,Viáticos Logística,Ruta Manizales ,178000.0,Efectivo,Rura del 30 Abril ,,variable,operacional,2026-05
+2026-05-02,2,5,2026,Fletes Nacionales,Envio Mundo de los bebes Medellin,36000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-04,4,5,2026,Viáticos Logística,Ruta Pereira,122400.0,Efectivo,,,variable,operacional,2026-05
+2026-05-05,5,5,2026,Fletes Nacionales,Envio Supermoda Cordoba ,93500.0,Efectivo,,,variable,operacional,2026-05
+2026-05-05,5,5,2026,Viáticos Logística,Parqueadero moto descargue cigüeña,2400.0,Efectivo,,,variable,operacional,2026-05
+2026-05-05,5,5,2026,Fletes Locales,Flete Plastico coches,38700.0,Efectivo,,,variable,operacional,2026-05
+2026-05-05,5,5,2026,Viáticos Vendedores,James Sanchez Valle,49000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-07,7,5,2026,Dotación,Botas Juan David ,76000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-12,12,5,2026,Viáticos Logística,Ruta Pereira,82400.0,Efectivo,,,variable,operacional,2026-05
+2026-05-12,12,5,2026,Viáticos Logística,Ruta Pitalito-popayan ,834600.0,Efectivo,,,variable,operacional,2026-05
+2026-05-12,12,5,2026,Gastos Camión TJB331,Tensión de frenos,30000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-05,5,5,2026,Viáticos Logística,"Ruta florencia, pitalito, garzon, gigante…",3000000.0,Efectivo,Conductor Ferney ,,variable,operacional,2026-05
+2026-05-11,11,5,2026,Arriendos,Bodega,2455000.0,Efectivo,15 al 30 de Mayo ,,fijo,operacional,2026-05
+2026-06-01,1,6,2026,Arriendos,Bodega,2455000.0,Efectivo,1 al 15 de Junio,,fijo,operacional,2026-06
+2026-04-11,11,4,2026,Servicios Públicos,Agua,52750.0,Efectivo,Abril,,fijo,operacional,2026-04
+2026-03-11,11,3,2026,Servicios Públicos,Energia,981800.0,Efectivo,Marzo,,fijo,operacional,2026-03
+2026-04-11,11,4,2026,Servicios Públicos,Energia,981800.0,Efectivo,Abril,,fijo,operacional,2026-04
+2026-05-12,12,5,2026,Varios,Favor recogida de plata en armenia - Suegro Yurgen,200000.0,Efectivo,Plata para Contenedor ,,variable,operacional,2026-05
+2026-05-15,15,5,2026,Viáticos Vendedores,James Sanchez La virginia,13000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-15,15,5,2026,Viáticos Vendedores,James Sanchez Alcala - quimbaya ,28000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-15,15,5,2026,Viáticos Vendedores,James Sanchez Valle,54000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-15,15,5,2026,Viáticos Vendedores,James Sanchez Cartago,13000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-15,15,5,2026,Nomina,1er Quincena Mayo ,3828000.0,Efectivo,1 al 15 de Mayo ,3678.0,fijo,operacional,2026-05
+2026-05-15,15,5,2026,Fletes Nacionales,Pedidos La Hormiga-mocoa ( Putumayo),1000000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-15,15,5,2026,Viáticos Logística,Ruta Cartago,40000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-19,19,5,2026,Varios,Almuerzo cumpleaños Juan David,17000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-19,19,5,2026,Gastos Camión TJB331,Compra de liquido para encendido ,16000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-19,19,5,2026,Viáticos Logística,Ruta Pereira,85700.0,Efectivo,,,variable,operacional,2026-05
+2026-05-20,20,5,2026,Viáticos Logística,Ruta Valle,56200.0,Efectivo,,,variable,operacional,2026-05
+2026-05-20,20,5,2026,Viáticos Logística,Ruta florencia Jovanny ,280000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-20,20,5,2026,Gastos Camión SQD932,Multa Soat - Tecno ( Grua),1916000.0,Efectivo,Se cancela por solicitud de Diana - No dio espera para apelar ,,variable,operacional,2026-05
+2026-05-20,20,5,2026,Gastos Camión SQD932,"Reparaciones turbo, rodamientos, alternador",1384000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-20,20,5,2026,Fletes Nacionales,Envio de 80 cajas Happy a Medellin,320000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-20,20,5,2026,Varios,Inscripcion seguridad social Juan David,50000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-21,21,5,2026,Descuentos por Actividades,Descuento a group family actividad,238741.0,Efectivo,,,variable,operacional,2026-05
+2026-05-21,21,5,2026,Fletes Nacionales,Envio Mundo de los bebes Medellin,33000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-22,22,5,2026,Viáticos Vendedores,James Sanchez La virginia,29000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-22,22,5,2026,Varios,Almuerzo cumpleaños Jovanny,17000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-22,22,5,2026,Viáticos Logística,Ruta Ibague,83100.0,Efectivo,,,variable,operacional,2026-05
+2026-05-23,23,5,2026,Insumos Bodega,Resma y Silicona ,139000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-25,25,5,2026,Fletes Nacionales,Pedido praktiplas leo ,650000.0,Efectivo,Cali-Armenia / Armenia - Cali ,,variable,operacional,2026-05
+2026-05-25,25,5,2026,Viáticos Vendedores,Viaje Medellin jaime,335000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-26,26,5,2026,Insumos Oficina,Aguas y gaseosas,44700.0,Efectivo,,,variable,operacional,2026-05
+2026-05-26,26,5,2026,Viáticos Logística,Ruta Espinal-Ibague,116600.0,Efectivo,,,variable,operacional,2026-05
+2026-05-26,26,5,2026,Viáticos Logística,Ruta Pereira,82400.0,Efectivo,,,variable,operacional,2026-05
+2026-05-26,26,5,2026,Viáticos Viajes Armenia,Peajes + Gasolina,294000.0,Efectivo,Inventario Bodega 26-29 Mayo ,,variable,operacional,2026-05
+2026-05-26,26,5,2026,Viáticos Viajes Armenia,"Almuerzos Jaime , Botero y Pao ",204600.0,Efectivo,Inventario Bodega 26-29 Mayo ,,variable,operacional,2026-05
+2026-05-26,26,5,2026,Viáticos Viajes Armenia,"Comidas Jaime , Botero y Pao ",217900.0,Efectivo,Inventario Bodega 26-29 Mayo ,,variable,operacional,2026-05
+2026-05-26,26,5,2026,Viáticos Viajes Armenia,"Hospedaje Jaime , Botero y Pao ",380000.0,Efectivo,Inventario Bodega 26-29 Mayo ,,variable,operacional,2026-05
+2026-05-26,26,5,2026,Gastos Camión SQD932,"Cruzeta, Copas,Gato ",280000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-26,26,5,2026,Viáticos Logística,Entrega - Popayan ( Octavio),100000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-26,26,5,2026,Gastos Camión SQD932,Diesel ,100000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-28,28,5,2026,Viáticos Logística,Ruta Neiva,497700.0,Efectivo,,,variable,operacional,2026-05
+2026-05-28,28,5,2026,Gastos Camión TJB331,Arreglo de luces,50000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-29,29,5,2026,Nomina,2da Quincena Mayo ,3828000.0,Efectivo,15 al 30 de Mayo ,,fijo,operacional,2026-05
+2026-05-30,30,5,2026,Viáticos Vendedores,Correria en la costa - Jaime ,913000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-30,30,5,2026,Impuesto Renta,Renta 2025,528000.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-05
+2026-05-30,30,5,2026,Arriendos,Bodega,2380000.0,Transferencia Cta Bancolombia,15 al 30 de Mayo ,,fijo,operacional,2026-05
+2026-06-01,1,6,2026,Arriendos,Bodega,2380000.0,Transferencia Cta Bancolombia,1 al 15 de Junio,,fijo,operacional,2026-06
+2026-05-30,30,5,2026,Impuesto Ica,Ica 2025,3155000.0,Transferencia Cta Bancolombia,,,variable,no_operacional,2026-05
+2026-05-15,15,5,2026,Nomina,1er Quincena Mayo ,12314097.0,Transferencia Cta Bancolombia,,,fijo,operacional,2026-05
+2026-05-30,30,5,2026,Nomina,2da Quincena Mayo ,12314097.0,Transferencia Cta Bancolombia,,,fijo,operacional,2026-05
+2026-05-30,30,5,2026,4 x mil,Mayo,2111607.0,Transferencia Cta Bancolombia,,,variable,no_operacional,2026-05
+2026-05-30,30,5,2026,Comisión Consignaciones CB,Mayo,1111560.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-05
+2026-05-30,30,5,2026,Comisiones Swift,Mayo,131027.0,Transferencia Cta Bancolombia,,,variable,costo_importacion,2026-05
+2026-05-30,30,5,2026,Servicio Pago a Proveedores,Mayo,107730.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-05
+2026-05-30,30,5,2026,Servicio Pago de Nómina,Mayo,75810.0,Transferencia Cta Bancolombia,,,fijo,operacional,2026-05
+2026-05-30,30,5,2026,Varios,Gps ,48681.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-05
+2026-05-30,30,5,2026,Cuota de Manejo,Mayo,44700.0,Transferencia Cta Bancolombia,,,fijo,operacional,2026-05
+2026-05-30,30,5,2026,Servicio Pago a Otros Bancos,Mayo,22770.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-05
+2026-05-30,30,5,2026,Varios,Certificado Camara,12100.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-05
+2026-05-30,30,5,2026,Servicios Pago a Nequi,Mayo,11970.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-05
+2026-05-30,30,5,2026,Servicio Transferencia Virtual,Mayo,7590.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-05
+2026-01-30,30,1,2026,Autorretención,Enero,2639000.0,Transferencia Cta Bancolombia,,,variable,no_operacional,2026-01
+2026-02-28,28,2,2026,Autorretención,Febrero,2693000.0,Transferencia Cta Bancolombia,,,variable,no_operacional,2026-02
+2026-03-30,30,3,2026,Autorretención,Marzo,3235000.0,Transferencia Cta Bancolombia,,,variable,no_operacional,2026-03
+2026-04-30,30,4,2026,Autorretención,Abril,3358000.0,Transferencia Cta Bancolombia,,,variable,no_operacional,2026-04
+2026-05-26,26,5,2026,Registros Marca,Verificacion marca nubu,404084.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-05
+2026-05-30,30,5,2026,Planilla salud y pensión,Mayo,5704200.0,Transferencia Cta Bancolombia,,,fijo,operacional,2026-05
+2026-05-30,30,5,2026,Comisiones a Vendedores,James Sanchez,1005208.0,Efectivo,Ventas Mayo Pagada en Junio,,variable,operacional,2026-05
+2026-05-30,30,5,2026,Comisiones a Vendedores,John Fredy Gonzales,675175.0,Efectivo,Ventas Mayo Pagada en Junio,,variable,operacional,2026-05
+2026-05-30,30,5,2026,Comisiones a Vendedores,Eugenia Torres,120978.0,Efectivo,Ventas Mayo Pagada en Junio,,variable,operacional,2026-05
+2026-04-30,30,4,2026,Comisiones a Vendedores,James Sanchez,1207577.0,Efectivo,Ventas Abril Pagada en Junio,,variable,operacional,2026-04
+2026-04-30,30,4,2026,Comisiones a Vendedores,John Fredy Gonzales,804754.0,Efectivo,Ventas Abril Pagada en Junio,,variable,operacional,2026-04
+2026-04-30,30,4,2026,Comisiones a Vendedores,Eugenia Torres,59581.0,Efectivo,Ventas Abril Pagada en Junio,,variable,operacional,2026-04
+2026-03-30,30,3,2026,Comisiones a Vendedores,John Fredy Gonzales,197159.0,Efectivo,Ventas Marzo Pagada en Junio,,variable,operacional,2026-03
+2026-03-30,30,3,2026,Comisiones a Vendedores,Eugenia Torres,105902.0,Efectivo,Ventas Marzo Pagada en Junio,,variable,operacional,2026-03
+2026-05-30,30,5,2026,Gasolina,"110,9 galones de diesel/2,17 galones de gasolina",1306026.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-05
+2026-05-30,30,5,2026,Autorretención,Mayo,2434000.0,Transferencia Cta Bancolombia,,,variable,no_operacional,2026-05
+2026-07-01,1,7,2026,Arriendos,Bodega,2651400.0,Efectivo,1 al 15 de Julio,,fijo,operacional,2026-07
+2026-06-01,1,6,2026,Arriendos,Bodega,2651400.0,Efectivo,15 al 30 de Junio,,fijo,operacional,2026-06
+2026-06-01,1,6,2026,Intereses,cuota intereses jeison,5000000.0,Efectivo,,,variable,no_operacional,2026-06
+2026-05-29,29,5,2026,Viáticos Viajes Armenia,"Almuerzo botero , jaime y pao ",83500.0,Efectivo,Inventario Bodega 26-29 Mayo ,,variable,operacional,2026-05
+2026-05-01,1,5,2026,Servicios Públicos,Internet,56420.0,Efectivo,,,fijo,operacional,2026-05
+2026-06-01,1,6,2026,Plan de Datos,Celular James,39900.0,Efectivo,,,fijo,operacional,2026-06
+2026-06-03,3,6,2026,Viáticos Logística,Ruta Cartago,40000.0,Efectivo,,,variable,operacional,2026-06
+2026-06-03,3,6,2026,Viáticos Logística,Ruta medellin,711800.0,Efectivo,,,variable,operacional,2026-06
+2026-06-03,3,6,2026,Insumos Bodega,Bolsas empaque accesorios,120000.0,Efectivo,,,variable,operacional,2026-06
+2026-06-05,5,6,2026,Viáticos Logística,Ruta occidente,274400.0,Efectivo,,,variable,operacional,2026-06
+2026-06-07,7,6,2026,Varios,Descargue contenedor panama,360000.0,Efectivo,Domingo 7 Junio ( Horas Extras),,variable,operacional,2026-06
+2026-06-10,10,6,2026,Viáticos Logística,Ruta Manizales ,208000.0,Efectivo,,,variable,operacional,2026-06
+2026-06-10,10,6,2026,Viáticos Logística,Ruta pereira,122400.0,Efectivo,,,variable,operacional,2026-06
+2026-06-10,10,6,2026,Varios,Almuerzo cumpleaños Fernando ,17000.0,Efectivo,,,variable,operacional,2026-06
+2026-06-11,11,6,2026,Fletes Nacionales,Cliente Cucuta - Pamplona ,550000.0,Efectivo,,,variable,operacional,2026-06
+2026-06-11,11,6,2026,Insumos Bodega,Estibas plasticas,240000.0,Efectivo,,,variable,operacional,2026-06
+2026-06-11,11,6,2026,Viáticos Logística,Ruta Ibague ,103100.0,Efectivo,,,variable,operacional,2026-06
+2026-06-12,12,6,2026,Viáticos Logística,Ruta Cartago ,40000.0,Efectivo,,,variable,operacional,2026-06
+2026-06-12,12,6,2026,Insumos Bodega,Bolsas empaque accesorios,361000.0,Efectivo,,,variable,operacional,2026-06
+2026-06-12,12,6,2026,Insumos Bodega,Jabon Fab+ Limpido,13950.0,Efectivo,,,variable,operacional,2026-06
+2026-06-12,12,6,2026,Gastos Camión TJB331,Revision electrico + Tornillos sueltos,250000.0,Efectivo,,,variable,operacional,2026-06
+2026-06-10,10,6,2026,Viáticos Vendedores,James Sanchez Montenegro,28000.0,Efectivo,,,variable,operacional,2026-06
+2026-06-11,11,6,2026,Viáticos Vendedores,James Sanchez Cartago,29000.0,Efectivo,,,variable,operacional,2026-06
+2026-05-25,25,5,2026,Viáticos Vendedores,James Sanchez Montenegro,28000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-27,27,5,2026,Viáticos Vendedores,James Sanchez Cartago,29000.0,Efectivo,,,variable,operacional,2026-05
+2026-05-26,26,5,2026,Viáticos Vendedores,James Sanchez Manizales,38000.0,Efectivo,,,variable,operacional,2026-05
+2026-06-13,13,6,2026,Varios,Cambio de aceite Moto,38000.0,Efectivo,,,variable,operacional,2026-06
+2026-06-13,13,6,2026,Gastos Camión TJB331,Liquido para prender el camión,15000.0,Efectivo,,,variable,operacional,2026-06
+2026-06-16,16,6,2026,Nomina,1er Quincena Junio ,3698000.0,Efectivo,1 al 15 de Junio,,fijo,operacional,2026-06
+2026-06-16,16,6,2026,Viáticos Logística,Ruta pereira,82400.0,Efectivo,,,variable,operacional,2026-06
+2026-06-17,17,6,2026,Gastos Camión TJB331,Revision Corto,30000.0,Efectivo,,,variable,operacional,2026-06
+2026-06-18,18,6,2026,Viáticos Logística,Ruta Valle 1,126000.0,Efectivo,,,variable,operacional,2026-06
+2026-06-03,3,6,2026,Intereses,cuota intereses jCamion Nuevo,1000000.0,Efectivo,,,variable,no_operacional,2026-06
+2026-06-05,5,6,2026,Varios,Envio pedido popayan ( octavio-SQD 932),120000.0,Efectivo,,,variable,operacional,2026-06
+2026-06-05,5,6,2026,Fletes Nacionales,Envio 30 cajas Happy Medellin,120000.0,Efectivo,,,variable,operacional,2026-06
+2026-06-05,5,6,2026,Varios,Parqueadero camion en cali,100000.0,Efectivo,,,variable,operacional,2026-06
+2026-06-09,9,6,2026,Gastos Camión SQD932,Papeles de traspaso a nombre de Global ,682000.0,Efectivo,,,variable,operacional,2026-06
+2026-06-09,9,6,2026,Gastos Camión SQD932,Beta - comision ,300000.0,Efectivo,,,variable,operacional,2026-06
+2026-06-10,10,6,2026,Dotación,Bordados Tipo Polo ,175000.0,Efectivo,,,variable,operacional,2026-06
+2026-06-12,12,6,2026,Fletes Nacionales,Pedido praktiplas leo ( Armenia - Cali ),360000.0,Efectivo,,,variable,operacional,2026-06
+2026-06-16,16,6,2026,Viáticos Vendedores,Auxilio Rodamiento Jaime Sanchez,400000.0,Efectivo,,,variable,operacional,2026-06
+2026-05-30,30,5,2026,Contabilidad,Servicio contabilidad,1500000.0,Efectivo,,,fijo,operacional,2026-05
+2026-06-16,16,6,2026,Gastos Camión SQD932,Papeles de traspaso a nombre nuevo propietario ,355000.0,Efectivo,,,variable,operacional,2026-06
+2026-06-18,18,6,2026,Viáticos Viajes Armenia,Peajes + Gasolina,350000.0,Efectivo,18-19 Junio Contenedor panama - reunion bivien- TQ- Praktiplas,,variable,operacional,2026-06
+2026-06-18,18,6,2026,Viáticos Viajes Armenia,Almuerzo Bote y pao ,57100.0,Efectivo,,,variable,operacional,2026-06
+2026-06-18,18,6,2026,Viáticos Viajes Armenia,"Comida pao, bote, wilson, jose",300000.0,Efectivo,,,variable,operacional,2026-06
+2026-06-19,19,6,2026,Viáticos Viajes Armenia,Comida pao y bote,69500.0,Efectivo,,,variable,operacional,2026-06
+2026-05-25,25,5,2026,Viáticos Vendedores,Medellin - Airbnb Jaime ,190643.0,Efectivo,,,variable,operacional,2026-05
+2026-05-25,25,5,2026,Viáticos Vendedores,Medellin - tiquete jaime ,419690.0,Efectivo,,,variable,operacional,2026-05
+2026-05-05,5,5,2026,Viajes China,Comidas,561328.0,Efectivo,Viaje 28 Abril al 16 Mayo ,,variable,costo_importacion,2026-05
+2026-05-05,5,5,2026,Viajes China,Alipay ( transporte + comida),140453.0,Efectivo,Viaje 28 Abril al 16 Mayo ,,variable,costo_importacion,2026-05
+2026-05-05,5,5,2026,Viajes China,Hotel los Angeles 14-15 Mayo ,650315.0,Efectivo,Viaje 28 Abril al 16 Mayo ,,variable,costo_importacion,2026-05
+2026-03-25,25,3,2026,Viajes Panamá,Hotel Marin Place ,565000.0,Efectivo,25 al 30 de marzo,,variable,costo_importacion,2026-03
+2026-05-26,26,5,2026,Viáticos Viajes Armenia,Gasolina,154798.0,Efectivo,Inventario Bodega 26-29 Mayo ,,variable,operacional,2026-05
+2026-06-22,22,6,2026,Varios,Inscripcion seguridad social Juan David,50000.0,Efectivo,Tere,,variable,operacional,2026-06
+2026-06-20,20,6,2026,Viáticos Logística,Ruta Valle 2 ,56200.0,Efectivo,,,variable,operacional,2026-06
+2026-06-20,20,6,2026,Gastos Camión TJB331,Direccionales,90000.0,Efectivo,,,variable,operacional,2026-06
+2026-06-30,30,6,2026,4 x mil,Junio,2003007.0,Transferencia Cta Bancolombia,,,variable,no_operacional,2026-06
+2026-06-30,30,6,2026,Comisión Consignaciones CB,Junio,640560.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-06
+2026-06-30,30,6,2026,Comisiones Swift,,122864.0,Transferencia Cta Bancolombia,,,variable,costo_importacion,2026-06
+2026-06-30,30,6,2026,Servicio Pago a Proveedores,Junio,99750.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-06
+2026-06-30,30,6,2026,Servicio Pago de Nómina,Junio,75810.0,Transferencia Cta Bancolombia,,,fijo,operacional,2026-06
+2026-06-30,30,6,2026,Cuota de Manejo,Junio,53640.0,Transferencia Cta Bancolombia,,,fijo,operacional,2026-06
+2026-06-30,30,6,2026,Servicios Pago a Nequi,Junio,15960.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-06
+2026-06-30,30,6,2026,Servicio Pago a Otros Bancos,Junio,15180.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-06
+2026-06-30,30,6,2026,Servicio Transferencia Virtual,Junio,7590.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-06
+2026-06-30,30,6,2026,Varios,Certificado Camara,12100.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-06
+2026-05-30,30,5,2026,Gastos Camión TJB331,Gps,48681.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-05
+2026-06-30,30,6,2026,Dotación,Polos,709400.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-06
+2026-06-30,30,6,2026,Gastos Camión TJB331,Soat,888400.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-06
+2026-06-15,15,6,2026,Nomina,1er Quincena Junio ,11384133.0,Transferencia Cta Bancolombia,1 al 15 de Junio,,fijo,operacional,2026-06
+2026-06-30,30,6,2026,Nomina,2da Quincena Junio,12500090.0,Transferencia Cta Bancolombia,15 al 30 de Junio,,fijo,operacional,2026-06
+2026-06-06,6,6,2026,Nomina,Primar 1er Semestre,11677320.0,Transferencia Cta Bancolombia,,,fijo,operacional,2026-06
+2026-06-01,1,6,2026,Nomina,Liquidacion Jorge Ivan Blandon,2225341.0,Transferencia Cta Bancolombia,,,fijo,operacional,2026-06
+2026-06-19,19,6,2026,Registros Marca,Resgistro Marca Nubu,2695676.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-06
+2026-06-15,15,6,2026,Arriendos,Bodega,2570400.0,Transferencia Cta Bancolombia,15 al 30 de Junio,,fijo,operacional,2026-06
+2026-07-01,1,7,2026,Arriendos,Bodega,2570400.0,Transferencia Cta Bancolombia,1 al 15 de Julio,,fijo,operacional,2026-07
+2026-06-30,30,6,2026,Viáticos Vendedores,Tiquete Medellin Jaime,448250.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-06
+2026-07-01,1,7,2026,Viáticos Vendedores,Tiquete Medellin Jaime,372690.0,Transferencia Cta Bancolombia,,,variable,operacional,2026-07
+2026-06-22,22,6,2026,Varios,Inscripcion seguridad social Luis Conductor,50000.0,Efectivo,,,variable,operacional,2026-06
+2026-06-23,23,6,2026,Viajes China,Gastos - Tarjeta Bote,5773000.0,Efectivo,Viaje 28 Abril al 16 Mayo ,,variable,costo_importacion,2026-06
+2026-06-24,24,6,2026,Dotación,Bordados camisetas,12000.0,Efectivo,,,variable,operacional,2026-06
+2026-06-24,24,6,2026,Servicios Públicos,Internet,56506.0,Efectivo,,,fijo,operacional,2026-06
+2026-06-30,30,6,2026,Comisiones a Vendedores,James Sanchez,1482020.0,Efectivo,Ventas Junio Pagada en Julio,,variable,operacional,2026-06
+2026-06-30,30,6,2026,Comisiones a Vendedores,John Fredy Gonzales,166279.0,Efectivo,Ventas Junio Pagada en Julio,,variable,operacional,2026-06
+2026-06-30,30,6,2026,Comisiones a Vendedores,Eugenia Torres,172158.0,Efectivo,Ventas Junio Pagada en Julio,,variable,operacional,2026-06
+2026-05-30,30,5,2026,Comisiones a Vendedores,James Sanchez,483878.0,Efectivo,Ventas Mayo Pagada en Julio,,variable,operacional,2026-05
+2026-05-30,30,5,2026,Comisiones a Vendedores,John Fredy Gonzales,562588.0,Efectivo,Ventas Mayo Pagada en Julio,,variable,operacional,2026-05
+2026-05-30,30,5,2026,Comisiones a Vendedores,Eugenia Torres,579562.0,Efectivo,Ventas Mayo Pagada en Julio,,variable,operacional,2026-05
+2026-04-30,30,4,2026,Comisiones a Vendedores,James Sanchez,181000.0,Efectivo,Ventas Abril Pagada en Julio,,variable,operacional,2026-04
+2026-04-30,30,4,2026,Comisiones a Vendedores,John Fredy Gonzales,121649.0,Efectivo,Ventas Abril Pagada en Julio,,variable,operacional,2026-04
+2026-06-30,30,6,2026,Contabilidad,Junio,1500000.0,Efectivo,,,fijo,operacional,2026-06
+2026-06-30,30,6,2026,Gasolina,"122,6 galones de diesel/3,81 galones de gasolina",1475677.0,Transferencia Cta Bancolombia,Junio,,variable,operacional,2026-06
+2026-06-30,30,6,2026,Nomina,2da Quincena Junio,3828000.0,Efectivo,15 al 30 de Junio,,fijo,operacional,2026-06
+2026-06-30,30,6,2026,Planilla salud y pensión,Junio,5546700.0,Transferencia Cta Bancolombia,,,fijo,operacional,2026-06
+2026-05-30,30,5,2026,Servicios Públicos,Mayo,512575.0,Efectivo,,,fijo,operacional,2026-05
+2026-06-30,30,6,2026,Servicios Públicos,Junio,512575.0,Efectivo,,,fijo,operacional,2026-06
+2026-06-30,30,6,2026,Autorretención,Junio,3393000.0,Transferencia Cta Bancolombia,,,variable,no_operacional,2026-06

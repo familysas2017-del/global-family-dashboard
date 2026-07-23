@@ -20,15 +20,16 @@ def render_sidebar_filters() -> dict[str, Any]:
     st.sidebar.title("Filtros")
     st.sidebar.markdown("---")
 
-    meses = get_available_anio_mes()
+    # Corte a partir de 2026 — nunca mostrar 2024/2025 aunque exista en algún CSV
+    meses = [m for m in get_available_anio_mes() if str(m) >= "2026-01"]
     cats  = get_available_categorias()
 
     if not meses:
-        st.sidebar.warning("No hay datos cargados aún. Ejecuta el pipeline primero.")
+        st.sidebar.warning("No hay datos 2026 cargados aún. Ejecuta el pipeline primero.")
         return {"anio_mes_inicio": None, "anio_mes_fin": None, "categorias": []}
 
     # Default: enero 2026 hasta el último mes disponible
-    default_ini = "2026-01" if "2026-01" in meses else meses[0]
+    default_ini = "2026-01"
     default_fin = meses[-1]
 
     if "flt_ini" not in st.session_state:

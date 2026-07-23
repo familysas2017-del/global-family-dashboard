@@ -33,7 +33,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 last_date = get_last_data_date()
-st.caption(f"📅 Datos actualizados al **{last_date}**")
+st.caption(f"📅 **Período:** Enero – Julio 2026 · Datos actualizados al **{last_date}**")
 
 # --- Sidebar filtros ---
 filters = render_sidebar_filters()
@@ -147,10 +147,10 @@ st.markdown("---")
 # ============================================================
 col1, col2 = st.columns([3, 2])
 with col1:
-    st.subheader("Ventas mensuales — últimos 12 meses")
+    st.subheader("Ventas mensuales 2026")
     vm_all = get_data("venta_mensual").sort_values("anio_mes")
-    ultimos_12 = vm_all.tail(12)
-    fig = line_chart(ultimos_12, x="anio_mes", y="venta_neta",
+    vm_2026 = vm_all[vm_all["anio_mes"].astype(str) >= "2026-01"]
+    fig = line_chart(vm_2026, x="anio_mes", y="venta_neta",
                      show_trend=True, height=360)
     st.plotly_chart(fig, use_container_width=True)
 
